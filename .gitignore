@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build outputs
+.next/
+**/.next/
+out/
+dist/
+
+# Large source PDFs & generated extraction outputs (regenerable via extract_pdf.py)
+pdfs/
+pdf_output/
+
+# Editors / OS
+.vscode/
+.history/
+.idea/
+.DS_Store
+*.swp
+
+# Local tool caches
+.opencode/
+.azure/.preview-temp/
+
+# Logs
+*.log
+npm-debug.log*

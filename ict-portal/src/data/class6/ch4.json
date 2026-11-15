@@ -1,0 +1,800 @@
+{
+  "id": "ch4",
+  "title": {
+    "en": "Basics of Internet",
+    "hi": "इंटरनेट की मूल बातें"
+  },
+  "class": 6,
+  "pages": "84-108",
+  "overview": {
+    "en": "Introduction to the internet, web browsers, URLs, search engines, email, and internet safety for students.",
+    "hi": "छात्रों के लिए इंटरनेट, वेब ब्राउज़र, URL, खोज इंजन, ईमेल और इंटरनेट सुरक्षा का परिचय।"
+  },
+  "sections": [
+    {
+      "id": "internet",
+      "title": {
+        "en": "What is the Internet?",
+        "hi": "इंटरनेट क्या है?"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "The Internet is a worldwide network that connects millions of computers, letting them share information.",
+          "hi": "इंटरनेट एक विश्वव्यापी नेटवर्क है जो लाखों कंप्यूटरों को जोड़ता है और सूचना साझा करने देता है।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "To use the internet we need a software application called a browser.",
+              "hi": "इंटरनेट उपयोग हेतु हमें ब्राउज़र नामक सॉफ्टवेयर एप्लिकेशन चाहिए।"
+            },
+            {
+              "en": "Before the internet, information came slowly from books and libraries; now it is instant.",
+              "hi": "पहले जानकारी किताबों-पुस्तकालयों से धीरे मिलती थी; अब तुरंत मिलती है।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "browser",
+      "title": {
+        "en": "Web Browser",
+        "hi": "वेब ब्राउज़र"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "A browser is a software application used to access the internet, e.g. Google Chrome.",
+          "hi": "ब्राउज़र इंटरनेट उपयोग हेतु सॉफ्टवेयर एप्लिकेशन है, जैसे Google Chrome।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Uses of a browser",
+            "hi": "ब्राउज़र के उपयोग"
+          },
+          "items": [
+            {
+              "en": "Finding information (e.g. famous monuments of India).",
+              "hi": "जानकारी ढूँढ़ना (जैसे भारत के प्रसिद्ध स्मारक)।"
+            },
+            {
+              "en": "Finding pictures, songs and videos.",
+              "hi": "चित्र, गाने, वीडियो ढूँढ़ना।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "searching",
+      "title": {
+        "en": "Searching on the Internet",
+        "hi": "इंटरनेट पर खोज"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Step 1",
+                "hi": "चरण 1"
+              },
+              "d": {
+                "en": "Type your topic or question in the search box - no need to memorise URLs.",
+                "hi": "सर्च बॉक्स में विषय/प्रश्न टाइप करें - URL याद रखने की ज़रूरत नहीं।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 2",
+                "hi": "चरण 2"
+              },
+              "d": {
+                "en": "Click the Search button or press Enter.",
+                "hi": "सर्च बटन पर क्लिक करें या Enter दबाएँ।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 3",
+                "hi": "चरण 3"
+              },
+              "d": {
+                "en": "A list of relevant web pages appears - pick trusted ones.",
+                "hi": "संबंधित वेब पेजों की सूची आती है - विश्वसनीय चुनें।"
+              }
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "You don't need to remember every website's URL - just type the website name or your question in the search bar.",
+          "hi": "हर वेबसाइट का URL याद रखने की ज़रूरत नहीं - वेबसाइट का नाम या अपना प्रश्न सर्च बार में टाइप करें।"
+        }
+      ]
+    },
+    {
+      "id": "website-url",
+      "title": {
+        "en": "Website and URL",
+        "hi": "वेबसाइट और URL"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Website",
+                "hi": "वेबसाइट"
+              },
+              "d": {
+                "en": "A collection of web pages belonging to an organisation or topic.",
+                "hi": "किसी संस्था/विषय से जुड़े वेब पेजों का संग्रह।"
+              }
+            },
+            {
+              "t": {
+                "en": "URL",
+                "hi": "URL"
+              },
+              "d": {
+                "en": "The address of a website - every website has its own URL.",
+                "hi": "वेबसाइट का पता - हर वेबसाइट का अपना URL होता है।"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Internet",
+      "hi": "इंटरनेट"
+    },
+    {
+      "en": "Browser",
+      "hi": "ब्राउज़र"
+    },
+    {
+      "en": "URL",
+      "hi": "यूआरएल"
+    },
+    {
+      "en": "Search Engine",
+      "hi": "खोज इंजन"
+    },
+    {
+      "en": "Cyber Safety",
+      "hi": "साइबर सुरक्षा"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "What does URL stand for?",
+        "hi": "URL का पूर्ण रूप क्या है?"
+      },
+      "options": [
+        {
+          "en": "Uniform Resource Locator",
+          "hi": "यूनिफॉर्म रिसोर्स लोकेटर"
+        },
+        {
+          "en": "Universal Resource Link",
+          "hi": "यूनिवर्सल रिसोर्स लिंक"
+        },
+        {
+          "en": "Uniform Research Link",
+          "hi": "यूनिफॉर्म रिसर्च लिंक"
+        },
+        {
+          "en": "United Resource Locator",
+          "hi": "यूनाइटेड रिसोर्स लोकेटर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "URL stands for Uniform Resource Locator.",
+        "hi": "URL का अर्थ यूनिफॉर्म रिसोर्स लोकेटर है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is NOT a safe internet practice?",
+        "hi": "इंटरनेट का कौन सा सुरक्षित अभ्यास नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Use strong passwords",
+          "hi": "मजबूत पासवर्ड का उपयोग करें"
+        },
+        {
+          "en": "Share your address with online friends",
+          "hi": "ऑनलाइन दोस्तों के साथ अपना पता साझा करें"
+        },
+        {
+          "en": "Tell parents about suspicious messages",
+          "hi": "संदिग्ध संदेशों के बारे में माता-पिता को बताएं"
+        },
+        {
+          "en": "Avoid clicking unknown links",
+          "hi": "अज्ञात लिंक पर क्लिक करने से बचें"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Never share personal information like your address with strangers online.",
+        "hi": "ऑनलाइन अजनबियों के साथ अपना पता जैसी व्यक्तिगत जानकारी कभी साझा न करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "A browser helps you find…",
+        "hi": "ब्राउज़र से आप क्या खोज सकते हैं?"
+      },
+      "options": [
+        {
+          "en": "Information, pictures, songs and videos",
+          "hi": "जानकारी, चित्र, गाने और वीडियो"
+        },
+        {
+          "en": "Only games",
+          "hi": "केवल खेल"
+        },
+        {
+          "en": "Only friends",
+          "hi": "केवल दोस्त"
+        },
+        {
+          "en": "Electricity",
+          "hi": "बिजली"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Browsers are used to search for information, pictures, songs and videos.",
+        "hi": "ब्राउज़र से जानकारी, चित्र, गाने, वीडियो खोजे जाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "After typing your topic in the search box, you click…",
+        "hi": "सर्च बॉक्स में विषय टाइप करने के बाद किस पर क्लिक करते हैं?"
+      },
+      "options": [
+        {
+          "en": "Search button",
+          "hi": "सर्च बटन"
+        },
+        {
+          "en": "Power button",
+          "hi": "पावर बटन"
+        },
+        {
+          "en": "Printer",
+          "hi": "प्रिंटर"
+        },
+        {
+          "en": "Folder",
+          "hi": "फ़ोल्डर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Click the Search button to get the required web pages.",
+        "hi": "आवश्यक वेब पेज पाने के लिए सर्च बटन पर क्लिक करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "If you don't remember a website's URL, you can…",
+        "hi": "अगर वेबसाइट का URL याद न हो तो आप क्या कर सकते हैं?"
+      },
+      "options": [
+        {
+          "en": "Type your question in the search bar",
+          "hi": "अपना प्रश्न सर्च बार में टाइप कर सकते हैं"
+        },
+        {
+          "en": "Restart the computer",
+          "hi": "कंप्यूटर रीस्टार्ट कर सकते हैं"
+        },
+        {
+          "en": "Do nothing",
+          "hi": "कुछ नहीं कर सकते"
+        },
+        {
+          "en": "Print the screen",
+          "hi": "स्क्रीन प्रिंट कर सकते हैं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Just type the website name or your question in the search bar.",
+        "hi": "वेबसाइट का नाम या प्रश्न सर्च बार में टाइप करके Enter दबाएँ।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which topic did Chiku search in the book's example?",
+        "hi": "पुस्तक के उदाहरण में चीकू ने कौन-सा विषय खोजा?"
+      },
+      "options": [
+        {
+          "en": "Famous monuments of India",
+          "hi": "भारत के प्रसिद्ध स्मारक"
+        },
+        {
+          "en": "Planets",
+          "hi": "ग्रह"
+        },
+        {
+          "en": "Recipes",
+          "hi": "व्यंजन"
+        },
+        {
+          "en": "Movies",
+          "hi": "फ़िल्में"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Chiku searched for famous monuments of India.",
+        "hi": "चीकू ने भारत के प्रसिद्ध स्मारकों की जानकारी खोजी।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these is a web browser?",
+        "hi": "इनमें से कौन-सा वेब ब्राउज़र है?"
+      },
+      "options": [
+        {
+          "en": "MS Paint",
+          "hi": "MS Paint"
+        },
+        {
+          "en": "Calculator",
+          "hi": "कैलकुलेटर"
+        },
+        {
+          "en": "Google Chrome",
+          "hi": "Google Chrome"
+        },
+        {
+          "en": "File folder",
+          "hi": "फ़ोल्डर"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Google Chrome is a browser used to access the internet.",
+        "hi": "Google Chrome इंटरनेट उपयोग के लिए ब्राउज़र है।"
+      }
+    },
+    {
+      "question": {
+        "en": "The Internet is…",
+        "hi": "इंटरनेट क्या है?"
+      },
+      "options": [
+        {
+          "en": "One computer",
+          "hi": "एक कंप्यूटर"
+        },
+        {
+          "en": "A network connecting many computers worldwide",
+          "hi": "दुनिया भर के कई कंप्यूटरों को जोड़ने वाला नेटवर्क"
+        },
+        {
+          "en": "A TV channel",
+          "hi": "टीवी चैनल"
+        },
+        {
+          "en": "A software only",
+          "hi": "केवल एक सॉफ्टवेयर"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Internet connects computers across the world.",
+        "hi": "इंटरनेट दुनिया भर के कंप्यूटरों को जोड़ता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A browser is…",
+        "hi": "ब्राउज़र क्या है?"
+      },
+      "options": [
+        {
+          "en": "A hardware device",
+          "hi": "हार्डवेयर उपकरण"
+        },
+        {
+          "en": "A software application used to access the internet",
+          "hi": "इंटरनेट उपयोग हेतु सॉफ्टवेयर एप्लिकेशन"
+        },
+        {
+          "en": "A type of cable",
+          "hi": "केबल का प्रकार"
+        },
+        {
+          "en": "A folder",
+          "hi": "फ़ोल्डर"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "We need a browser application to use the internet.",
+        "hi": "इंटरनेट उपयोग के लिए ब्राउज़र एप्लिकेशन की आवश्यकता होती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "After typing in the search bar, which key do you press?",
+        "hi": "सर्च बार में टाइप करने के बाद कौन-सी कुंजी दबाते हैं?"
+      },
+      "options": [
+        {
+          "en": "Enter",
+          "hi": "Enter"
+        },
+        {
+          "en": "Shift",
+          "hi": "Shift"
+        },
+        {
+          "en": "Escape",
+          "hi": "Escape"
+        },
+        {
+          "en": "Tab",
+          "hi": "Tab"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Press the Enter button to see the results.",
+        "hi": "परिणाम देखने के लिए Enter दबाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "URL is…",
+        "hi": "URL क्या है?"
+      },
+      "options": [
+        {
+          "en": "The address of a website",
+          "hi": "वेबसाइट का पता"
+        },
+        {
+          "en": "A game",
+          "hi": "एक खेल"
+        },
+        {
+          "en": "A folder name",
+          "hi": "फ़ोल्डर नाम"
+        },
+        {
+          "en": "A printer",
+          "hi": "प्रिंटर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Every website has an address called a URL.",
+        "hi": "हर वेबसाइट का एक पता होता है जिसे URL कहते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Searching on the internet helps students to…",
+        "hi": "इंटरनेट पर खोज छात्रों को क्या करने में मदद करती है?"
+      },
+      "options": [
+        {
+          "en": "Collect information for projects",
+          "hi": "परियोजनाओं के लिए जानकारी इकट्ठा करने"
+        },
+        {
+          "en": "Only chat",
+          "hi": "केवल चैट करने"
+        },
+        {
+          "en": "Only play",
+          "hi": "केवल खेलने"
+        },
+        {
+          "en": "Waste time",
+          "hi": "समय बर्बाद करने"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Students can find information for their projects.",
+        "hi": "छात्र अपनी परियोजनाओं हेतु जानकारी पा सकते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "A website is a collection of…",
+        "hi": "वेबसाइट किसका संग्रह है?"
+      },
+      "options": [
+        {
+          "en": "Web pages",
+          "hi": "वेब पेजों का"
+        },
+        {
+          "en": "Printers",
+          "hi": "प्रिंटरों का"
+        },
+        {
+          "en": "Keyboards",
+          "hi": "कीबोर्ड का"
+        },
+        {
+          "en": "Folders",
+          "hi": "फ़ोल्डरों का"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A website is made of many web pages.",
+        "hi": "वेबसाइट कई वेब पेजों से बनी होती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Search results are shown as…",
+        "hi": "खोज के परिणाम कैसे दिखाए जाते हैं?"
+      },
+      "options": [
+        {
+          "en": "A list of relevant web pages",
+          "hi": "संबंधित वेब पेजों की सूची"
+        },
+        {
+          "en": "A printed letter",
+          "hi": "मुद्रित पत्र"
+        },
+        {
+          "en": "A phone call",
+          "hi": "टेलीफ़ोन कॉल"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The search engine shows a list of matching web pages.",
+        "hi": "सर्च इंजन मेल खाते वेब पेजों की सूची दिखाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Using the internet wisely means…",
+        "hi": "इंटरनेट का समझदारी से उपयोग करने का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Using it for learning and useful things",
+          "hi": "सीखने और उपयोगी कामों के लिए करना"
+        },
+        {
+          "en": "Using it all night",
+          "hi": "रात भर उपयोग करना"
+        },
+        {
+          "en": "Sharing everything online",
+          "hi": "सब कुछ ऑनलाइन साझा करना"
+        },
+        {
+          "en": "Believing everything blindly",
+          "hi": "सब कुछ आँख मूंदकर मान लेना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Use the internet for learning and useful purposes.",
+        "hi": "इंटरनेट का उपयोग सीखने व उपयोगी कार्यों के लिए करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Before the internet, information was found…",
+        "hi": "इंटरनेट से पहले जानकारी कहाँ से मिलती थी?"
+      },
+      "options": [
+        {
+          "en": "Slowly - through books and libraries",
+          "hi": "धीरे-धीरे - किताबों और पुस्तकालयों से"
+        },
+        {
+          "en": "Instantly online",
+          "hi": "तुरंत ऑनलाइन"
+        },
+        {
+          "en": "Through video calls",
+          "hi": "वीडियो कॉल से"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Earlier, information came slowly from books and libraries.",
+        "hi": "पहले जानकारी किताबों-पुस्तकालयों से धीरे-धीरे मिलती थी।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is NOT a use of a browser from the chapter?",
+        "hi": "अध्याय के अनुसार ब्राउज़र का यह उपयोग कौन नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Finding information",
+          "hi": "जानकारी ढूँढ़ना"
+        },
+        {
+          "en": "Finding pictures",
+          "hi": "चित्र ढूँढ़ना"
+        },
+        {
+          "en": "Finding songs",
+          "hi": "गाने ढूँढ़ना"
+        },
+        {
+          "en": "Washing clothes",
+          "hi": "कपड़े धोना"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Browsers find information, pictures, songs and videos - not wash clothes!",
+        "hi": "ब्राउज़र जानकारी, चित्र, गाने, वीडियो ढूँढ़ता है - कपड़े नहीं!"
+      }
+    },
+    {
+      "question": {
+        "en": "Search engines are helpful because…",
+        "hi": "सर्च इंजन उपयोगी हैं क्योंकि…"
+      },
+      "options": [
+        {
+          "en": "They list many relevant pages in seconds",
+          "hi": "वे सेकंडों में कई संबंधित पेजों की सूची देते हैं"
+        },
+        {
+          "en": "They print pages",
+          "hi": "वे पेज प्रिंट करते हैं"
+        },
+        {
+          "en": "They delete data",
+          "hi": "वे डेटा डिलीट करते हैं"
+        },
+        {
+          "en": "They charge money",
+          "hi": "वे पैसे लेते हैं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Search engines instantly list matching web pages.",
+        "hi": "सर्च इंजन तुरंत मेल खाते पेजों की सूची देते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "To search, in the search bar you type…",
+        "hi": "सर्च करने के लिए सर्च बार में आप क्या टाइप करते हैं?"
+      },
+      "options": [
+        {
+          "en": "Your topic or question",
+          "hi": "अपना विषय या प्रश्न"
+        },
+        {
+          "en": "Your password",
+          "hi": "अपना पासवर्ड"
+        },
+        {
+          "en": "Your bank PIN",
+          "hi": "अपना बैंक PIN"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Type the topic or question you want to search.",
+        "hi": "जो विषय/प्रश्न खोजना हो वह टाइप करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is a safe search habit?",
+        "hi": "कौन-सी सुरक्षित खोज आदत है?"
+      },
+      "options": [
+        {
+          "en": "Using trusted websites from results",
+          "hi": "परिणामों में से विश्वसनीय वेबसाइट उपयोग करना"
+        },
+        {
+          "en": "Clicking every random link",
+          "hi": "हर अनजान लिंक पर क्लिक करना"
+        },
+        {
+          "en": "Sharing your address everywhere",
+          "hi": "हर जगह पता बताना"
+        },
+        {
+          "en": "Believing every post",
+          "hi": "हर पोस्ट मान लेना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Choose trusted sites from the results.",
+        "hi": "परिणामों में से विश्वसनीय साइट चुनें।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "The very first message sent on the internet (ARPANET, 1969) was 'LO' - the system crashed while trying to type 'LOGIN'!",
+      "hi": "इंटरनेट (ARPANET, 1969) पर भेजा गया पहला संदेश 'LO' था - 'LOGIN' टाइप करते-करते सिस्टम क्रैश हो गया था!"
+    },
+    {
+      "en": "More than 95% of international internet traffic travels through undersea fibre-optic cables - some as thin as a garden hose, lying deep on the ocean floor.",
+      "hi": "अंतरराष्ट्रीय इंटरनेट ट्रैफ़िक का 95% से अधिक हिस्सा समुद्र के तल में बिछी अंडरसी फ़ाइबर-ऑप्टिक केबलों से जाता है - कुछ तो बगीचे की नली जितनी पतली होती हैं।"
+    },
+    {
+      "en": "The @ symbol in emails was chosen by Ray Tomlinson in 1971 simply because it was a symbol that almost never appeared in anyone's name.",
+      "hi": "ईमेल में @ का प्रतीक रे टॉमलिंसन ने 1971 में इसलिए चुना क्योंकि यह प्रतीक किसी के नाम में लगभग कभी नहीं होता था।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "Internet: worldwide network of computers.",
+      "hi": "इंटरनेट: विश्वव्यापी कंप्यूटर नेटवर्क।"
+    },
+    {
+      "en": "Browser: software to access the internet.",
+      "hi": "ब्राउज़र: इंटरनेट उपयोग हेतु सॉफ्टवेयर।"
+    },
+    {
+      "en": "Search box: type your topic/question here.",
+      "hi": "सर्च बॉक्स: विषय/प्रश्न टाइप करें।"
+    },
+    {
+      "en": "Website: collection of web pages.",
+      "hi": "वेबसाइट: वेब पेजों का संग्रह।"
+    },
+    {
+      "en": "URL: a website's address.",
+      "hi": "URL: वेबसाइट का पता।"
+    }
+  ],
+  "conclusion": {
+    "en": "Used wisely, the internet is the world's biggest library - search, learn, and verify before you trust.",
+    "hi": "समझदारी से उपयोग करने पर इंटरनेट विश्व की सबसे बड़ी पुस्तकालय है - खोजें, सीखें, जाँचकर विश्वास करें।"
+  }
+}

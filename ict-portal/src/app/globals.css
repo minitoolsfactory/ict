@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-poppins);
+  --font-hindi: var(--font-noto-devanagari);
+
+  /* Brand palette: indigo -> blue -> cyan, amber accent */
+  --color-ict-50: #eef2ff;
+  --color-ict-100: #e0e7ff;
+  --color-ict-200: #c7d2fe;
+  --color-ict-300: #a5b4fc;
+  --color-ict-400: #818cf8;
+  --color-ict-500: #6366f1;
+  --color-ict-600: #4f46e5;
+  --color-ict-700: #4338ca;
+  --color-ict-800: #3730a3;
+  --color-ict-900: #1e1b4b;
+
+  --color-accent-400: #fbbf24;
+  --color-accent-500: #f59e0b;
+  --color-accent-600: #d97706;
+
+  --radius: 0.75rem;
+}
+
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0b1020;
+    --foreground: #e2e8f0;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-poppins), "Segoe UI", system-ui, sans-serif;
+}
+
+/* Hindi font support - Devanagari */
+.hi-font {
+  font-family: var(--font-noto-devanagari), "Noto Sans Devanagari", "Mangal", "Tahoma", sans-serif;
+}
+
+/* Gradient helpers */
+.brand-gradient {
+  background-image: linear-gradient(135deg, #6366f1 0%, #3b82f6 50%, #06b6d4 100%);
+}
+.brand-text {
+  background-image: linear-gradient(120deg, #6366f1, #06b6d4);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.hero-glow {
+  background:
+    radial-gradient(600px 300px at 15% 20%, rgba(99, 102, 241, 0.18), transparent 60%),
+    radial-gradient(700px 320px at 85% 10%, rgba(6, 182, 212, 0.15), transparent 60%),
+    radial-gradient(500px 280px at 50% 90%, rgba(245, 158, 11, 0.10), transparent 60%);
+}
+
+/* Subtle floating animation for decorative icons */
+@keyframes floaty {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+.animate-floaty {
+  animation: floaty 5s ease-in-out infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .animate-floaty { animation: none; }
+}
+
+/* Card hover lift */
+.lift {
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px -12px rgba(79, 70, 229, 0.35);
+}
+
+/* Print styles for UT papers */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  .print-page {
+    break-inside: avoid;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+    font-size: 12pt;
+  }
+  .ut-paper-header {
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    break-inside: avoid;
+  }
+  .ut-question {
+    break-inside: avoid;
+    margin-bottom: 15px;
+  }
+  .ut-option {
+    margin-left: 25px;
+    margin-bottom: 5px;
+  }
+}

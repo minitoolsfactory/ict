@@ -1,0 +1,1062 @@
+{
+  "id": "ch4",
+  "title": {
+    "en": "Digital Footprints & Cyber Safety",
+    "hi": "डिजिटल फुटप्रिंट और साइबर सुरक्षा"
+  },
+  "class": 8,
+  "pages": "71-80",
+  "overview": {
+    "en": "This chapter explains digital footprints - the marks we leave online through browsing, emails and shared information - and cyber safety: common cyber crimes (cyberbullying, phishing, identity theft, hacking) and good habits to protect ourselves and our data.",
+    "hi": "यह अध्याय डिजिटल फुटप्रिंट समझाता है - ब्राउज़िंग, ईमेल और साझा की गई जानकारी से हम ऑनलाइन जो निशान छोड़ते हैं - और साइबर सुरक्षा: सामान्य साइबर अपराध (साइबर बुलिंग, फ़िशिंग, आइडेंटिटी थेफ़्ट, हैकिंग) तथा अपनी और अपने डेटा की रक्षा की अच्छी आदतें।"
+  },
+  "sections": [
+    {
+      "id": "digital-footprint",
+      "title": {
+        "en": "Digital Footprint",
+        "hi": "डिजिटल फुटप्रिंट"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "A digital footprint is the trail of data or information that we leave behind while using the internet and digital devices.",
+          "hi": "डिजिटल फुटप्रिंट वह डेटा या जानकारी का निशान है जो हम इंटरनेट और डिजिटल उपकरणों का उपयोग करते समय छोड़ जाते हैं।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Examples",
+            "hi": "उदाहरण"
+          },
+          "items": [
+            {
+              "en": "Posting photos or videos on social media.",
+              "hi": "सोशल मीडिया पर फ़ोटो/वीडियो पोस्ट करना।"
+            },
+            {
+              "en": "Liking, sharing, or commenting on posts.",
+              "hi": "पोस्ट पर लाइक, शेयर या कमेंट करना।"
+            },
+            {
+              "en": "Searching for information on Google.",
+              "hi": "Google पर जानकारी खोजना।"
+            },
+            {
+              "en": "Sending emails and messages.",
+              "hi": "ईमेल और संदेश भेजना।"
+            },
+            {
+              "en": "Shopping online and making digital payments.",
+              "hi": "ऑनलाइन खरीदारी और डिजिटल भुगतान करना।"
+            },
+            {
+              "en": "Visiting websites and downloading files.",
+              "hi": "वेबसाइटें देखना और फ़ाइलें डाउनलोड करना।"
+            }
+          ]
+        },
+        {
+          "type": "num",
+          "title": {
+            "en": "Types of Digital Footprints",
+            "hi": "डिजिटल फुटप्रिंट के प्रकार"
+          },
+          "items": [
+            {
+              "t": {
+                "en": "Active Digital Footprint",
+                "hi": "एक्टिव डिजिटल फुटप्रिंट"
+              },
+              "d": {
+                "en": "Information we intentionally share online - e.g. posting a photo on Instagram, writing comments on YouTube, filling out an online form.",
+                "hi": "जानबूझकर ऑनलाइन साझा की गई जानकारी - जैसे Instagram पर फ़ोटो पोस्ट करना, YouTube पर कमेंट करना, ऑनलाइन फ़ॉर्म भरना।"
+              }
+            },
+            {
+              "t": {
+                "en": "Passive Digital Footprint",
+                "hi": "पैसिव डिजिटल फुटप्रिंट"
+              },
+              "d": {
+                "en": "Information collected about us automatically, often without our direct involvement - e.g. websites collecting browsing data, apps tracking location, cookies remembering preferences.",
+                "hi": "हमारे बारे में स्वतः एकत्र हुई जानकारी - जैसे वेबसाइटों का ब्राउज़िंग डेटा, ऐप्स का लोकेशन ट्रैकिंग, cookies द्वारा प्राथमिकताएँ याद रखना।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "implications",
+      "title": {
+        "en": "Implications of Digital Footprints",
+        "hi": "डिजिटल फुटप्रिंट के प्रभाव"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Digital footprints can have both positive and negative effects.",
+          "hi": "डिजिटल फुटप्रिंट के सकारात्मक और नकारात्मक दोनों प्रभाव हो सकते हैं।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Positive Implications",
+            "hi": "सकारात्मक प्रभाव"
+          },
+          "items": [
+            {
+              "en": "Online identity: helps create our online presence.",
+              "hi": "ऑनलाइन पहचान: हमारी ऑनलाइन उपस्थिति बनाती है।"
+            },
+            {
+              "en": "Personalisation: websites suggest content based on our interests.",
+              "hi": "वैयक्तिकरण: वेबसाइटें रुचि के अनुसार सामग्री सुझाती हैं।"
+            },
+            {
+              "en": "Professional opportunities: a positive profile may help in getting a job.",
+              "hi": "व्यावसायिक अवसर: सकारात्मक प्रोफ़ाइल नौकरी में सहायक हो सकती है।"
+            },
+            {
+              "en": "Easy access: websites remember preferences and login details when permitted.",
+              "hi": "सहज पहुँच: अनुमति पर वेबसाइटें प्राथमिकताएँ याद रखती हैं।"
+            }
+          ]
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Negative Implications",
+            "hi": "नकारात्मक प्रभाव"
+          },
+          "items": [
+            {
+              "en": "Privacy risks: personal information may be exposed.",
+              "hi": "गोपनीयता जोखिम: निजी जानकारी उजागर हो सकती है।"
+            },
+            {
+              "en": "Cyberbullying: shared content may be misused to harass someone.",
+              "hi": "साइबर बुलिंग: साझा सामग्री का दुरुपयोग हो सकता है।"
+            },
+            {
+              "en": "Identity theft: criminals may misuse personal information.",
+              "hi": "पहचान चोरी: अपराधी निजी जानकारी का दुरुपयोग कर सकते हैं।"
+            },
+            {
+              "en": "Reputation damage: inappropriate posts may harm our reputation.",
+              "hi": "प्रतिष्ठा को नुकसान: अनुचित पोस्ट हानि पहुँचा सकते हैं।"
+            },
+            {
+              "en": "Targeted advertising: browsing data may be used for personalised ads.",
+              "hi": "लक्षित विज्ञापन: ब्राउज़िंग डेटा से विज्ञापन दिखाए जा सकते हैं।"
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "Think before you post, because information shared online may remain accessible for a long time, even after deletion.",
+          "hi": "पोस्ट करने से पहले सोचें, क्योंकि ऑनलाइन साझा की गई जानकारी डिलीट करने के बाद भी लंबे समय तक उपलब्ध रह सकती है।"
+        }
+      ]
+    },
+    {
+      "id": "cyber-crime",
+      "title": {
+        "en": "Cyber Crime and Its Types",
+        "hi": "साइबर अपराध और उसके प्रकार"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Cybercrime is any illegal activity carried out using computers, mobile devices, networks, or the internet - e.g. hacking accounts, stealing personal information, sending fraudulent messages, sharing private information without permission.",
+          "hi": "साइबर अपराध कंप्यूटर, मोबाइल, नेटवर्क या इंटरनेट द्वारा किया गया कोई भी अवैध कृत्य है - जैसे अकाउंट हैक करना, निजी जानकारी चुराना, धोखेबाज़ संदेश भेजना, बिना अनुमति निजी जानकारी साझा करना।"
+        },
+        {
+          "type": "table",
+          "head": [
+            {
+              "en": "Type",
+              "hi": "प्रकार"
+            },
+            {
+              "en": "Meaning",
+              "hi": "अर्थ"
+            },
+            {
+              "en": "Example",
+              "hi": "उदाहरण"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "en": "Hacking",
+                "hi": "हैकिंग"
+              },
+              {
+                "en": "Gaining unauthorised access to a computer or account.",
+                "hi": "कंप्यूटर/अकाउंट तक अनधिकृत पहुँच।"
+              },
+              {
+                "en": "Accessing someone's email without permission.",
+                "hi": "बिना अनुमति किसी का ईमेल खोलना।"
+              }
+            ],
+            [
+              {
+                "en": "Phishing",
+                "hi": "फ़िशिंग"
+              },
+              {
+                "en": "Tricking people into revealing sensitive information through fake messages or websites.",
+                "hi": "नकली संदेश/वेबसाइटों से संवेदनशील जानकारी निकलवाना।"
+              },
+              {
+                "en": "A fake bank link asking for a password.",
+                "hi": "पासवर्ड माँगता नकली बैंक लिंक।"
+              }
+            ],
+            [
+              {
+                "en": "Identity Theft",
+                "hi": "पहचान चोरी"
+              },
+              {
+                "en": "Using another person's personal information without permission.",
+                "hi": "बिना अनुमति दूसरे की निजी जानकारी का उपयोग।"
+              },
+              {
+                "en": "Misusing someone's identity details.",
+                "hi": "किसी की पहचान का दुरुपयोग।"
+              }
+            ],
+            [
+              {
+                "en": "Cyberbullying",
+                "hi": "साइबर बुलिंग"
+              },
+              {
+                "en": "Harassing or threatening someone using digital platforms.",
+                "hi": "डिजिटल प्लेटफ़ॉर्म से परेशान/धमकाना।"
+              },
+              {
+                "en": "Posting insulting comments about a classmate.",
+                "hi": "सहपाठी पर अपमानजनक कमेंट।"
+              }
+            ],
+            [
+              {
+                "en": "Online Fraud",
+                "hi": "ऑनलाइन धोखाधड़ी"
+              },
+              {
+                "en": "Cheating people to obtain money or valuable information.",
+                "hi": "पैसे/जानकारी हथियाने हेतु ठगना।"
+              },
+              {
+                "en": "A fake shopping website taking payment.",
+                "hi": "भुगतान लेती नकली शॉपिंग साइट।"
+              }
+            ],
+            [
+              {
+                "en": "Malware Attack",
+                "hi": "मैलवेयर हमला"
+              },
+              {
+                "en": "Using malicious software to damage devices or steal information.",
+                "hi": "दुर्भावनापूर्ण सॉफ्टवेयर से नुकसान/चोरी।"
+              },
+              {
+                "en": "A virus infecting a computer.",
+                "hi": "कंप्यूटर में वायरस।"
+              }
+            ],
+            [
+              {
+                "en": "Cyberstalking",
+                "hi": "साइबर स्टॉकिंग"
+              },
+              {
+                "en": "Repeatedly monitoring or harassing someone online.",
+                "hi": "बार-बार ऑनलाइन निगरानी/परेशान करना।"
+              },
+              {
+                "en": "Sending unwanted messages repeatedly.",
+                "hi": "बार-बार अनचाहे संदेश भेजना।"
+              }
+            ],
+            [
+              {
+                "en": "Data Theft",
+                "hi": "डेटा चोरी"
+              },
+              {
+                "en": "Stealing confidential or personal information.",
+                "hi": "गोपनीय/निजी जानकारी चुराना।"
+              },
+              {
+                "en": "Stealing a school's student records.",
+                "hi": "स्कूल के छात्र रिकॉर्ड चुराना।"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cyber-safety",
+      "title": {
+        "en": "Cyber Safety Tips",
+        "hi": "साइबर सुरक्षा सुझाव"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Cyber safety means protecting ourselves, our devices, and our personal information while using the internet.",
+          "hi": "साइबर सुरक्षा अर्थात इंटरनेट उपयोग में अपनी, अपने उपकरणों और निजी जानकारी की रक्षा करना।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Use strong passwords: combine letters, numbers and symbols.",
+              "hi": "मज़बूत पासवर्ड: अक्षर, संख्याएँ और चिह्नों का संयोजन रखें।"
+            },
+            {
+              "en": "Enable two-factor authentication (2FA) for an extra layer of security.",
+              "hi": "दो-चरणीय प्रमाणीकरण (2FA) सक्षम करें।"
+            },
+            {
+              "en": "Never share passwords, OTPs, addresses and banking details.",
+              "hi": "पासवर्ड, OTP, पता और बैंकिंग विवरण कभी न साझा करें।"
+            },
+            {
+              "en": "Avoid suspicious links and unknown attachments.",
+              "hi": "संदिग्ध लिंक/अनजान अटैचमेंट से बचें।"
+            },
+            {
+              "en": "Use secure websites: check for HTTPS before entering sensitive information.",
+              "hi": "HTTPS जाँचकर ही संवेदनशील जानकारी भरें।"
+            },
+            {
+              "en": "Keep software, applications and antivirus updated.",
+              "hi": "सॉफ्टवेयर, ऐप्स और एंटीवायरस अद्यतन रखें।"
+            },
+            {
+              "en": "Use privacy settings to limit who can view your posts.",
+              "hi": "गोपनीयता सेटिंग्स से दर्शक सीमित करें।"
+            },
+            {
+              "en": "Always log out on shared or public computers.",
+              "hi": "साझा/सार्वजनिक कंप्यूटर पर लॉग आउट अवश्य करें।"
+            },
+            {
+              "en": "Report and block suspicious accounts and cyberbullying.",
+              "hi": "संदिग्ध अकाउंट/साइबर बुलिंग रिपोर्ट व ब्लॉक करें।"
+            },
+            {
+              "en": "Avoid sensitive transactions over unsecured public Wi-Fi.",
+              "hi": "असुरक्षित सार्वजनिक Wi-Fi पर संवेदनशील लेन-देन न करें।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "if-victim",
+      "title": {
+        "en": "What to Do If You Become a Victim of Cybercrime",
+        "hi": "साइबर अपराध का शिकार होने पर क्या करें"
+      },
+      "blocks": [
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Inform a trusted adult, parent or teacher.",
+              "hi": "किसी भरोसेमंद बड़े, अभिभावक या शिक्षक को बताएँ।"
+            },
+            {
+              "en": "Save screenshots, messages and transaction details as evidence.",
+              "hi": "स्क्रीनशॉट, संदेश, लेन-देन विवरण सबूत के रूप में सहेजें।"
+            },
+            {
+              "en": "Change compromised passwords and secure your accounts.",
+              "hi": "समझौता हुए पासवर्ड बदलें और अकाउंट सुरक्षित करें।"
+            },
+            {
+              "en": "Contact your bank immediately if money is lost.",
+              "hi": "धन हानि पर तुरंत बैंक से संपर्क करें।"
+            },
+            {
+              "en": "In India, report at the official portal: https://cybercrime.gov.in",
+              "hi": "भारत में आधिकारिक पोर्टल cybercrime.gov.in पर रिपोर्ट करें।"
+            },
+            {
+              "en": "For urgent financial cyber fraud, call the national helpline 1930.",
+              "hi": "तत्काल वित्तीय धोखाधड़ी हेतु हेल्पलाइन 1930 पर कॉल करें।"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Digital Footprint",
+      "hi": "ऑनलाइन छोड़ा गया निशान"
+    },
+    {
+      "en": "Cyber Crime",
+      "hi": "कंप्यूटर से जुड़ा अवैध कृत्य"
+    },
+    {
+      "en": "Phishing",
+      "hi": "भरोसेमंद बनकर जानकारी निकलवाना"
+    },
+    {
+      "en": "Identity Theft",
+      "hi": "पहचान की चोरी"
+    },
+    {
+      "en": "Hacking",
+      "hi": "अनधिकृत पहुँच"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "The marks you leave online are called your…",
+        "hi": "ऑनलाइन छोड़े गए निशान क्या कहलाते हैं?"
+      },
+      "options": [
+        {
+          "en": "Digital footprint",
+          "hi": "डिजिटल फुटप्रिंट"
+        },
+        {
+          "en": "Password",
+          "hi": "पासवर्ड"
+        },
+        {
+          "en": "Email",
+          "hi": "ईमेल"
+        },
+        {
+          "en": "Browser",
+          "hi": "ब्राउज़र"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Every time you are online, you leave a mark called your digital footprint.",
+        "hi": "हर बार ऑनलाइन होते हुए आप डिजिटल फुटप्रिंट छोड़ते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Pretending to be a trusted company to steal passwords is called…",
+        "hi": "भरोसेमंद कंपनी बनकर password चुराना क्या कहलाता है?"
+      },
+      "options": [
+        {
+          "en": "Hacking",
+          "hi": "हैकिंग"
+        },
+        {
+          "en": "Phishing",
+          "hi": "फ़िशिंग"
+        },
+        {
+          "en": "Sorting",
+          "hi": "सॉर्टिंग"
+        },
+        {
+          "en": "Posting",
+          "hi": "पोस्टिंग"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Phishing means faking a trusted identity to steal sensitive information.",
+        "hi": "फ़िशिंग में भरोसेमंद पहचान का दिखावा करके संवेदनशील जानकारी निकलवाई जाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Gaining unauthorised access to a system's data is…",
+        "hi": "किसी system के data तक अनधिकृत पहुँच प्राप्त करना क्या है?"
+      },
+      "options": [
+        {
+          "en": "Phishing",
+          "hi": "फ़िशिंग"
+        },
+        {
+          "en": "Hacking",
+          "hi": "हैकिंग"
+        },
+        {
+          "en": "Cyberbullying",
+          "hi": "साइबर बुलिंग"
+        },
+        {
+          "en": "Emailing",
+          "hi": "ईमेलिंग"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Hacking is unauthorised access to data in a system.",
+        "hi": "हैकिंग अर्थात system के data तक अनधिकृत पहुँच।"
+      }
+    },
+    {
+      "question": {
+        "en": "Stealing someone's personal information to commit fraud is…",
+        "hi": "धोखाधड़ी के लिए किसी की व्यक्तिगत जानकारी चुराना क्या है?"
+      },
+      "options": [
+        {
+          "en": "Identity Theft",
+          "hi": "आइडेंटिटी थेफ़्ट"
+        },
+        {
+          "en": "Backup",
+          "hi": "बैकअप"
+        },
+        {
+          "en": "Filtering",
+          "hi": "फ़िल्टरिंग"
+        },
+        {
+          "en": "Blogging",
+          "hi": "ब्लॉगिंग"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Identity theft means stealing personal information to misuse someone's identity.",
+        "hi": "आइडेंटिटी थेफ़्ट में व्यक्तिगत जानकारी चुराकर पहचान का दुरुपयोग किया जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A positive digital footprint helps with…",
+        "hi": "सकारात्मक डिजिटल फुटप्रिंट किसमें मदद करता है?"
+      },
+      "options": [
+        {
+          "en": "Your reputation and future opportunities",
+          "hi": "आपकी प्रतिष्ठा और भविष्य के अवसरों"
+        },
+        {
+          "en": "Deleting your device",
+          "hi": "डिवाइस डिलीट करने"
+        },
+        {
+          "en": "Increasing the bill",
+          "hi": "बिल बढ़ाने"
+        },
+        {
+          "en": "Nothing at all",
+          "hi": "किसी काम में नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A positive digital footprint benefits reputation and future opportunities.",
+        "hi": "सकारात्मक फुटप्रिंट प्रतिष्ठा और भविष्य के अवसरों के लिए फ़ायदेमंद होता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Your digital footprint includes…",
+        "hi": "आपके डिजिटल फुटप्रिंट में शामिल है…"
+      },
+      "options": [
+        {
+          "en": "Websites visited, emails sent, info submitted for online services",
+          "hi": "देखी गई वेबसाइटें, भेजे ईमेल, ऑनलाइन सेवाओं हेतु दी गई जानकारी"
+        },
+        {
+          "en": "Your shoe size only",
+          "hi": "केवल जूते का नंबर"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        },
+        {
+          "en": "Only photos",
+          "hi": "केवल फ़ोटो"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "It includes sites visited, emails sent and info submitted.",
+        "hi": "इसमें वेबसाइटें, ईमेल, ऑनलाइन जानकारी शामिल है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A digital footprint is created…",
+        "hi": "डिजिटल फुटप्रिंट कब बनता है?"
+      },
+      "options": [
+        {
+          "en": "Every time you go online",
+          "hi": "हर बार जब आप ऑनलाइन होते हैं"
+        },
+        {
+          "en": "Only once a year",
+          "hi": "साल में एक बार"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        },
+        {
+          "en": "Only while sleeping",
+          "hi": "केवल सोते समय"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Every online session leaves marks.",
+        "hi": "हर ऑनलाइन गतिविधि निशान छोड़ती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Activity 1 in the chapter asks you to list…",
+        "hi": "अध्याय की Activity 1 में सूची बनाने को कहा गया…"
+      },
+      "options": [
+        {
+          "en": "Your online activities of the last 24 hours",
+          "hi": "पिछले 24 घंटों की ऑनलाइन गतिविधियाँ"
+        },
+        {
+          "en": "Your snacks",
+          "hi": "आपके स्नैक्स"
+        },
+        {
+          "en": "Your friends' names",
+          "hi": "दोस्तों के नाम"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "List searches, uploads, downloads and chats of 24 hours.",
+        "hi": "24 घंटे की सर्च, upload, download, चैट की सूची बनाएँ।"
+      }
+    },
+    {
+      "question": {
+        "en": "A positive digital footprint benefits…",
+        "hi": "सकारात्मक डिजिटल फुटप्रिंट किसके लिए फ़ायदेमंद है?"
+      },
+      "options": [
+        {
+          "en": "Your reputation and future opportunities",
+          "hi": "आपकी प्रतिष्ठा और भविष्य के अवसर"
+        },
+        {
+          "en": "Your shoe shop",
+          "hi": "आपकी चमड़े की दुकान"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        },
+        {
+          "en": "Only advertisers",
+          "hi": "केवल विज्ञापनदाता"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Good traces build reputation and future chances.",
+        "hi": "अच्छे निशान प्रतिष्ठा व भविष्य बनाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Cyberbullying is…",
+        "hi": "साइबर बुलिंग है…"
+      },
+      "options": [
+        {
+          "en": "Harassing someone using digital technology",
+          "hi": "डिजिटल तकनीक से किसी को परेशान/धमकाना"
+        },
+        {
+          "en": "A video game",
+          "hi": "एक वीडियो गेम"
+        },
+        {
+          "en": "A homework app",
+          "hi": "गृहकार्य ऐप"
+        },
+        {
+          "en": "A printer",
+          "hi": "प्रिंटर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "It includes rumours, insulting comments, shameful images.",
+        "hi": "इसमें अफ़वाहें, अपमानजनक कमेंट, शर्मनाक तस्वीरें शामिल हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Phishing is when criminals…",
+        "hi": "फ़िशिंग में अपराधी क्या करते हैं?"
+      },
+      "options": [
+        {
+          "en": "Pretend to be trusted to steal passwords/bank details",
+          "hi": "भरोसेमंद बनकर पासवर्ड/बैंक विवरण निकलवाते हैं"
+        },
+        {
+          "en": "Give free gifts",
+          "hi": "मुफ़्त उपहार देते हैं"
+        },
+        {
+          "en": "Clean your computer",
+          "hi": "कंप्यूटर साफ़ करते हैं"
+        },
+        {
+          "en": "Teach coding",
+          "hi": "कोडिंग सिखाते हैं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Phishing fakes trusted identities to steal sensitive information.",
+        "hi": "फ़िशिंग में भरोसेमंद बनकर जानकारी चुराई जाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Identity theft means stealing…",
+        "hi": "आइडेंटिटी थेफ़्ट में चुराया जाता है…"
+      },
+      "options": [
+        {
+          "en": "Personal info like name, Aadhaar number, email password",
+          "hi": "निजी जानकारी - नाम, आधार नंबर, ईमेल पासवर्ड"
+        },
+        {
+          "en": "School furniture",
+          "hi": "स्कूल का फ़र्नीचर"
+        },
+        {
+          "en": "Only stationery",
+          "hi": "केवल स्टेशनरी"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Criminals steal personal information to commit fraud.",
+        "hi": "अपराधी निजी जानकारी चुराकर धोखाधड़ी करते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Hacking means…",
+        "hi": "हैकिंग का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Unauthorised access to data in a system",
+          "hi": "system के डेटा तक अनधिकृत पहुँच"
+        },
+        {
+          "en": "Official maintenance",
+          "hi": "आधिकारिक मरम्मत"
+        },
+        {
+          "en": "Buying software",
+          "hi": "सॉफ्टवेयर खरीदना"
+        },
+        {
+          "en": "Printing files",
+          "hi": "फ़ाइलें प्रिंट करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Hacking is unauthorised access to systems/data.",
+        "hi": "हैकिंग अनधिकृत पहुँच है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Cyber crimes are committed by…",
+        "hi": "साइबर अपराध कौन करता है?"
+      },
+      "options": [
+        {
+          "en": "Cybercriminals",
+          "hi": "साइबर अपराधी"
+        },
+        {
+          "en": "Teachers",
+          "hi": "शिक्षक"
+        },
+        {
+          "en": "Parents",
+          "hi": "माता-पिता"
+        },
+        {
+          "en": "Robots",
+          "hi": "रोबोट"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Cybercriminals commit these illegal activities.",
+        "hi": "साइबर अपराधी ये अवैध कृत्य करते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "The first step of cyber safety is…",
+        "hi": "साइबर सुरक्षा का पहला कदम है…"
+      },
+      "options": [
+        {
+          "en": "Knowing the threats",
+          "hi": "खतरों को जानना"
+        },
+        {
+          "en": "Throwing your phone",
+          "hi": "फ़ोन फेंकना"
+        },
+        {
+          "en": "Doing nothing",
+          "hi": "कुछ न करना"
+        },
+        {
+          "en": "Sharing passwords",
+          "hi": "पासवर्ड बाँटना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Know the threats, then adopt safety habits.",
+        "hi": "खतरे जानो, फिर सुरक्षा आदतें अपनाओ।"
+      }
+    },
+    {
+      "question": {
+        "en": "Strong passwords help…",
+        "hi": "मज़बूत पासवर्ड मदद करते हैं…"
+      },
+      "options": [
+        {
+          "en": "Protect your accounts",
+          "hi": "आपके अकाउंट बचाने में"
+        },
+        {
+          "en": "Increase spam",
+          "hi": "स्पैम बढ़ाने में"
+        },
+        {
+          "en": "Hackers",
+          "hi": "हैकरों को"
+        },
+        {
+          "en": "Nobody",
+          "hi": "किसी को नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Strong, secret passwords keep accounts safe.",
+        "hi": "मज़बूत गुप्त पासवर्ड अकाउंट सुरक्षित रखते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Before posting anything online, you should…",
+        "hi": "कुछ भी ऑनलाइन पोस्ट करने से पहले आपको चाहिए…"
+      },
+      "options": [
+        {
+          "en": "Think about the trace it leaves",
+          "hi": "सोचें कि वह कौन-सा निशान छोड़ेगा"
+        },
+        {
+          "en": "Post instantly without reading",
+          "hi": "बिना पढ़े तुरंत पोस्ट करें"
+        },
+        {
+          "en": "Insult others",
+          "hi": "दूसरों का अपमान करें"
+        },
+        {
+          "en": "Share others' secrets",
+          "hi": "दूसरों के राज़ बताएँ"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Think before you post - the trail lasts.",
+        "hi": "पोस्ट से पहले सोचें - निशान बने रहते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Personal information should NOT be shared with…",
+        "hi": "निजी जानकारी किसके साथ साझा नहीं करनी चाहिए?"
+      },
+      "options": [
+        {
+          "en": "Strangers online",
+          "hi": "ऑनलाइन अजनबियों से"
+        },
+        {
+          "en": "Your parents",
+          "hi": "माता-पिता से"
+        },
+        {
+          "en": "Your teacher",
+          "hi": "शिक्षक से"
+        },
+        {
+          "en": "Nobody at all",
+          "hi": "किसी से बिल्कुल नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Never give personal details to strangers.",
+        "hi": "अजनबियों को निजी जानकारी कभी न दें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Cyber crimes should be reported…",
+        "hi": "साइबर अपराध रिपोर्ट किए जाने चाहिए…"
+      },
+      "options": [
+        {
+          "en": "At the cyber crime portal (cybercrime.gov.in)",
+          "hi": "साइबर क्राइम पोर्टल (cybercrime.gov.in) पर"
+        },
+        {
+          "en": "On your wall",
+          "hi": "दीवार पर"
+        },
+        {
+          "en": "In a game",
+          "hi": "खेल में"
+        },
+        {
+          "en": "Nowhere",
+          "hi": "कहीं नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Report at the national cyber crime portal.",
+        "hi": "राष्ट्रीय साइबर क्राइम पोर्टल पर रिपोर्ट करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Your digital footprint is like footprints in…",
+        "hi": "आपका डिजिटल फुटप्रिंट किसमें पड़े पदचिह्न जैसा है?"
+      },
+      "options": [
+        {
+          "en": "Wet cement - it stays",
+          "hi": "गीले सीमेंट - बना रहता है"
+        },
+        {
+          "en": "Water - it vanishes",
+          "hi": "पानी - मिट जाता है"
+        },
+        {
+          "en": "The wind",
+          "hi": "हवा में"
+        },
+        {
+          "en": "Nowhere",
+          "hi": "कहीं नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Online traces are hard to erase - be careful.",
+        "hi": "ऑनलाइन निशान मिटाना मुश्किल - सावधान रहें।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "Internet 'cookies' are named after 'fortune cookies' - small files that hold a surprise of stored data inside.",
+      "hi": "इंटरनेट 'कुकीज़' का नाम 'फ़ॉर्च्यून कुकीज़' पर है - छोटी फ़ाइलें जिनके अंदर संग्रहीत डेटा का सरप्राइज़ छिपा होता है।"
+    },
+    {
+      "en": "Even if you 'delete' a photo, traces can remain on servers for a long time - your digital footprint is like footprints in wet cement, not on sand.",
+      "hi": "यदि आप फ़ोटो 'डिलीट' कर दें, तो उसके निशान सर्वरों पर लंबे समय रह सकते हैं - आपका डिजिटल फुटप्रिंट रेत पर नहीं, गीले सीमेंट पर पड़े पदचिह्न जैसा है।"
+    },
+    {
+      "en": "Some data centres (giant buildings full of computers) use as much electricity as a small town - the internet has a very real 'body'.",
+      "hi": "कुछ डेटा सेंटर (कंप्यूटरों से भरी विशाल इमारतें) एक छोटे शहर जितनी बिजली खर्च करते हैं - इंटरनेट का 'शरीर' बहुत असली है।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "Digital Footprint: the trail of data left by our online activities.",
+      "hi": "डिजिटल फुटप्रिंट: ऑनलाइन गतिविधियों से छूटा डेटा-निशान।"
+    },
+    {
+      "en": "Active Footprint: information intentionally shared by the user.",
+      "hi": "एक्टिव फुटप्रिंट: उपयोगकर्ता द्वारा जानबूझकर साझा जानकारी।"
+    },
+    {
+      "en": "Passive Footprint: information collected automatically during online activities.",
+      "hi": "पैसिव फुटप्रिंट: ऑनलाइन गतिविधियों में स्वतः एकत्र जानकारी।"
+    },
+    {
+      "en": "Cybercrime: illegal activities using computers, networks or the internet.",
+      "hi": "साइबर अपराध: कंप्यूटर/नेटवर्क/इंटरनेट द्वारा अवैध कृत्य।"
+    },
+    {
+      "en": "Phishing: tricking people into revealing sensitive information.",
+      "hi": "फ़िशिंग: संवेदनशील जानकारी निकलवाने की चाल।"
+    },
+    {
+      "en": "Hacking: unauthorised access to systems or accounts.",
+      "hi": "हैकिंग: सिस्टम/अकाउंट तक अनधिकृत पहुँच।"
+    },
+    {
+      "en": "Cyberbullying: harassment using digital platforms.",
+      "hi": "साइबर बुलिंग: डिजिटल माध्यम से उत्पीड़न।"
+    },
+    {
+      "en": "Cyber Safety: protecting personal information, devices and accounts.",
+      "hi": "साइबर सुरक्षा: निजी जानकारी, उपकरण, अकाउंट की रक्षा।"
+    }
+  ],
+  "conclusion": {
+    "en": "We should use the internet responsibly, protect our digital footprints, respect others' privacy, and follow cyber safety practices to stay safe online.",
+    "hi": "हमें इंटरनेट ज़िम्मेदारी से उपयोग करना चाहिए, अपने डिजिटल फुटप्रिंट की रक्षा करनी चाहिए, दूसरों की गोपनीयता का सम्मान करना चाहिए और ऑनलाइन सुरक्षित रहने हेतु साइबर सुरक्षा आदतें अपनानी चाहिए।"
+  }
+}

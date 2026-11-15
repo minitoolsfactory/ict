@@ -1,0 +1,823 @@
+{
+  "id": "ch5",
+  "title": {
+    "en": "Software Applications",
+    "hi": "सॉफ्टवेयर एप्लिकेशन"
+  },
+  "class": 7,
+  "pages": "98-121",
+  "overview": {
+    "en": "This chapter teaches how to use subject-specific software with a multidisciplinary approach. Students learn the difference between IT and ICT, explore popular online software such as GeoGebra (geometry practice) and PhET simulations, and create a multidisciplinary artefact/project.",
+    "hi": "यह अध्याय सिखाता है कि विषय-विशिष्ट सॉफ्टवेयर को बहुविषयक दृष्टिकोण के साथ कैसे उपयोग करें। छात्र IT और ICT का अंतर सीखते हैं, GeoGebra (ज्यामिति अभ्यास) और PhET सिमुलेशन जैसे लोकप्रिय ऑनलाइन सॉफ्टवेयर खोजते हैं और एक बहुविषयक परियोजना बनाते हैं।"
+  },
+  "sections": [
+    {
+      "id": "it-ict",
+      "title": {
+        "en": "IT vs ICT",
+        "hi": "IT बनाम ICT"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "IT (Information Technology)",
+                "hi": "IT (सूचना प्रौद्योगिकी)"
+              },
+              "d": {
+                "en": "Use of computer networks, software and digital devices for managing information - focuses on the technical aspects of technology.",
+                "hi": "सूचना प्रबंधन हेतु नेटवर्क, सॉफ्टवेयर, उपकरणों का उपयोग - तकनीक के तकनीकी पहलू पर केंद्रित।"
+              }
+            },
+            {
+              "t": {
+                "en": "ICT (Information & Communication Technology)",
+                "hi": "ICT (सूचना एवं संचार प्रौद्योगिकी)"
+              },
+              "d": {
+                "en": "How digital technology helps users handle information and solve problems - e.g. teaching a science chapter through a slide presentation, or making a science project as a website.",
+                "hi": "डिजिटल तकनीक उपयोगकर्ताओं की सूचना/समस्या-समाधान में कैसे मदद करे - जैसे स्लाइड्स से साइंस पाठ, वेबसाइट रूप में साइंस प्रोजेक्ट।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geogebra",
+      "title": {
+        "en": "GeoGebra - Geometry Practice",
+        "hi": "GeoGebra - ज्यामिति अभ्यास"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "GeoGebra (https://www.geogebra.org/) is an online tool for practising geometrical shapes and angle construction - very helpful for the basic geometry chapter of the maths book.",
+          "hi": "GeoGebra (https://www.geogebra.org/) ज्यामितीय आकृतियों व angle construction के अभ्यास का ऑनलाइन टूल है - गणित की basic geometry के लिए बहुत सहायक।"
+        },
+        {
+          "type": "num",
+          "title": {
+            "en": "Steps to construct a triangle",
+            "hi": "त्रिभुज बनाने के चरण"
+          },
+          "items": [
+            {
+              "t": {
+                "en": "Step 1",
+                "hi": "चरण 1"
+              },
+              "d": {
+                "en": "Go to https://www.geogebra.org/",
+                "hi": "साइट https://www.geogebra.org/ पर जाएँ।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 2",
+                "hi": "चरण 2"
+              },
+              "d": {
+                "en": "Select Middle School resources.",
+                "hi": "Middle School resources चुनें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 3",
+                "hi": "चरण 3"
+              },
+              "d": {
+                "en": "Choose Geometry.",
+                "hi": "Geometry चुनें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 4",
+                "hi": "चरण 4"
+              },
+              "d": {
+                "en": "Use the given tools to construct a triangle on your computer.",
+                "hi": "दिए गए टूल्स से कंप्यूटर पर त्रिभुज बनाएँ।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "simulation",
+      "title": {
+        "en": "Simulations and PhET",
+        "hi": "सिमुलेशन और PhET"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Imitating a real thing, process or activity by another method is called simulation - done through computer software. It helps us understand and visualise how a process behaves.",
+          "hi": "किसी वास्तविक चीज़, प्रक्रिया या कार्यकलाप का अनुकरण simulation कहलाता है - कंप्यूटर सॉफ्टवेयर द्वारा। इससे प्रक्रिया का व्यवहार समझ-देखा जा सकता है।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Example: the class watched a greenhouse effect simulation.",
+              "hi": "उदाहरण: कक्षा ने ग्रीनहाउस इफ़ेक्ट का सिमुलेशन देखा।"
+            },
+            {
+              "en": "In PhET, simulations can be searched category-wise - grade-wise (class-wise) and subject-wise.",
+              "hi": "PhET में सिमुलेशन कैटेगरी वाइज़ - grade व subject अनुसार - खोजे जाते हैं।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "multidisciplinary",
+      "title": {
+        "en": "Multidisciplinary Projects",
+        "hi": "बहुविषयक परियोजनाएँ"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Using subject-specific software for lessons across subjects is a multidisciplinary approach. Students create an artefact - a made project - combining knowledge from multiple subjects using ICT tools.",
+          "hi": "विभिन्न विषयों के पाठों हेतु विषय-विशिष्ट सॉफ्टवेयर का उपयोग बहुविषयक दृष्टिकोण है। छात्र ICT टूल्स से कई विषयों के ज्ञान को जोड़ती artefact (बनाया प्रोजेक्ट) बनाते हैं।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Examples",
+            "hi": "उदाहरण"
+          },
+          "items": [
+            {
+              "en": "A science project on 'States of Matter' as a slide presentation.",
+              "hi": "'States of Matter' पर साइंस प्रोजेक्ट स्लाइड-प्रेजेंटेशन रूप में।"
+            },
+            {
+              "en": "The same project made as a website.",
+              "hi": "वही प्रोजेक्ट वेबसाइट रूप में।"
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "Learning an IT tool means knowing how to download it and use its parts and options; using it to understand lessons is ICT.",
+          "hi": "IT टूल सीखना अर्थात डाउनलोड व उसके भाग/विकल्प आना; पाठ समझने हेतु उपयोग ICT कहलाता है।"
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "IT",
+      "hi": "सूचना प्रौद्योगिकी"
+    },
+    {
+      "en": "ICT",
+      "hi": "सूचना एवं संचार प्रौद्योगिकी"
+    },
+    {
+      "en": "GeoGebra",
+      "hi": "ज्यामिति अभ्यास का ऑनलाइन टूल"
+    },
+    {
+      "en": "Simulation",
+      "hi": "किसी प्रक्रिया का डिजिटल अनुकरण"
+    },
+    {
+      "en": "PhET",
+      "hi": "सिमुलेशन का ऑनलाइन प्लेटफ़ॉर्म"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "What does IT focus on more?",
+        "hi": "IT किस पर अधिक ध्यान केंद्रित करता है?"
+      },
+      "options": [
+        {
+          "en": "Technical aspects of technology",
+          "hi": "टेक्नोलॉजी के तकनीकी पहलू"
+        },
+        {
+          "en": "Cooking",
+          "hi": "पाक-कला"
+        },
+        {
+          "en": "Sports",
+          "hi": "खेल"
+        },
+        {
+          "en": "Painting",
+          "hi": "चित्रकला"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "IT focuses more on the technical aspects of technology.",
+        "hi": "IT टेक्नोलॉजी के तकनीकी पहलू पर अधिक ध्यान देता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Using a presentation tool to teach a science chapter is an example of…",
+        "hi": "साइंस अध्याय समझाने के लिए प्रेजेंटेशन टूल का उपयोग किसका उदाहरण है?"
+      },
+      "options": [
+        {
+          "en": "ICT",
+          "hi": "ICT"
+        },
+        {
+          "en": "Hardware",
+          "hi": "हार्डवेयर"
+        },
+        {
+          "en": "Networking",
+          "hi": "नेटवर्किंग"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Using IT tools to understand lessons better is called ICT.",
+        "hi": "पाठों को बेहतर समझने के लिए IT टूल्स का उपयोग ICT कहलाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which website is used to practise geometry online?",
+        "hi": "ज्यामिति का ऑनलाइन अभ्यास किस वेबसाइट से करते हैं?"
+      },
+      "options": [
+        {
+          "en": "geogebra.org",
+          "hi": "geogebra.org"
+        },
+        {
+          "en": "youtube.com",
+          "hi": "youtube.com"
+        },
+        {
+          "en": "gmail.com",
+          "hi": "gmail.com"
+        },
+        {
+          "en": "instagram.com",
+          "hi": "instagram.com"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "GeoGebra (https://www.geogebra.org/) is used for geometry practice.",
+        "hi": "ज्यामिति के अभ्यास के लिए GeoGebra (https://www.geogebra.org/) उपयोग होता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Imitating a real process by another method is called…",
+        "hi": "किसी वास्तविक प्रक्रिया को अन्य विधि से नक़ल करना क्या कहलाता है?"
+      },
+      "options": [
+        {
+          "en": "Simulation",
+          "hi": "सिमुलेशन"
+        },
+        {
+          "en": "Animation",
+          "hi": "एनीमेशन"
+        },
+        {
+          "en": "Printing",
+          "hi": "प्रिंटिंग"
+        },
+        {
+          "en": "Scanning",
+          "hi": "स्कैनिंग"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Imitating a real thing, process or activity is called simulation.",
+        "hi": "वास्तविक चीज़, प्रक्रिया या कार्यकलाप का अनुकरण simulation कहलाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "In PhET, simulations can be searched…",
+        "hi": "PhET में सिमुलेशन किस तरह खोजे जा सकते हैं?"
+      },
+      "options": [
+        {
+          "en": "Category-wise, e.g. grade-wise and subject-wise",
+          "hi": "कैटेगरी वाइज़, जैसे grade-wise और subject-wise"
+        },
+        {
+          "en": "Only alphabetically",
+          "hi": "केवल वर्णक्रम से"
+        },
+        {
+          "en": "By colour",
+          "hi": "रंग के अनुसार"
+        },
+        {
+          "en": "By file size",
+          "hi": "फ़ाइल साइज़ से"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "PhET lets you search simulations category-wise such as grade-wise and subject-wise.",
+        "hi": "PhET में सिमुलेशन कैटेगरी वाइज़ - grade-wise, subject-wise - खोजे जा सकते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "GeoGebra is mainly used for…",
+        "hi": "GeoGebra मुख्य रूप से किसके लिए उपयोग होता है?"
+      },
+      "options": [
+        {
+          "en": "Geometry constructions and maths practice",
+          "hi": "ज्यामिति रचनाएँ व गणित अभ्यास"
+        },
+        {
+          "en": "Sending emails",
+          "hi": "ईमेल भेजना"
+        },
+        {
+          "en": "Playing videos",
+          "hi": "वीडियो चलाना"
+        },
+        {
+          "en": "Printing",
+          "hi": "प्रिंट करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "GeoGebra helps practise shapes, angle construction and more.",
+        "hi": "GeoGebra से आकृतियाँ, angle construction आदि का अभ्यास होता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "What are the first steps to use GeoGebra for geometry?",
+        "hi": "GeoGebra में ज्यामिति के लिए पहले चरण क्या हैं?"
+      },
+      "options": [
+        {
+          "en": "Open the site → Middle School resources → Geometry",
+          "hi": "साइट खोलें → Middle School resources → Geometry"
+        },
+        {
+          "en": "Buy a CD",
+          "hi": "CD खरीदें"
+        },
+        {
+          "en": "Print a page",
+          "hi": "पेज प्रिंट करें"
+        },
+        {
+          "en": "Turn off wifi",
+          "hi": "wifi बंद करें"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Go to geogebra.org, choose Middle School resources, then Geometry.",
+        "hi": "geogebra.org खोलें, Middle School → Geometry चुनें।"
+      }
+    },
+    {
+      "question": {
+        "en": "IT tools learning includes…",
+        "hi": "IT टूल्स सीखने में शामिल है…"
+      },
+      "options": [
+        {
+          "en": "How to download and use them - their parts and options",
+          "hi": "डाउनलोड व उपयोग - उनके भाग और विकल्प"
+        },
+        {
+          "en": "Only their price",
+          "hi": "केवल उनकी कीमत"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        },
+        {
+          "en": "Only their colours",
+          "hi": "केवल उनके रंग"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Learning an IT tool means knowing how to download and use it.",
+        "hi": "IT टूल सीखना अर्थात डाउनलोड व उपयोग आना।"
+      }
+    },
+    {
+      "question": {
+        "en": "Using a presentation tool to teach a science chapter is an example of…",
+        "hi": "साइंस अध्याय समझाने हेतु प्रेजेंटेशन टूल का उपयोग उदाहरण है…"
+      },
+      "options": [
+        {
+          "en": "ICT",
+          "hi": "ICT"
+        },
+        {
+          "en": "Hardware",
+          "hi": "हार्डवेयर"
+        },
+        {
+          "en": "Networking only",
+          "hi": "केवल नेटवर्किंग"
+        },
+        {
+          "en": "None",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Using IT tools to understand lessons better is called ICT.",
+        "hi": "पाठ समझने हेतु IT टूल्स का उपयोग ICT कहलाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Making your science project as a website is also called…",
+        "hi": "साइंस प्रोजेक्ट को वेबसाइट के रूप में बनाना भी कहलाता है…"
+      },
+      "options": [
+        {
+          "en": "ICT",
+          "hi": "ICT"
+        },
+        {
+          "en": "Hardware",
+          "hi": "हार्डवेयर"
+        },
+        {
+          "en": "An input device",
+          "hi": "इनपुट उपकरण"
+        },
+        {
+          "en": "A cable",
+          "hi": "केबल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "ICT includes using digital tools to present learning.",
+        "hi": "ICT में सीखने को डिजिटल रूप से प्रस्तुत करना शामिल है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Simulation helps us…",
+        "hi": "सिमुलेशन हमें मदद करता है…"
+      },
+      "options": [
+        {
+          "en": "Understand and visualise a process",
+          "hi": "किसी प्रक्रिया को समझने-देखने में"
+        },
+        {
+          "en": "Delete files",
+          "hi": "फ़ाइलें डिलीट करने"
+        },
+        {
+          "en": "Print faster",
+          "hi": "तेज़ प्रिंट करने"
+        },
+        {
+          "en": "Charge phones",
+          "hi": "फ़ोन चार्ज करने"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Simulations let us visualise how part of a process behaves.",
+        "hi": "सिमुलेशन से प्रक्रिया का व्यवहार देखा-समझा जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which simulation did the class watch in the book?",
+        "hi": "पुस्तक में कक्षा ने कौन-सा सिमुलेशन देखा?"
+      },
+      "options": [
+        {
+          "en": "The greenhouse effect",
+          "hi": "ग्रीनहाउस इफ़ेक्ट"
+        },
+        {
+          "en": "Rainbow making",
+          "hi": "इंद्रधनुष बनाना"
+        },
+        {
+          "en": "Rocket launch only",
+          "hi": "केवल रॉकेट लॉन्च"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The class watched a greenhouse effect simulation.",
+        "hi": "कक्षा ने ग्रीनहाउस इफ़ेक्ट का सिमुलेशन देखा।"
+      }
+    },
+    {
+      "question": {
+        "en": "In PhET, simulations can be searched…",
+        "hi": "PhET में सिमुलेशन कैसे खोजे जाते हैं?"
+      },
+      "options": [
+        {
+          "en": "Category-wise - grade-wise and subject-wise",
+          "hi": "कैटेगरी वाइज़ - grade और subject अनुसार"
+        },
+        {
+          "en": "Only alphabetically",
+          "hi": "केवल वर्णक्रम से"
+        },
+        {
+          "en": "By colour",
+          "hi": "रंग से"
+        },
+        {
+          "en": "By file size",
+          "hi": "फ़ाइल साइज़ से"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "PhET lets you search simulations grade-wise and subject-wise.",
+        "hi": "PhET में grade/subject अनुसार सिमुलेशन खोजे जाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "A multidisciplinary project means…",
+        "hi": "बहुविषयक परियोजना का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Combining knowledge from several subjects",
+          "hi": "कई विषयों के ज्ञान को जोड़ना"
+        },
+        {
+          "en": "Only one subject",
+          "hi": "केवल एक विषय"
+        },
+        {
+          "en": "No subjects",
+          "hi": "कोई विषय नहीं"
+        },
+        {
+          "en": "Only games",
+          "hi": "केवल खेल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Multidisciplinary work joins multiple subjects using ICT.",
+        "hi": "ICT से कई विषयों को जोड़ना बहुविषयक कार्य है।"
+      }
+    },
+    {
+      "question": {
+        "en": "An 'artefact' in this chapter is…",
+        "hi": "इस अध्याय में 'artefact' है…"
+      },
+      "options": [
+        {
+          "en": "A created project/product from learning",
+          "hi": "सीखने से बनाया गया प्रोजेक्ट/उत्पाद"
+        },
+        {
+          "en": "A fossil",
+          "hi": "जीवाश्म"
+        },
+        {
+          "en": "A printer part",
+          "hi": "प्रिंटर का भाग"
+        },
+        {
+          "en": "A password",
+          "hi": "पासवर्ड"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Students create an artefact - a made project.",
+        "hi": "छात्र artefact अर्थात बनाया हुआ प्रोजेक्ट बनाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "IT focuses more on…",
+        "hi": "IT किस पर अधिक ध्यान देता है?"
+      },
+      "options": [
+        {
+          "en": "Technical aspects - networks, software, devices",
+          "hi": "तकनीकी पहलू - नेटवर्क, सॉफ्टवेयर, उपकरण"
+        },
+        {
+          "en": "Cooking",
+          "hi": "पाक-कला"
+        },
+        {
+          "en": "Painting only",
+          "hi": "केवल चित्रकला"
+        },
+        {
+          "en": "Sports",
+          "hi": "खेल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "IT is about the technical side of technology.",
+        "hi": "IT तकनीक के तकनीकी पक्ष पर केंद्रित है।"
+      }
+    },
+    {
+      "question": {
+        "en": "ICT focuses more on…",
+        "hi": "ICT किस पर अधिक केंद्रित है?"
+      },
+      "options": [
+        {
+          "en": "How technology helps users handle information and solve problems",
+          "hi": "तकनीक उपयोगकर्ताओं की सूचना/समस्या-समाधान में कैसे मदद करे"
+        },
+        {
+          "en": "Only hardware prices",
+          "hi": "केवल हार्डवेयर कीमत"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        },
+        {
+          "en": "Only cables",
+          "hi": "केवल केबल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "ICT is about using technology to help users solve problems.",
+        "hi": "ICT उपयोगकर्ता की सहायता व समस्या-समाधान पर केंद्रित है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which tool from the chapter helps practise basic geometry from the maths book?",
+        "hi": "अध्याय के अनुसार गणित की basic geometry का अभ्यास किस टूल से होता है?"
+      },
+      "options": [
+        {
+          "en": "GeoGebra",
+          "hi": "GeoGebra"
+        },
+        {
+          "en": "WhatsApp",
+          "hi": "WhatsApp"
+        },
+        {
+          "en": "MS Paint",
+          "hi": "MS Paint"
+        },
+        {
+          "en": "Notepad",
+          "hi": "Notepad"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "GeoGebra is very helpful for the basic geometry chapter.",
+        "hi": "basic geometry के लिए GeoGebra बहुत सहायक है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Constructing a triangle in GeoGebra uses…",
+        "hi": "GeoGebra में त्रिभुज बनाने के लिए क्या उपयोग होता है?"
+      },
+      "options": [
+        {
+          "en": "The given tools in the Geometry section",
+          "hi": "Geometry अनुभाग के दिए गए टूल्स"
+        },
+        {
+          "en": "A hammer",
+          "hi": "हथौड़ा"
+        },
+        {
+          "en": "A printer",
+          "hi": "प्रिंटर"
+        },
+        {
+          "en": "A phone call",
+          "hi": "फ़ोन कॉल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Use the geometry tools to construct a triangle.",
+        "hi": "geometry टूल्स से त्रिभुज बनाया जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Simulations are done through…",
+        "hi": "सिमुलेशन किसके द्वारा किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Computer software",
+          "hi": "कंप्यूटर सॉफ्टवेयर"
+        },
+        {
+          "en": "Hand drawings only",
+          "hi": "केवल हस्त-चित्र"
+        },
+        {
+          "en": "Letters",
+          "hi": "पत्र"
+        },
+        {
+          "en": "Phone calls",
+          "hi": "फ़ोन कॉल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Simulation is done via computer software.",
+        "hi": "सिमुलेशन कंप्यूटर सॉफ्टवेयर द्वारा होता है।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "GeoGebra's name is a mash-up: GEOmetry + alGEBRA - it was built to connect maths topics in one tool.",
+      "hi": "GeoGebra का नाम दो शब्दों को जोड़कर बना है: GEOmetry + alGEBRA - यह गणित के विषयों को एक टूल में जोड़ने के लिए बना।"
+    },
+    {
+      "en": "PhET simulations were founded by Carl Wieman, a scientist who won the Nobel Prize in Physics in 2001!",
+      "hi": "PhET सिमुलेशन की नींव कार्ल वीमैन ने रखी, जो वैज्ञानिक हैं और 2001 में भौतिकी का नोबेल पुरस्कार जीते थे!"
+    },
+    {
+      "en": "The first mobile app ever was a simple tone dialer on a IBM phone in 1993 - today there are millions of apps, from games to homework helpers.",
+      "hi": "पहला मोबाइल ऐप 1993 में IBM फ़ोन पर साधारण टोन डायलर था - आज लाखों ऐप हैं, गेम से लेकर होमवर्क मददगार तक।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "IT: technology's technical side.",
+      "hi": "IT: तकनीक का तकनीकी पक्ष।"
+    },
+    {
+      "en": "ICT: technology helping users solve problems.",
+      "hi": "ICT: उपयोगकर्ता समस्या-समाधान हेतु तकनीक।"
+    },
+    {
+      "en": "GeoGebra: online geometry practice tool.",
+      "hi": "GeoGebra: ऑनलाइन ज्यामिति अभ्यास टूल।"
+    },
+    {
+      "en": "Simulation: imitating a real process digitally.",
+      "hi": "सिमुलेशन: वास्तविक प्रक्रिया का डिजिटल अनुकरण।"
+    },
+    {
+      "en": "PhET: online simulations platform.",
+      "hi": "PhET: ऑनलाइन सिमुलेशन प्लेटफ़ॉर्म।"
+    },
+    {
+      "en": "Artefact: a created project from learning.",
+      "hi": "Artefact: सीख से बनाया प्रोजेक्ट।"
+    }
+  ],
+  "conclusion": {
+    "en": "IT gives us the tools; ICT shows us how to use them to learn every subject better.",
+    "hi": "IT हमें टूल्स देता है; ICT बताती है कि हर विषय को बेहतर सीखने के लिए उन्हें कैसे उपयोग करें।"
+  }
+}

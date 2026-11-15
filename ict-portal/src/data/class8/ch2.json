@@ -1,0 +1,824 @@
+{
+  "id": "ch2",
+  "title": {
+    "en": "Learn to Code-03",
+    "hi": "कोडिंग सीखें-03"
+  },
+  "class": 8,
+  "pages": "33-61",
+  "overview": {
+    "en": "This chapter introduces types of apps and teaches students to build a mobile app using MIT App Inventor. Students design app screens with Layout, Label, Textbox, Button and Media components, run the app on a mobile (or emulator), and create an .apk file to launch the app.",
+    "hi": "यह अध्याय ऐप्स के प्रकार परिचित कराता है और MIT App Inventor की मदद से मोबाइल ऐप बनाना सिखाता है। छात्र Layout, Label, Textbox, Button और Media के प्रयोग से ऐप का डिज़ाइन बनाते हैं, ऐप को मोबाइल (या एमुलेटर) से run करते हैं और .apk फ़ाइल बनाकर ऐप लॉन्च करते हैं।"
+  },
+  "sections": [
+    {
+      "id": "apps",
+      "title": {
+        "en": "Types of Apps",
+        "hi": "ऐप्स के प्रकार"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Mobile apps are programs that run on smartphones. They are grouped into different types based on their purpose.",
+          "hi": "मोबाइल ऐप्स स्मार्टफ़ोन पर चलने वाले प्रोग्राम हैं। उद्देश्य के आधार पर इन्हें प्रकारों में बाँटा जाता है।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Games - for entertainment.",
+              "hi": "गेम - मनोरंजन हेतु।"
+            },
+            {
+              "en": "Educational apps - for learning.",
+              "hi": "शैक्षिक ऐप - सीखने हेतु।"
+            },
+            {
+              "en": "Social media apps - for communication and sharing.",
+              "hi": "सोशल मीडिया ऐप - संवाद व साझा करने हेतु।"
+            },
+            {
+              "en": "Shopping apps - for online buying.",
+              "hi": "शॉपिंग ऐप - ऑनलाइन खरीद हेतु।"
+            },
+            {
+              "en": "Utility apps - for daily tasks like torch, calculator.",
+              "hi": "यूटिलिटी ऐप - टॉर्च, कैलकुलेटर जैसे दैनिक कार्य।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "app-inventor",
+      "title": {
+        "en": "MIT App Inventor",
+        "hi": "MIT App Inventor"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "MIT App Inventor is a block-based tool for building Android apps - available online or as an offline version. Instead of typing code, you snap puzzle-like blocks together.",
+          "hi": "MIT App Inventor Android ऐप बनाने का ब्लॉक-आधारित टूल है - ऑनलाइन या ऑफ़लाइन उपलब्ध। कोड टाइप करने के बजाय पहेली जैसे ब्लॉक जोड़े जाते हैं।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Design your app's screens in the Designer.",
+              "hi": "Designer में ऐप की स्क्रीन डिज़ाइन करें।"
+            },
+            {
+              "en": "Define the behaviour using Blocks.",
+              "hi": "Blocks से ऐप का व्यवहार तय करें।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "components",
+      "title": {
+        "en": "App Design Components",
+        "hi": "ऐप डिज़ाइन कंपोनेंट्स"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Layout",
+                "hi": "Layout"
+              },
+              "d": {
+                "en": "Arranges elements neatly on the screen.",
+                "hi": "स्क्रीन पर तत्वों को सुव्यवस्थित रखता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Label",
+                "hi": "Label"
+              },
+              "d": {
+                "en": "Shows text to the user.",
+                "hi": "उपयोगकर्ता को टेक्स्ट दिखाता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Textbox",
+                "hi": "Textbox"
+              },
+              "d": {
+                "en": "Lets the user type input.",
+                "hi": "उपयोगकर्ता टाइप कर सकता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Button",
+                "hi": "Button"
+              },
+              "d": {
+                "en": "Performs an action when tapped.",
+                "hi": "टैप करने पर क्रिया करता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Media",
+                "hi": "Media"
+              },
+              "d": {
+                "en": "Adds images and sounds to the app.",
+                "hi": "ऐप में चित्र/ध्वनि जोड़ता है।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "testing-apk",
+      "title": {
+        "en": "Testing and Launching the App",
+        "hi": "ऐप परखना और लॉन्च करना"
+      },
+      "blocks": [
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Test the app on an Android mobile or a Mobile Emulator (offline emulator can be downloaded).",
+              "hi": "ऐप को Android मोबाइल या Mobile Emulator (ऑफ़लाइन एमुलेटर डाउनलोड करके) पर परखें।"
+            },
+            {
+              "en": "Fix any problems found during testing.",
+              "hi": "परीक्षण में मिली समस्याएँ सुधारें।"
+            },
+            {
+              "en": "Export the finished app as an .apk file.",
+              "hi": "तैयार ऐप को .apk फ़ाइल के रूप में निकालें।"
+            },
+            {
+              "en": "Install the .apk on a mobile to launch the app.",
+              "hi": "मोबाइल में .apk इंस्टॉल करके ऐप लॉन्च करें।"
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "Always test your app before sharing it - testing finds problems while they are still easy to fix.",
+          "hi": "साझा करने से पहले ऐप सदैव परखें - परीक्षण से समस्याएँ जल्दी पकड़ी जाती हैं।"
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "MIT App Inventor",
+      "hi": "ब्लॉक-आधारित मोबाइल ऐप बिल्डर"
+    },
+    {
+      "en": "Layout",
+      "hi": "स्क्रीन पर तत्वों की व्यवस्था"
+    },
+    {
+      "en": "Emulator",
+      "hi": "मोबाइल का सॉफ्टवेयर अनुकरण"
+    },
+    {
+      "en": ".apk",
+      "hi": "Android ऐप इंस्टॉल फ़ाइल"
+    },
+    {
+      "en": "Component",
+      "hi": "ऐप का भवन-खंड जैसे Button, Label"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "Which tool is used in this chapter to build mobile apps?",
+        "hi": "इस अध्याय में मोबाइल ऐप बनाने के लिए कौन-सा टूल उपयोग होता है?"
+      },
+      "options": [
+        {
+          "en": "Scratch",
+          "hi": "Scratch"
+        },
+        {
+          "en": "MIT App Inventor",
+          "hi": "MIT App Inventor"
+        },
+        {
+          "en": "MS Word",
+          "hi": "MS Word"
+        },
+        {
+          "en": "Google Sheets",
+          "hi": "Google Sheets"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "MIT App Inventor (online or offline) is used to build apps.",
+        "hi": "MIT App Inventor (ऑनलाइन/ऑफ़लाइन) से ऐप बनाए जाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "What is an emulator?",
+        "hi": "एमुलेटर क्या है?"
+      },
+      "options": [
+        {
+          "en": "A type of mobile app",
+          "hi": "एक प्रकार का मोबाइल ऐप"
+        },
+        {
+          "en": "Software that imitates a mobile for testing apps",
+          "hi": "ऐप परखने के लिए मोबाइल का अनुकरण करने वाला सॉफ्टवेयर"
+        },
+        {
+          "en": "A charging cable",
+          "hi": "चार्जिंग केबल"
+        },
+        {
+          "en": "A screenshot tool",
+          "hi": "स्क्रीनशॉट टूल"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "An emulator imitates a mobile phone so apps can be tested without a real device.",
+        "hi": "एमुलेटर मोबाइल का अनुकरण करता है ताकि ऐप बिना असली फ़ोन के परखे जा सकें।"
+      }
+    },
+    {
+      "question": {
+        "en": "In which file format is the finished app exported?",
+        "hi": "तैयार ऐप किस फ़ाइल फ़ॉर्मेट में एक्सपोर्ट होता है?"
+      },
+      "options": [
+        {
+          "en": ".docx",
+          "hi": ".docx"
+        },
+        {
+          "en": ".xlsx",
+          "hi": ".xlsx"
+        },
+        {
+          "en": ".apk",
+          "hi": ".apk"
+        },
+        {
+          "en": ".mp3",
+          "hi": ".mp3"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "An .apk file is created to launch the app on a mobile.",
+        "hi": "ऐप को मोबाइल पर लॉन्च करने के लिए .apk फ़ाइल बनाई जाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which component is used to let users type text in the app?",
+        "hi": "ऐप में उपयोगकर्ता टेक्स्ट टाइप करें, इसके लिए कौन-सा कंपोनेंट उपयोग होता है?"
+      },
+      "options": [
+        {
+          "en": "Label",
+          "hi": "Label"
+        },
+        {
+          "en": "Textbox",
+          "hi": "Textbox"
+        },
+        {
+          "en": "Layout",
+          "hi": "Layout"
+        },
+        {
+          "en": "Media",
+          "hi": "Media"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "A Textbox component accepts typed text from the user.",
+        "hi": "Textbox कंपोनेंट उपयोगकर्ता से टाइप किया टेक्स्ट लेता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "How is the app's behaviour defined in App Inventor?",
+        "hi": "App Inventor में ऐप का व्यवहार कैसे तय होता है?"
+      },
+      "options": [
+        {
+          "en": "By typing long code",
+          "hi": "लंबा कोड टाइप करके"
+        },
+        {
+          "en": "With puzzle-like blocks",
+          "hi": "पहेली जैसे ब्लॉकों से"
+        },
+        {
+          "en": "By drawing pictures",
+          "hi": "चित्र बनाकर"
+        },
+        {
+          "en": "It cannot be changed",
+          "hi": "इसे बदला नहीं जा सकता"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "App Inventor uses block-based programming instead of typed code.",
+        "hi": "App Inventor टाइप किए कोड के बजाय ब्लॉक-आधारित प्रोग्रामिंग उपयोग करता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these is a type of mobile app?",
+        "hi": "इनमें से मोबाइल ऐप का प्रकार कौन है?"
+      },
+      "options": [
+        {
+          "en": "Games, educational, social, shopping, utility",
+          "hi": "गेम, शैक्षिक, सोशल, शॉपिंग, यूटिलिटी"
+        },
+        {
+          "en": "Only fans",
+          "hi": "केवल पंखे"
+        },
+        {
+          "en": "Only fridges",
+          "hi": "केवल फ्रिज"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Apps come in many types - games, education, social, shopping, utility.",
+        "hi": "ऐप कई प्रकार के होते हैं - गेम, शिक्षा, सोशल, शॉपिंग, यूटिलिटी।"
+      }
+    },
+    {
+      "question": {
+        "en": "MIT App Inventor is available…",
+        "hi": "MIT App Inventor कहाँ उपलब्ध है?"
+      },
+      "options": [
+        {
+          "en": "Online or as an offline version",
+          "hi": "ऑनलाइन या ऑफ़लाइन संस्करण में"
+        },
+        {
+          "en": "Only on paper",
+          "hi": "केवल कागज़ पर"
+        },
+        {
+          "en": "Only in books",
+          "hi": "केवल किताबों में"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Use App Inventor online or download the offline version.",
+        "hi": "App Inventor ऑनलाइन या ऑफ़लाइन दोनों में उपलब्ध है।"
+      }
+    },
+    {
+      "question": {
+        "en": "App behaviour in App Inventor is defined using…",
+        "hi": "App Inventor में ऐप का व्यवहार किससे तय होता है?"
+      },
+      "options": [
+        {
+          "en": "Puzzle-like blocks",
+          "hi": "पहेली जैसे ब्लॉकों से"
+        },
+        {
+          "en": "Handwritten letters",
+          "hi": "हस्तलिखित पत्रों से"
+        },
+        {
+          "en": "Voice only",
+          "hi": "केवल आवाज़ से"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Blocks snap together to define what the app does.",
+        "hi": "ब्लॉक जुड़कर ऐप का काम तय करते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "The Layout component is used to…",
+        "hi": "Layout कंपोनेंट का उपयोग होता है…"
+      },
+      "options": [
+        {
+          "en": "Arrange elements neatly on the screen",
+          "hi": "स्क्रीन पर तत्वों को सुव्यवस्थित रखने"
+        },
+        {
+          "en": "Delete the app",
+          "hi": "ऐप डिलीट करने"
+        },
+        {
+          "en": "Charge the phone",
+          "hi": "फ़ोन चार्ज करने"
+        },
+        {
+          "en": "Print the screen",
+          "hi": "स्क्रीन प्रिंट करने"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Layout arranges the app's design elements.",
+        "hi": "Layout ऐप के तत्वों की व्यवस्था करता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A Label component is used to…",
+        "hi": "Label कंपोनेंट का उपयोग होता है…"
+      },
+      "options": [
+        {
+          "en": "Show text on the screen",
+          "hi": "स्क्रीन पर टेक्स्ट दिखाने"
+        },
+        {
+          "en": "Take typed input",
+          "hi": "टाइप इनपुट लेने"
+        },
+        {
+          "en": "Play sounds",
+          "hi": "ध्वनि बजाने"
+        },
+        {
+          "en": "Make calls",
+          "hi": "कॉल करने"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Labels display text to the user.",
+        "hi": "Label उपयोगकर्ता को टेक्स्ट दिखाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A Textbox component lets the user…",
+        "hi": "Textbox कंपोनेंट उपयोगकर्ता को क्या करने देता है?"
+      },
+      "options": [
+        {
+          "en": "Type text into the app",
+          "hi": "ऐप में टेक्स्ट टाइप करना"
+        },
+        {
+          "en": "Only read",
+          "hi": "केवल पढ़ना"
+        },
+        {
+          "en": "Delete the app",
+          "hi": "ऐप डिलीट करना"
+        },
+        {
+          "en": "Print",
+          "hi": "प्रिंट करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Textboxes accept typed input.",
+        "hi": "Textbox टाइप किया इनपुट लेता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A Button component is used to…",
+        "hi": "Button कंपोनेंट का उपयोग होता है…"
+      },
+      "options": [
+        {
+          "en": "Trigger actions when tapped",
+          "hi": "टैप करने पर क्रियाएँ चलाने"
+        },
+        {
+          "en": "Show photos only",
+          "hi": "केवल फ़ोटो दिखाने"
+        },
+        {
+          "en": "Type text",
+          "hi": "टेक्स्ट टाइप करने"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Buttons perform actions when the user taps them.",
+        "hi": "बटन टैप पर क्रिया करते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "The Media component adds…",
+        "hi": "Media कंपोनेंट क्या जोड़ता है?"
+      },
+      "options": [
+        {
+          "en": "Images and sounds",
+          "hi": "चित्र और ध्वनि"
+        },
+        {
+          "en": "Cables",
+          "hi": "केबल"
+        },
+        {
+          "en": "Batteries",
+          "hi": "बैटरी"
+        },
+        {
+          "en": "Printers",
+          "hi": "प्रिंटर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Media brings pictures and sounds into the app.",
+        "hi": "Media से ऐप में चित्र/ध्वनि आते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "An emulator is…",
+        "hi": "एमुलेटर क्या है?"
+      },
+      "options": [
+        {
+          "en": "Software that imitates a mobile for testing apps",
+          "hi": "ऐप परखने हेतु मोबाइल का अनुकरण करने वाला सॉफ्टवेयर"
+        },
+        {
+          "en": "A charging cable",
+          "hi": "चार्जिंग केबल"
+        },
+        {
+          "en": "A SIM card",
+          "hi": "सिम कार्ड"
+        },
+        {
+          "en": "A screenshot",
+          "hi": "स्क्रीनशॉट"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "An emulator imitates a phone so apps can be tested without a real device.",
+        "hi": "एमुलेटर फ़ोन जैसा व्यवहार करके परीक्षण कराता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "An .apk file is…",
+        "hi": ".apk फ़ाइल क्या है?"
+      },
+      "options": [
+        {
+          "en": "The Android app file to install and launch",
+          "hi": "इंस्टॉल व लॉन्च हेतु Android ऐप फ़ाइल"
+        },
+        {
+          "en": "A music file",
+          "hi": "संगीत फ़ाइल"
+        },
+        {
+          "en": "A document",
+          "hi": "दस्तावेज़"
+        },
+        {
+          "en": "A picture",
+          "hi": "चित्र"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The finished app is exported as an .apk file.",
+        "hi": "तैयार ऐप .apk फ़ाइल के रूप में निकाला जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Apps are tested on…",
+        "hi": "ऐप्स कहाँ परखे जाते हैं?"
+      },
+      "options": [
+        {
+          "en": "An Android mobile or a mobile emulator",
+          "hi": "Android मोबाइल या मोबाइल एमुलेटर पर"
+        },
+        {
+          "en": "A fridge",
+          "hi": "फ्रिज पर"
+        },
+        {
+          "en": "A radio",
+          "hi": "रेडियो पर"
+        },
+        {
+          "en": "Nowhere",
+          "hi": "कहीं नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Test on an Android phone or emulator.",
+        "hi": "Android फ़ोन या एमुलेटर पर परखें।"
+      }
+    },
+    {
+      "question": {
+        "en": "The emulator's offline version can be…",
+        "hi": "एमुलेटर का ऑफ़लाइन संस्करण क्या किया जा सकता है?"
+      },
+      "options": [
+        {
+          "en": "Downloaded and used",
+          "hi": "डाउनलोड कर उपयोग किया जा सकता है"
+        },
+        {
+          "en": "Eaten",
+          "hi": "खा लिया जा सकता है"
+        },
+        {
+          "en": "Only dreamt of",
+          "hi": "केवल सपने में देखा"
+        },
+        {
+          "en": "Never used",
+          "hi": "कभी उपयोग नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Download the offline emulator version for use.",
+        "hi": "ऑफ़लाइन एमुलेटर डाउनलोड करके उपयोग करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Building an app involves…",
+        "hi": "ऐप बनाने में शामिल है…"
+      },
+      "options": [
+        {
+          "en": "Designing the UI, adding blocks, testing, exporting .apk",
+          "hi": "UI डिज़ाइन, ब्लॉक जोड़ना, परखना, .apk निकालना"
+        },
+        {
+          "en": "Only dreaming",
+          "hi": "केवल सपने देखना"
+        },
+        {
+          "en": "Only buying phones",
+          "hi": "केवल फ़ोन खरीदना"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Design, code with blocks, test, then export the .apk.",
+        "hi": "डिज़ाइन, ब्लॉक्स, परीक्षण, फिर .apk एक्सपोर्ट।"
+      }
+    },
+    {
+      "question": {
+        "en": "MIT App Inventor is best described as…",
+        "hi": "MIT App Inventor को सर्वोत्तम रूप से कैसे कहेंगे?"
+      },
+      "options": [
+        {
+          "en": "A block-based tool for building Android apps",
+          "hi": "Android ऐप बनाने का ब्लॉक-आधारित टूल"
+        },
+        {
+          "en": "A spreadsheet",
+          "hi": "स्प्रेडशीट"
+        },
+        {
+          "en": "A browser",
+          "hi": "ब्राउज़र"
+        },
+        {
+          "en": "A printer",
+          "hi": "प्रिंटर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "It builds Android apps using blocks instead of typed code.",
+        "hi": "यह ब्लॉकों से Android ऐप बनाता है, टाइप किए कोड से नहीं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Testing the app before sharing is important because…",
+        "hi": "साझा करने से पहले ऐप परखना ज़रूरी है क्योंकि…"
+      },
+      "options": [
+        {
+          "en": "Problems can be found and fixed",
+          "hi": "समस्याएँ पकड़कर सुधारी जा सकती हैं"
+        },
+        {
+          "en": "It wastes time",
+          "hi": "समय बर्बाद होता है"
+        },
+        {
+          "en": "Apps get deleted",
+          "hi": "ऐप डिलीट हो जाते हैं"
+        },
+        {
+          "en": "Phones get hot",
+          "hi": "फ़ोन गर्म होते हैं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Testing catches problems early.",
+        "hi": "परीक्षण से समस्याएँ जल्दी पकड़ी जाती हैं।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "APK stands for Android Package Kit - an APK is actually a ZIP file in disguise. Rename one to .zip and you can peek inside!",
+      "hi": "APK का पूरा नाम Android Package Kit है - APK दरअसल छिपा हुआ ZIP फ़ाइल है। उसका नाम .zip करके देखें, अंदर की चीज़ें दिख जाएँगी!"
+    },
+    {
+      "en": "Android was first made for digital cameras, not phones! The makers changed course and Google bought it in 2005.",
+      "hi": "Android सबसे पहले डिजिटल कैमरों के लिए बना था, फ़ोनों के लिए नहीं! रचनाकारों ने रास्ता बदला और Google ने इसे 2005 में खरीद लिया।"
+    },
+    {
+      "en": "Android is built on Linux, the same open-source kernel that powers most of the world's servers - your phone carries a mini computer powerhouse.",
+      "hi": "Android Linux पर बना है, वही open-source kernel जो दुनिया के ज़्यादातर सर्वर चलाता है - आपका फ़ोन एक छोटी ताक़तवर कंप्यूटर मशीन है।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "App: a program that runs on a mobile.",
+      "hi": "ऐप: मोबाइल पर चलने वाला प्रोग्राम।"
+    },
+    {
+      "en": "MIT App Inventor: block-based Android app builder.",
+      "hi": "MIT App Inventor: ब्लॉक-आधारित Android ऐप बिल्डर।"
+    },
+    {
+      "en": "Emulator: software that imitates a mobile for testing.",
+      "hi": "एमुलेटर: परीक्षण हेतु मोबाइल का अनुकरण।"
+    },
+    {
+      "en": ".apk: the Android app file to install.",
+      "hi": ".apk: इंस्टॉल हेतु Android ऐप फ़ाइल।"
+    },
+    {
+      "en": "Components: building blocks like Layout, Label, Button.",
+      "hi": "कंपोनेंट्स: Layout, Label, Button जैसे भवन-खंड।"
+    }
+  ],
+  "conclusion": {
+    "en": "With MIT App Inventor, anyone can design, build and launch a working Android app - design the screen, snap the blocks, test, and export the .apk.",
+    "hi": "MIT App Inventor से कोई भी Android ऐप बना सकता है - स्क्रीन डिज़ाइन करें, ब्लॉक जोड़ें, परखें और .apk निकालें।"
+  }
+}

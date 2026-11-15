@@ -1,0 +1,859 @@
+{
+  "id": "ch1",
+  "title": {
+    "en": "Data Representation and Processing-04 (Spreadsheet)",
+    "hi": "डेटा प्रतिनिधित्व और प्रसंस्करण-04 (स्प्रेडशीट)"
+  },
+  "class": 8,
+  "pages": "5-32",
+  "overview": {
+    "en": "Building on Class 6 spreadsheet basics, this chapter covers understanding graphs and charts, creating Line, Bar and Pie charts from data, using Sorting and Filtering, and applying logical functions such as IF, SUMIF and COUNTIF.",
+    "hi": "कक्षा 6 की स्प्रेडशीट बुनियादों के आगे, यह अध्याय ग्राफ़ और चार्ट समझना, डेटा के आधार पर Line Chart, Bar Chart, Pie Chart बनाना, Sorting एवं Filtering का उपयोग करना तथा IF, SUMIF और COUNTIF जैसे logical functions का उपयोग करना सिखाता है।"
+  },
+  "sections": [
+    {
+      "id": "recap",
+      "title": {
+        "en": "Spreadsheet - Recap from Class 6",
+        "hi": "स्प्रेडशीट - कक्षा 6 का पुनरावलोकन"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "A spreadsheet is a computer application that helps us store data and perform calculations on it.",
+          "hi": "स्प्रेडशीट एक कंप्यूटर एप्लिकेशन है जो डेटा संग्रहित करने और उस पर गणना करने में मदद करता है।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Examples",
+            "hi": "उदाहरण"
+          },
+          "items": [
+            {
+              "en": "Microsoft Excel",
+              "hi": "Microsoft Excel"
+            },
+            {
+              "en": "LibreOffice Calc",
+              "hi": "LibreOffice Calc"
+            },
+            {
+              "en": "Google Sheets",
+              "hi": "Google Sheets"
+            }
+          ]
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Already learned in Class 6",
+            "hi": "कक्षा 6 में सीखा जा चुका"
+          },
+          "items": [
+            {
+              "en": "Creating a spreadsheet and inserting data.",
+              "hi": "स्प्रेडशीट बनाकर डेटा भरना।"
+            },
+            {
+              "en": "Inserting and deleting rows and columns.",
+              "hi": "पंक्तियाँ/स्तंभ जोड़ना-हटाना।"
+            },
+            {
+              "en": "Using min, max, sum, count and average functions.",
+              "hi": "min, max, sum, count, average फ़ंक्शन।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "charts",
+      "title": {
+        "en": "Graphs and Charts",
+        "hi": "ग्राफ़ और चार्ट"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Data in its raw form cannot convey much information. Charts and graphs represent data visually so it becomes easy to understand.",
+          "hi": "डेटा अपने मूल स्वरूप में अधिक जानकारी नहीं देता। चार्ट और ग्राफ़ डेटा को दृश्य रूप में दिखाकर समझना आसान कर देते हैं।"
+        },
+        {
+          "type": "num",
+          "title": {
+            "en": "Types of Charts (from data)",
+            "hi": "चार्ट के प्रकार (डेटा से)"
+          },
+          "items": [
+            {
+              "t": {
+                "en": "Line Chart",
+                "hi": "लाइन चार्ट"
+              },
+              "d": {
+                "en": "Shows changes and trends over time, e.g. temperature across a week.",
+                "hi": "समय के साथ बदलाव दिखाता है, जैसे सप्ताह भर का तापमान।"
+              }
+            },
+            {
+              "t": {
+                "en": "Bar Chart",
+                "hi": "बार चार्ट"
+              },
+              "d": {
+                "en": "Compares values side by side, e.g. marks of different students.",
+                "hi": "मानों की तुलना करता है, जैसे छात्रों के अंक।"
+              }
+            },
+            {
+              "t": {
+                "en": "Pie Chart",
+                "hi": "पाई चार्ट"
+              },
+              "d": {
+                "en": "Shows how parts make up a whole, e.g. how you spend your day.",
+                "hi": "कुल के हिस्से दिखाता है, जैसे दिन में समय का विभाजन।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sorting-filtering",
+      "title": {
+        "en": "Sorting and Filtering",
+        "hi": "सॉर्टिंग और फ़िल्टरिंग"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Sorting",
+                "hi": "सॉर्टिंग"
+              },
+              "d": {
+                "en": "Arranges data in an order - ascending (small to large, A to Z) or descending (large to small, Z to A) - making it easier to read and compare.",
+                "hi": "डेटा को क्रम में लगाती है - बढ़ते (छोटे से बड़े) या घटते (बड़े से छोटे) - पढ़ना-तुलना आसान हो जाता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Filtering",
+                "hi": "फ़िल्टरिंग"
+              },
+              "d": {
+                "en": "Shows only the rows that match a condition and hides the rest - useful with large tables.",
+                "hi": "शर्त से मेल खाती पंक्तियाँ दिखाकर बाकी छिपा देती है - बड़ी तालिकाओं में उपयोगी।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "logical-functions",
+      "title": {
+        "en": "Logical Functions",
+        "hi": "लॉजिकल फ़ंक्शन"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "IF",
+                "hi": "IF"
+              },
+              "d": {
+                "en": "Returns one result when a condition is true and another when it is false, e.g. IF(marks>=40, \"Pass\", \"Fail\").",
+                "hi": "शर्त सत्य हो तो एक परिणाम, असत्य पर दूसरा - जैसे IF(marks>=40, \"Pass\", \"Fail\")।"
+              }
+            },
+            {
+              "t": {
+                "en": "SUMIF",
+                "hi": "SUMIF"
+              },
+              "d": {
+                "en": "Adds only the values that meet the given condition.",
+                "hi": "केवल शर्त पूरी करने वाले मानों का योग करता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "COUNTIF",
+                "hi": "COUNTIF"
+              },
+              "d": {
+                "en": "Counts only the cells that meet the given condition.",
+                "hi": "केवल शर्त पूरी करने वाली सेलों की गिनती करता है।"
+              }
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "Charts turn numbers into pictures - choose the chart type based on what you want to show.",
+          "hi": "चार्ट संख्याओं को चित्र बना देते हैं - जो दिखाना है उसके अनुसार चार्ट चुनें।"
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Spreadsheet",
+      "hi": "डेटा स्टोर करने वाला कंप्यूटर एप्लिकेशन"
+    },
+    {
+      "en": "Chart",
+      "hi": "डेटा का चित्रात्मक प्रतिनिधित्व"
+    },
+    {
+      "en": "Sorting",
+      "hi": "डेटा को क्रम में लगाना"
+    },
+    {
+      "en": "Filtering",
+      "hi": "शर्त से मेल खाता डेटा दिखाना"
+    },
+    {
+      "en": "IF / SUMIF / COUNTIF",
+      "hi": "शर्त-आधारित फंक्शन"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "Which of these is an example of a spreadsheet application?",
+        "hi": "इनमें से स्प्रेडशीट एप्लिकेशन का उदाहरण कौन है?"
+      },
+      "options": [
+        {
+          "en": "MS Paint",
+          "hi": "MS Paint"
+        },
+        {
+          "en": "Google Sheets",
+          "hi": "Google Sheets"
+        },
+        {
+          "en": "Media Player",
+          "hi": "Media Player"
+        },
+        {
+          "en": "Calculator",
+          "hi": "Calculator"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Excel, LibreOffice Calc and Google Sheets are spreadsheet applications.",
+        "hi": "Excel, LibreOffice Calc और Google Sheets स्प्रेडशीट एप्लिकेशन हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which chart is best to show parts of a whole?",
+        "hi": "कुल के हिस्से दिखाने के लिए कौन-सा चार्ट सबसे उपयुक्त है?"
+      },
+      "options": [
+        {
+          "en": "Line Chart",
+          "hi": "Line Chart"
+        },
+        {
+          "en": "Pie Chart",
+          "hi": "Pie Chart"
+        },
+        {
+          "en": "Bar Chart",
+          "hi": "Bar Chart"
+        },
+        {
+          "en": "Text table",
+          "hi": "टेक्स्ट तालिका"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "A Pie Chart shows how parts make up a whole.",
+        "hi": "Pie Chart दिखाता है कि हिस्से मिलकर कुल कैसे बनाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Arranging data in ascending or descending order is called…",
+        "hi": "डेटा को बढ़ते या घटते क्रम में लगाना क्या कहलाता है?"
+      },
+      "options": [
+        {
+          "en": "Filtering",
+          "hi": "फ़िल्टरिंग"
+        },
+        {
+          "en": "Sorting",
+          "hi": "सॉर्टिंग"
+        },
+        {
+          "en": "Printing",
+          "hi": "प्रिंटिंग"
+        },
+        {
+          "en": "Saving",
+          "hi": "सेविंग"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Sorting arranges data in an order.",
+        "hi": "सॉर्टिंग डेटा को क्रम में व्यवस्थित करती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which function adds only values that meet a condition?",
+        "hi": "कौन-सा फंक्शन केवल शर्त पूरी करने वाले मानों का योग करता है?"
+      },
+      "options": [
+        {
+          "en": "SUM",
+          "hi": "SUM"
+        },
+        {
+          "en": "COUNT",
+          "hi": "COUNT"
+        },
+        {
+          "en": "SUMIF",
+          "hi": "SUMIF"
+        },
+        {
+          "en": "MAX",
+          "hi": "MAX"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "SUMIF adds only the values that meet the given condition.",
+        "hi": "SUMIF केवल शर्त पूरी करने वाले मानों को जोड़ता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "IF function returns…",
+        "hi": "IF फंक्शन क्या लौटाता है?"
+      },
+      "options": [
+        {
+          "en": "One value if condition is true, another if false",
+          "hi": "शर्त सत्य हो तो एक मान, असत्य हो तो दूसरा"
+        },
+        {
+          "en": "Always zero",
+          "hi": "सदैव शून्य"
+        },
+        {
+          "en": "The largest number only",
+          "hi": "केवल सबसे बड़ी संख्या"
+        },
+        {
+          "en": "A chart",
+          "hi": "एक चार्ट"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "IF gives one result when the condition is true and another when it is false.",
+        "hi": "IF शर्त सत्य होने पर एक परिणाम और असत्य होने पर दूसरा देता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Data in raw form…",
+        "hi": "डेटा अपने मूल स्वरूप में…"
+      },
+      "options": [
+        {
+          "en": "Cannot convey much information",
+          "hi": "अधिक जानकारी नहीं दे पाता"
+        },
+        {
+          "en": "Is always perfect",
+          "hi": "सदैव उत्तम होता है"
+        },
+        {
+          "en": "Is a picture",
+          "hi": "चित्र होता है"
+        },
+        {
+          "en": "Is a sound",
+          "hi": "ध्वनि होती है"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Raw data alone doesn't say much - charts help represent it.",
+        "hi": "कच्चा डेटा अकेले कम बताता है - चार्ट उसे दर्शाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which chart shows trends/changes over time?",
+        "hi": "कौन-सा चार्ट समय के साथ बदलाव दिखाता है?"
+      },
+      "options": [
+        {
+          "en": "Line Chart",
+          "hi": "Line Chart"
+        },
+        {
+          "en": "Pie Chart",
+          "hi": "Pie Chart"
+        },
+        {
+          "en": "Bar Chart",
+          "hi": "Bar Chart"
+        },
+        {
+          "en": "Text table",
+          "hi": "टेक्स्ट तालिका"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Line charts show how values change over time.",
+        "hi": "Line Chart समय के साथ मानों का बदलाव दिखाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which chart compares values side by side?",
+        "hi": "कौन-सा चार्ट मानों की तुलना करता है?"
+      },
+      "options": [
+        {
+          "en": "Bar Chart",
+          "hi": "Bar Chart"
+        },
+        {
+          "en": "Pie Chart",
+          "hi": "Pie Chart"
+        },
+        {
+          "en": "Line Chart",
+          "hi": "Line Chart"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Bar charts compare different values.",
+        "hi": "Bar Chart अलग-अलग मानों की तुलना करता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Sorting data in ascending order means…",
+        "hi": "डेटा को बढ़ते क्रम में लगाने का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "From smallest to largest",
+          "hi": "छोटे से बड़े तक"
+        },
+        {
+          "en": "From largest to smallest",
+          "hi": "बड़े से छोटे तक"
+        },
+        {
+          "en": "Randomly",
+          "hi": "यादृच्छिक"
+        },
+        {
+          "en": "By colour",
+          "hi": "रंग से"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ascending = small to large; descending = large to small.",
+        "hi": "बढ़ता = छोटे से बड़े; घटता = बड़े से छोटे।"
+      }
+    },
+    {
+      "question": {
+        "en": "Filtering a table shows…",
+        "hi": "तालिका फ़िल्टर करने पर क्या दिखता है?"
+      },
+      "options": [
+        {
+          "en": "Only rows matching the condition",
+          "hi": "केवल शर्त से मेल खाती पंक्तियाँ"
+        },
+        {
+          "en": "All rows always",
+          "hi": "सदैव सारी पंक्तियाँ"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        },
+        {
+          "en": "Only headings",
+          "hi": "केवल शीर्षक"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Filter shows matching rows and hides the rest.",
+        "hi": "फ़िल्टर मेल खाती पंक्तियाँ दिखाकर बाकी छिपा देता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "The IF function gives…",
+        "hi": "IF फ़ंक्शन क्या देता है?"
+      },
+      "options": [
+        {
+          "en": "One result if the condition is true, another if false",
+          "hi": "शर्त सत्य हो तो एक परिणाम, असत्य पर दूसरा"
+        },
+        {
+          "en": "Always zero",
+          "hi": "सदैव शून्य"
+        },
+        {
+          "en": "A chart",
+          "hi": "चार्ट"
+        },
+        {
+          "en": "A picture",
+          "hi": "चित्र"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "IF makes decisions inside the spreadsheet.",
+        "hi": "IF स्प्रेडशीट में निर्णय लेता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "COUNTIF counts cells that…",
+        "hi": "COUNTIF किन सेलों की गिनती करता है?"
+      },
+      "options": [
+        {
+          "en": "Meet the given condition",
+          "hi": "दी गई शर्त पूरी करते हैं"
+        },
+        {
+          "en": "Are coloured",
+          "hi": "रंगीन हैं"
+        },
+        {
+          "en": "Are empty",
+          "hi": "खाली हैं"
+        },
+        {
+          "en": "Are deleted",
+          "hi": "डिलीट हैं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "COUNTIF counts only cells satisfying the condition.",
+        "hi": "COUNTIF शर्त पूरी करने वाली सेलें गिनता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Sorting makes data…",
+        "hi": "सॉर्टिंग डेटा को कैसा बनाती है?"
+      },
+      "options": [
+        {
+          "en": "Easier to read and compare",
+          "hi": "पढ़ने व तुलना में आसान"
+        },
+        {
+          "en": "Impossible to read",
+          "hi": "पढ़ना असंभव"
+        },
+        {
+          "en": "Deleted",
+          "hi": "डिलीट"
+        },
+        {
+          "en": "Coloured",
+          "hi": "रंगीन"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ordered data is easier to read and compare.",
+        "hi": "क्रम में डेटा पढ़ना-तुलना करना आसान है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which function from Class 6 returns the largest value?",
+        "hi": "कक्षा 6 का कौन-सा फ़ंक्शन सबसे बड़ा मान देता है?"
+      },
+      "options": [
+        {
+          "en": "max",
+          "hi": "max"
+        },
+        {
+          "en": "min",
+          "hi": "min"
+        },
+        {
+          "en": "count",
+          "hi": "count"
+        },
+        {
+          "en": "average",
+          "hi": "average"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "max returns the largest value.",
+        "hi": "max सबसे बड़ा मान देता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Charts and graphs are used to…",
+        "hi": "चार्ट और ग्राफ़ का उपयोग होता है…"
+      },
+      "options": [
+        {
+          "en": "Represent data visually",
+          "hi": "डेटा को दृश्य रूप में दर्शाने"
+        },
+        {
+          "en": "Type letters",
+          "hi": "पत्र टाइप करने"
+        },
+        {
+          "en": "Send emails",
+          "hi": "ईमेल भेजने"
+        },
+        {
+          "en": "Play music",
+          "hi": "संगीत बजाने"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Both charts and graphs visually represent data.",
+        "hi": "चार्ट/ग्राफ़ डेटा को दृश्य रूप में दिखाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "A spreadsheet is a computer application that…",
+        "hi": "स्प्रेडशीट एक कंप्यूटर एप्लिकेशन है जो…"
+      },
+      "options": [
+        {
+          "en": "Helps store and work with data",
+          "hi": "डेटा संग्रहित व संसाधित करने में मदद करता है"
+        },
+        {
+          "en": "Only draws pictures",
+          "hi": "केवल चित्र बनाता है"
+        },
+        {
+          "en": "Only plays songs",
+          "hi": "केवल गाने बजाता है"
+        },
+        {
+          "en": "Sends parcels",
+          "hi": "पार्सल भेजता है"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Spreadsheets store data and support calculations.",
+        "hi": "स्प्रेडशीट डेटा रखती है और गणना करती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "If marks are in column B and you want the total of B2 to B10, you use…",
+        "hi": "अंक कॉलम B में हैं और B2–B10 का योग चाहिए तो उपयोग करें…"
+      },
+      "options": [
+        {
+          "en": "SUM function",
+          "hi": "SUM फ़ंक्शन"
+        },
+        {
+          "en": "Paint",
+          "hi": "Paint"
+        },
+        {
+          "en": "Email",
+          "hi": "ईमेल"
+        },
+        {
+          "en": "Printer",
+          "hi": "प्रिंटर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "SUM adds a range of values.",
+        "hi": "SUM मानों की श्रेणी जोड़ता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is NOT a logical function taught?",
+        "hi": "यह लॉजिकल फ़ंक्शन कौन नहीं सिखाया गया?"
+      },
+      "options": [
+        {
+          "en": "IF",
+          "hi": "IF"
+        },
+        {
+          "en": "SUMIF",
+          "hi": "SUMIF"
+        },
+        {
+          "en": "COUNTIF",
+          "hi": "COUNTIF"
+        },
+        {
+          "en": "IFLY",
+          "hi": "IFLY"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "IF, SUMIF and COUNTIF are the logical functions.",
+        "hi": "IF, SUMIF, COUNTIF लॉजिकल फ़ंक्शन हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "A pie chart is best when you want to show…",
+        "hi": "Pie Chart सबसे उपयुक्त है जब दिखाना हो…"
+      },
+      "options": [
+        {
+          "en": "How parts make up a whole",
+          "hi": "हिस्से मिलकर कुल कैसे बनाते हैं"
+        },
+        {
+          "en": "Alphabets",
+          "hi": "वर्णमाला"
+        },
+        {
+          "en": "Songs",
+          "hi": "गाने"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Pie charts show parts of a whole.",
+        "hi": "Pie Chart कुल के हिस्से दिखाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "LibreOffice Calc, MS Excel and Google Sheets are all…",
+        "hi": "LibreOffice Calc, MS Excel और Google Sheets सभी हैं…"
+      },
+      "options": [
+        {
+          "en": "Spreadsheet applications",
+          "hi": "स्प्रेडशीट एप्लिकेशन"
+        },
+        {
+          "en": "Browsers",
+          "hi": "ब्राउज़र"
+        },
+        {
+          "en": "Games",
+          "hi": "खेल"
+        },
+        {
+          "en": "Printers",
+          "hi": "प्रिंटर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "All three are spreadsheet applications.",
+        "hi": "तीनों स्प्रेडशीट एप्लिकेशन हैं।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "The pie chart got its name because it looks like a pie cut into slices - and it's over 200 years old!",
+      "hi": "पाई चार्ट का नाम इसलिए पड़ा क्योंकि यह कटी हुई पाई (पेस्ट्री) जैसा दिखता है - और यह 200 साल से भी पुराना है!"
+    },
+    {
+      "en": "Nurse Florence Nightingale used charts in the 1850s to show soldiers were dying from preventable diseases - her data literally changed hospital laws.",
+      "hi": "नर्स फ्लोरेंस नाइटिंगेल ने 1850 के दशक में चार्ट से दिखाया कि सैनिक रोकथाम-योग्य बीमारियों से मर रहे थे - उनके डेटा ने सचमुच अस्पतालों के नियम बदल दिए।"
+    },
+    {
+      "en": "Sorting a million names by hand would take weeks; a computer does it in under a second - that's the power of sorting algorithms.",
+      "hi": "दस लाख नाम हाथ से क्रम में लगाने में हफ़्तों लगते; कंप्यूटर एक सेकंड से भी कम में कर देता है - यही सॉर्टिंग एल्गोरिथ्म की ताक़त है।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "Chart: a visual representation of data.",
+      "hi": "चार्ट: डेटा का दृश्य रूप।"
+    },
+    {
+      "en": "Line Chart: shows trends over time.",
+      "hi": "Line Chart: समय के साथ बदलाव।"
+    },
+    {
+      "en": "Bar Chart: compares values.",
+      "hi": "Bar Chart: मानों की तुलना।"
+    },
+    {
+      "en": "Pie Chart: shows parts of a whole.",
+      "hi": "Pie Chart: कुल के हिस्से।"
+    },
+    {
+      "en": "Sorting: arranging data in order.",
+      "hi": "सॉर्टिंग: डेटा को क्रम में लगाना।"
+    },
+    {
+      "en": "Filtering: showing only matching rows.",
+      "hi": "फ़िल्टरिंग: केवल मेल खाती पंक्तियाँ दिखाना।"
+    },
+    {
+      "en": "IF/SUMIF/COUNTIF: condition-based functions.",
+      "hi": "IF/SUMIF/COUNTIF: शर्त-आधारित फ़ंक्शन।"
+    }
+  ],
+  "conclusion": {
+    "en": "Spreadsheets organise data, charts explain it visually, and logical functions help the computer take decisions for us.",
+    "hi": "स्प्रेडशीट डेटा व्यवस्थित करती है, चार्ट उसे दृश्य रूप में समझाते हैं, और लॉजिकल फ़ंक्शन कंप्यूटर से हमारे लिए निर्णय ले सकते हैं।"
+  }
+}

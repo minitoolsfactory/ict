@@ -1,0 +1,799 @@
+{
+  "id": "ch6",
+  "title": {
+    "en": "Being Future Ready - 01",
+    "hi": "भविष्य के लिए तैयार - 01"
+  },
+  "class": 6,
+  "pages": "136-144",
+  "overview": {
+    "en": "Future skills, digital literacy, career opportunities in ICT, and how to stay prepared for a technology-driven world.",
+    "hi": "भविष्य के कौशल, डिजिटल साक्षरता, आईसीटी में करियर के अवसर और तकनीक से संचालित दुनिया के लिए तैयार रहने का तरीका।"
+  },
+  "sections": [
+    {
+      "id": "ar",
+      "title": {
+        "en": "Augmented Reality (AR)",
+        "hi": "ऑग्मेंटेड रियलिटी (AR)"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Mixing computer-generated (virtual) objects into our real environment in real time is called Augmented Reality.",
+          "hi": "कंप्यूटर-निर्मित (आभासी) वस्तुओं को हमारे वास्तविक वातावरण में रीयल-टाइम में मिश्रित करना ऑग्मेंटेड रियलिटी कहलाता है।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Example from the book",
+            "hi": "पुस्तक का उदाहरण"
+          },
+          "items": [
+            {
+              "en": "The Flip app: create a video, download its QR code, and scan it with the Flip app to view it in AR.",
+              "hi": "Flip ऐप: वीडियो बनाएँ, उसका QR कोड डाउनलोड करें, Flip ऐप से स्कैन कर AR में देखें।"
+            },
+            {
+              "en": "AR apps can be found on the Google Play Store or iOS App Store.",
+              "hi": "AR ऐप्स Google Play Store या iOS App Store पर मिलते हैं।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vr",
+      "title": {
+        "en": "Virtual Reality (VR)",
+        "hi": "वर्चुअल रियलिटी (VR)"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Virtual Reality creates an immersive 360° digital environment all around us, which feels real but is completely digital.",
+          "hi": "वर्चुअल रियलिटी चारों ओर इमर्सिव 360° डिजिटल वातावरण बनाती है, जो वास्तविक लगता है पर पूरा डिजिटल होता है।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "VR uses the computer-generated information completely for an immersive experience.",
+              "hi": "VR कंप्यूटर-निर्मित जानकारी का पूर्ण इमर्सिव अनुभव हेतु उपयोग करती है।"
+            },
+            {
+              "en": "Example: virtual tours and VR gaming.",
+              "hi": "उदाहरण: वर्चुअल टूर और VR गेमिंग।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": {
+        "en": "Artificial Intelligence (AI)",
+        "hi": "कृत्रिम बुद्धिमत्ता (AI)"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "AI means giving machines the ability to think and learn like humans.",
+          "hi": "AI अर्थात मशीनों को इंसानों की तरह सोचने और सीखने की क्षमता देना।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "'Artificial' means man-made — a machine's intelligence is made by humans, not by nature.",
+              "hi": "'Artificial' अर्थात मानव-निर्मित — मशीन की बुद्धि मानव द्वारा बनी, प्रकृति द्वारा नहीं।"
+            },
+            {
+              "en": "AI learns from data, like we learn from experience.",
+              "hi": "AI डेटा से सीखती है, जैसे हम अनुभव से सीखते हैं।"
+            },
+            {
+              "en": "Examples: voice assistants answering questions, AI spotting diseases in scans.",
+              "hi": "उदाहरण: प्रश्नों के उत्तर देते वॉइस असिस्टेंट, स्कैन में रोग पकड़ती AI।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "title": {
+        "en": "AR vs VR vs AI",
+        "hi": "AR बनाम VR बनाम AI"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "head": [
+            {
+              "en": "Technology",
+              "hi": "तकनीक"
+            },
+            {
+              "en": "What it does",
+              "hi": "क्या करती है"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "en": "AR",
+                "hi": "AR"
+              },
+              {
+                "en": "Mixes virtual objects into the real world (e.g. a tiger standing in your room via the camera).",
+                "hi": "वास्तविक दुनिया में आभासी वस्तुएँ मिलाती है (जैसे कैमरे से कमरे में बाघ)।"
+              }
+            ],
+            [
+              {
+                "en": "VR",
+                "hi": "VR"
+              },
+              {
+                "en": "Creates a fully immersive 360° digital world.",
+                "hi": "पूर्ण इमर्सिव 360° डिजिटल संसार बनाती है।"
+              }
+            ],
+            [
+              {
+                "en": "AI",
+                "hi": "AI"
+              },
+              {
+                "en": "Gives machines human-like thinking and learning.",
+                "hi": "मशीनों को इंसान-जैसी सोच-सीख देती है।"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "Learning AR, VR and AI today prepares you for the technologies of tomorrow.",
+          "hi": "आज AR, VR और AI सीखना आपको कल की तकनीकों के लिए तैयार करता है।"
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Digital Literacy",
+      "hi": "डिजिटल साक्षरता"
+    },
+    {
+      "en": "Career",
+      "hi": "करियर"
+    },
+    {
+      "en": "Future Skills",
+      "hi": "भविष्य के कौशल"
+    },
+    {
+      "en": "Digital Citizenship",
+      "hi": "डिजिटल नागरिकता"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "Which is NOT a future-ready skill?",
+        "hi": "भविष्य के लिए तैयार कौशल में से कौन सा नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Critical thinking",
+          "hi": "आलोचनात्मक सोच"
+        },
+        {
+          "en": "Adaptability",
+          "hi": "अनुकूलन क्षमता"
+        },
+        {
+          "en": "Ignoring new technology",
+          "hi": "नई तकनीक की अनदेखी करना"
+        },
+        {
+          "en": "Collaboration",
+          "hi": "सहयोग"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Being future-ready means embracing new technology, not ignoring it.",
+        "hi": "भविष्य के लिए तैयार होने का मतलब नई तकनीक को अपनाना है, न कि उसकी अनदेखी करना।"
+      }
+    },
+    {
+      "question": {
+        "en": "Augmented Reality (AR) mixes computer-generated information with…",
+        "hi": "ऑग्मेंटेड रियलिटी (AR) कंप्यूटर-निर्मित जानकारी को किसके साथ मिश्रित करती है?"
+      },
+      "options": [
+        {
+          "en": "Our real environment, in real time",
+          "hi": "हमारा वास्तविक वातावरण, रीयल-टाइम में"
+        },
+        {
+          "en": "Only books",
+          "hi": "केवल किताबें"
+        },
+        {
+          "en": "Only movies",
+          "hi": "केवल फ़िल्में"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "AR blends virtual objects into the real world in real time.",
+        "hi": "AR वास्तविक दुनिया में आभासी वस्तुएँ रीयल-टाइम में मिलाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Virtual Reality (VR) creates…",
+        "hi": "वर्चुअल रियलिटी (VR) क्या बनाती है?"
+      },
+      "options": [
+        {
+          "en": "An immersive 360° digital environment that feels real",
+          "hi": "इमर्सिव 360° डिजिटल वातावरण जो वास्तविक लगता है"
+        },
+        {
+          "en": "A paper model",
+          "hi": "कागज़ का मॉडल"
+        },
+        {
+          "en": "A spreadsheet",
+          "hi": "स्प्रेडशीट"
+        },
+        {
+          "en": "An email",
+          "hi": "ईमेल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "VR surrounds us with a 360° digital world.",
+        "hi": "VR चारों ओर 360° डिजिटल वातावरण बनाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Artificial Intelligence means…",
+        "hi": "कृत्रिम बुद्धिमत्ता (AI) का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Giving machines the ability to think and learn like humans",
+          "hi": "मशीनों को इंसान की तरह सोचने-सीखने की क्षमता देना"
+        },
+        {
+          "en": "A type of mouse",
+          "hi": "एक प्रकार का माउस"
+        },
+        {
+          "en": "Only robot movies",
+          "hi": "केवल रोबोट फ़िल्में"
+        },
+        {
+          "en": "Electric wires",
+          "hi": "बिजली के तार"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "AI enables machines to think and learn like humans.",
+        "hi": "AI मशीनों को इंसान जैसी सोच-समझ देती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which app was used in the book's AR activity?",
+        "hi": "पुस्तक की AR गतिविधि में कौन-सा ऐप उपयोग हुआ?"
+      },
+      "options": [
+        {
+          "en": "Flip",
+          "hi": "Flip"
+        },
+        {
+          "en": "Calculator",
+          "hi": "कैलकुलेटर"
+        },
+        {
+          "en": "MS Paint",
+          "hi": "MS Paint"
+        },
+        {
+          "en": "Notepad",
+          "hi": "Notepad"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Flip app was used to create a video and view it in AR via QR code.",
+        "hi": "Flip ऐप से वीडियो बनाकर QR कोड से AR में देखा गया।"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the main difference between AR and VR?",
+        "hi": "AR और VR में मुख्य अंतर क्या है?"
+      },
+      "options": [
+        {
+          "en": "AR mixes with the real world; VR is fully immersive",
+          "hi": "AR वास्तविक दुनिया से मिलती है; VR पूरी तरह इमर्सिव होती है"
+        },
+        {
+          "en": "There is no difference",
+          "hi": "कोई अंतर नहीं"
+        },
+        {
+          "en": "VR is always cheaper",
+          "hi": "VR सदैव सस्ती है"
+        },
+        {
+          "en": "AR needs no device",
+          "hi": "AR को उपकरण नहीं चाहिए"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "AR adds to reality; VR replaces it with a fully digital world.",
+        "hi": "AR वास्तविकता पर जोड़ती है; VR पूरा डिजिटल संसार बना देती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "In the Flip activity, how do you view the video in AR?",
+        "hi": "Flip गतिविधि में वीडियो AR में कैसे देखते हैं?"
+      },
+      "options": [
+        {
+          "en": "By scanning its QR code with the Flip app",
+          "hi": "Flip ऐप से उसका QR कोड स्कैन करके"
+        },
+        {
+          "en": "By printing it",
+          "hi": "प्रिंट करके"
+        },
+        {
+          "en": "By mailing it",
+          "hi": "मेल करके"
+        },
+        {
+          "en": "By deleting it",
+          "hi": "डिलीट करके"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Download the QR code and scan it with the Flip app.",
+        "hi": "QR कोड डाउनलोड कर Flip ऐप से स्कैन करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "The word 'Artificial' means…",
+        "hi": "'Artificial' शब्द का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Man-made, not natural",
+          "hi": "मानव-निर्मित, प्राकृतिक नहीं"
+        },
+        {
+          "en": "Very old",
+          "hi": "बहुत पुराना"
+        },
+        {
+          "en": "Very heavy",
+          "hi": "बहुत भारी"
+        },
+        {
+          "en": "Tiny",
+          "hi": "बहुत छोटा"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Artificial means made by humans, not by nature.",
+        "hi": "Artificial अर्थात मानव द्वारा निर्मित।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these is an example of AI in daily life?",
+        "hi": "दैनिक जीवन में AI का उदाहरण कौन है?"
+      },
+      "options": [
+        {
+          "en": "A voice assistant that answers questions",
+          "hi": "प्रश्नों के उत्तर देने वाला वॉइस असिस्टेंट"
+        },
+        {
+          "en": "A wooden chair",
+          "hi": "लकड़ी की कुर्सी"
+        },
+        {
+          "en": "A pencil",
+          "hi": "पेंसिल"
+        },
+        {
+          "en": "Water bottle",
+          "hi": "पानी की बोतल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Voice assistants use AI to understand and answer.",
+        "hi": "वॉइस असिस्टेंट AI से समझकर उत्तर देते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "AR apps can be found on…",
+        "hi": "AR ऐप्स कहाँ मिलते हैं?"
+      },
+      "options": [
+        {
+          "en": "Google Play Store or iOS App Store",
+          "hi": "Google Play Store या iOS App Store"
+        },
+        {
+          "en": "Radio",
+          "hi": "रेडियो"
+        },
+        {
+          "en": "Newspaper",
+          "hi": "समाचार पत्र"
+        },
+        {
+          "en": "Nowhere",
+          "hi": "कहीं नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Search for Augmented Reality apps in the app stores.",
+        "hi": "ऐप स्टोर में AR ऐप्स खोजे जा सकते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "AI learns from…",
+        "hi": "AI किससे सीखती है?"
+      },
+      "options": [
+        {
+          "en": "Data and experience",
+          "hi": "डेटा और अनुभव से"
+        },
+        {
+          "en": "Only electricity",
+          "hi": "केवल बिजली से"
+        },
+        {
+          "en": "Rains",
+          "hi": "बारिश से"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "AI systems learn from data, like we learn from experience.",
+        "hi": "AI डेटा से सीखती है, जैसे हम अनुभव से सीखते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which experience feels 'real' but is fully digital?",
+        "hi": "कौन-सा अनुभव 'वास्तविक' लगता है पर पूरा डिजिटल होता है?"
+      },
+      "options": [
+        {
+          "en": "Virtual Reality",
+          "hi": "वर्चुअल रियलिटी"
+        },
+        {
+          "en": "Reading a book",
+          "hi": "किताब पढ़ना"
+        },
+        {
+          "en": "Writing a letter",
+          "hi": "पत्र लिखना"
+        },
+        {
+          "en": "Sweeping",
+          "hi": "झाड़ू देना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "VR feels real but is a completely digital environment.",
+        "hi": "VR वास्तविक लगती है पर पूर्ण डिजिटल होती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Being 'future ready' means…",
+        "hi": "'भविष्य के लिए तैयार' होने का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Learning new technologies like AR, VR and AI",
+          "hi": "AR, VR और AI जैसी नई तकनीकें सीखना"
+        },
+        {
+          "en": "Only memorising old answers",
+          "hi": "केवल पुराने उत्तर रटना"
+        },
+        {
+          "en": "Avoiding computers",
+          "hi": "कंप्यूटर से बचना"
+        },
+        {
+          "en": "Fear of change",
+          "hi": "बदलाव से डरना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Future-ready learners keep learning new technologies.",
+        "hi": "भविष्य-तैयार शिक्षार्थी नई तकनीकें सीखते रहते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "If a tiger appears standing in your room through your phone camera, that is…",
+        "hi": "अगर फ़ोन कैमरे से आपके कमरे में बाघ खड़ा दिखे, तो वह है…"
+      },
+      "options": [
+        {
+          "en": "Augmented Reality",
+          "hi": "ऑग्मेंटेड रियलिटी"
+        },
+        {
+          "en": "Virtual Reality",
+          "hi": "वर्चुअल रियलिटी"
+        },
+        {
+          "en": "A spreadsheet",
+          "hi": "स्प्रेडशीट"
+        },
+        {
+          "en": "An email",
+          "hi": "ईमेल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mixing a virtual tiger into your real room is AR.",
+        "hi": "कमरे में आभासी बाघ का मिश्रण AR है।"
+      }
+    },
+    {
+      "question": {
+        "en": "AI can help doctors by…",
+        "hi": "AI डॉक्टरों की मदद कर सकती है…"
+      },
+      "options": [
+        {
+          "en": "Finding signs of disease in scans",
+          "hi": "स्कैन में रोग के संकेत खोजकर"
+        },
+        {
+          "en": "Making tea",
+          "hi": "चाय बनाकर"
+        },
+        {
+          "en": "Sweeping hospitals",
+          "hi": "अस्पताल बुहारकर"
+        },
+        {
+          "en": "Nothing",
+          "hi": "किसी तरह नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "AI can detect disease patterns in medical scans.",
+        "hi": "AI चिकित्सा स्कैन में रोग पैटर्न पकड़ सकती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is true about AI, AR and VR?",
+        "hi": "AI, AR और VR के बारे में क्या सत्य है?"
+      },
+      "options": [
+        {
+          "en": "All are new-age technologies to learn",
+          "hi": "ये सभी सीखने योग्य नवीन तकनीकें हैं"
+        },
+        {
+          "en": "They are only for movies",
+          "hi": "ये केवल फ़िल्मों के लिए हैं"
+        },
+        {
+          "en": "They never work",
+          "hi": "वे कभी काम नहीं करतीं"
+        },
+        {
+          "en": "They are the same thing",
+          "hi": "ये एक ही चीज़ हैं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "AR, VR and AI are important technologies for the future.",
+        "hi": "AR, VR और AI भविष्य की महत्वपूर्ण तकनीकें हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "In VR, how much of your view does the digital world take over?",
+        "hi": "VR में डिजिटल दुनिया आपके दृश्य का कितना हिस्सा ले लेती है?"
+      },
+      "options": [
+        {
+          "en": "A full immersive 360° view",
+          "hi": "पूरा इमर्सिव 360° दृश्य"
+        },
+        {
+          "en": "Only 10 degrees",
+          "hi": "केवल 10 डिग्री"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        },
+        {
+          "en": "Half the screen",
+          "hi": "आधी स्क्रीन"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "VR creates an immersive-360° digital environment all around you.",
+        "hi": "VR चारों ओर पूरा 360° डिजिटल वातावरण बनाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which technology would you use to see a dinosaur standing in your school playground?",
+        "hi": "स्कूल के मैदान में डायनासोर खड़ा देखने के लिए कौन-सी तकनीक उपयोग करोगे?"
+      },
+      "options": [
+        {
+          "en": "AR",
+          "hi": "AR"
+        },
+        {
+          "en": "VR",
+          "hi": "VR"
+        },
+        {
+          "en": "Email",
+          "hi": "ईमेल"
+        },
+        {
+          "en": "Spreadsheet",
+          "hi": "स्प्रेडशीट"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "AR overlays a virtual dinosaur onto the real playground.",
+        "hi": "AR असली मैदान पर आभासी डायनासोर दिखाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Learning about AR, VR and AI prepares students for…",
+        "hi": "AR, VR और AI की जानकारी छात्रों को किसके लिए तैयार करती है?"
+      },
+      "options": [
+        {
+          "en": "The technologies of the future",
+          "hi": "भविष्य की तकनीकों के लिए"
+        },
+        {
+          "en": "The stone age",
+          "hi": "पाषाण युग के लिए"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        },
+        {
+          "en": "Only drawing",
+          "hi": "केवल चित्रकला"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "These are the skills of tomorrow's world.",
+        "hi": "ये कल की दुनिया के कौशल हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "How many chapters does the Class 6 ICT book have?",
+        "hi": "कक्षा 6 की ICT पुस्तक में कितने अध्याय हैं?"
+      },
+      "options": [
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "20",
+          "hi": "20"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The book has six chapters, from ICT Environment to Being Future Ready.",
+        "hi": "पुस्तक में छह अध्याय हैं, ICT Environment से Being Future Ready तक।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "The first chatbot, ELIZA, was built in 1966 - it pretended to be a therapist and fooled many people, 60 years ago!",
+      "hi": "पहला चैटबॉट ELIZA 1966 में बना - वह थेरेपिस्ट बनने का नाटक करता था और 60 साल पहले ही बहुतों को बेवकूफ़ बना चुका था!"
+    },
+    {
+      "en": "The QR code was invented in 1994 in Japan to track car parts - it can hold 100 times more data than a normal barcode.",
+      "hi": "QR कोड 1994 में जापान में कार के पुर्ज़ों को ट्रैक करने के लिए बना था - यह सामान्य बारकोड से 100 गुना अधिक डेटा रख सकता है।"
+    },
+    {
+      "en": "AI systems today can spot diseases in X-ray scans that human doctors sometimes miss - AI is becoming a doctor's helper, not a replacement.",
+      "hi": "आज की AI प्रणालियाँ एक्स-रे स्कैन में वे रोग भी पकड़ सकती हैं जो कभी-कभी डॉक्टर चूक जाते हैं - AI डॉक्टर का सहायक बन रही है, उनकी जगह नहीं।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "AR: virtual objects mixed into the real world in real time.",
+      "hi": "AR: वास्तविक दुनिया में रीयल-टाइम आभासी वस्तुएँ।"
+    },
+    {
+      "en": "VR: immersive 360° digital environment.",
+      "hi": "VR: इमर्सिव 360° डिजिटल वातावरण।"
+    },
+    {
+      "en": "AI: machines thinking and learning like humans.",
+      "hi": "AI: मशीनों की इंसान-जैसी सोच-सीख।"
+    },
+    {
+      "en": "QR Code: scannable code used in the AR activity.",
+      "hi": "QR कोड: AR गतिविधि में उपयोगी स्कैन कोड।"
+    }
+  ],
+  "conclusion": {
+    "en": "AR adds to the real world, VR replaces it, and AI thinks within it — together they are the skills of the future.",
+    "hi": "AR वास्तविकता पर जोड़ती है, VR उसे बदल देती है, और AI उसी में सोचती है — ये तीनों भविष्य के कौशल हैं।"
+  }
+}

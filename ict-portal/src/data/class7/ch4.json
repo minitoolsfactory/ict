@@ -1,0 +1,801 @@
+{
+  "id": "ch4",
+  "title": {
+    "en": "Digital Wellbeing",
+    "hi": "डिजिटल वेलबीइंग (डिजिटल कल्याण)"
+  },
+  "class": 7,
+  "pages": "80-97",
+  "overview": {
+    "en": "This chapter explains Digital Wellbeing - the impact of technology and digital services on our mental, physical, social and emotional health. It covers healthy technology habits, cyber ethics, cyberbullying, digital detoxification, copyright, plagiarism and where to report cyber crimes.",
+    "hi": "यह अध्याय डिजिटल वेलबीइंग समझाता है - टेक्नोलॉजी और डिजिटल सेवाओं का हमारे मानसिक, शारीरिक, सामाजिक तथा भावनात्मक स्वास्थ्य पर प्रभाव। इसमें स्वस्थ तकनीकी आदतें, साइबर नैतिकता, साइबर बुलिंग, डिजिटल डिटॉक्सिफिकेशन, कॉपीराइट, प्लेजियरिज़्म और साइबर अपराध कहाँ रिपोर्ट करें - यह सब शामिल है।"
+  },
+  "sections": [
+    {
+      "id": "wellbeing",
+      "title": {
+        "en": "What is Digital Wellbeing?",
+        "hi": "डिजिटल वेलबीइंग क्या है?"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Digital Wellbeing is a term used to describe the impact of technology and digital services on people's mental, physical, social and emotional health.",
+          "hi": "डिजिटल वेलबीइंग वह शब्द है जो टेक्नोलॉजी और डिजिटल सेवाओं का मानसिक, शारीरिक, सामाजिक व भावनात्मक स्वास्थ्य पर प्रभाव बताता है।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Spending too much time online affects our health.",
+              "hi": "बहुत अधिक समय ऑनलाइन बिताना स्वास्थ्य पर असर डालता है।"
+            },
+            {
+              "en": "The virtual world influences our thoughts and behaviour.",
+              "hi": "वर्चुअल दुनिया हमारे विचार-व्यवहार को प्रभावित करती है।"
+            },
+            {
+              "en": "We must learn what is right and what is not right on the internet.",
+              "hi": "हमें सीखना चाहिए कि इंटरनेट पर क्या सही है, क्या नहीं।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ethics",
+      "title": {
+        "en": "Good Behaviour and Cyber Ethics",
+        "hi": "अच्छा व्यवहार और साइबर नैतिकता"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Cyber ethics means behaving well online - the behaviour we show in real life should also be shown in our online life.",
+          "hi": "साइबर नैतिकता अर्थात ऑनलाइन अच्छा व्यवहार - असल जीवन जैसा ही व्यवहार ऑनलाइन भी।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "A joke that hurts someone is not a joke - it can become cyberbullying.",
+              "hi": "दुख पहुँचाने वाला मज़ाक मज़ाक नहीं - वह साइबर बुलिंग बन सकता है।"
+            },
+            {
+              "en": "Creating fake profiles is punishable by law in India.",
+              "hi": "भारत में फर्ज़ी प्रोफ़ाइल बनाना क़ानूनन दंडनीय है।"
+            },
+            {
+              "en": "If cyberbullied: tell trusted adults and report - never bully back.",
+              "hi": "साइबर बुली होने पर: भरोसेमंद बड़ों को बताएँ-रिपोर्ट करें, बदले में न करें।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "detox",
+      "title": {
+        "en": "Digital Detoxification",
+        "hi": "डिजिटल डिटॉक्सिफिकेशन"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Digital Detoxification means taking a deliberate break from digital devices and online activities.",
+          "hi": "डिजिटल डिटॉक्सिफिकेशन अर्थात डिजिटल उपकरणों व ऑनलाइन गतिविधियों से जानबूझकर ब्रेक लेना।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Helps restore focus, sleep and healthy habits.",
+              "hi": "फोकस, नींद व स्वस्थ आदतें बहाल करता है।"
+            },
+            {
+              "en": "Needed when internet use starts controlling our life.",
+              "hi": "जब इंटरनेट जीवन नियंत्रित करने लगे तो ज़रूरी।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "copyright",
+      "title": {
+        "en": "Copyright, Plagiarism and Reporting",
+        "hi": "कॉपीराइट, प्लेजियरिज़्म और रिपोर्टिंग"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Copyright",
+                "hi": "कॉपीराइट"
+              },
+              "d": {
+                "en": "Protects the creator's rights over their work.",
+                "hi": "रचनाकार के अधिकारों की रक्षा करता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Plagiarism",
+                "hi": "प्लेजियरिज़्म"
+              },
+              "d": {
+                "en": "Copying someone's work without giving credit.",
+                "hi": "श्रेय दिए बिना किसी का काम कॉपी करना।"
+              }
+            },
+            {
+              "t": {
+                "en": "Reporting",
+                "hi": "रिपोर्टिंग"
+              },
+              "d": {
+                "en": "Report cyber crimes at the cyber crime portal: cybercrime.gov.in",
+                "hi": "साइबर अपराध साइबर क्राइम पोर्टल cybercrime.gov.in पर रिपोर्ट करें।"
+              }
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "Before sharing any news on a virtual platform, verify it first.",
+          "hi": "किसी भी समाचार को वर्चुअल प्लेटफ़ॉर्म पर साझा करने से पहले उसे जाँचें।"
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Digital Wellbeing",
+      "hi": "तकनीक का स्वास्थ्य पर प्रभाव"
+    },
+    {
+      "en": "Cyber Ethics",
+      "hi": "साइबर नैतिकता"
+    },
+    {
+      "en": "Cyber Bullying",
+      "hi": "ऑनलाइन परेशान करना"
+    },
+    {
+      "en": "Digital Detoxification",
+      "hi": "डिजिटल उपकरणों से ब्रेक"
+    },
+    {
+      "en": "Plagiarism",
+      "hi": "श्रेय दिए बिना किसी का काम कॉपी करना"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "Digital Wellbeing describes technology's impact on…",
+        "hi": "डिजिटल वेलबीइंग टेक्नोलॉजी के किस प्रभाव का वर्णन करता है?"
+      },
+      "options": [
+        {
+          "en": "Only our phone battery",
+          "hi": "केवल फोन की बैटरी"
+        },
+        {
+          "en": "Mental, physical, social and emotional health",
+          "hi": "मानसिक, शारीरिक, सामाजिक और भावनात्मक स्वास्थ्य"
+        },
+        {
+          "en": "Computer speed",
+          "hi": "कंप्यूटर की गति"
+        },
+        {
+          "en": "Internet cost",
+          "hi": "इंटरनेट की कीमत"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Digital Wellbeing describes the impact on mental, physical, social and emotional health.",
+        "hi": "डिजिटल वेलबीइंग मानसिक, शारीरिक, सामाजिक और भावनात्मक स्वास्थ्य पर प्रभाव का वर्णन करता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "What is cyber ethics?",
+        "hi": "साइबर नैतिकता क्या होती है?"
+      },
+      "options": [
+        {
+          "en": "Behaving well while using the internet",
+          "hi": "इंटरनेट उपयोग में अच्छा व्यवहार"
+        },
+        {
+          "en": "Buying expensive computers",
+          "hi": "महँगे कंप्यूटर खरीदना"
+        },
+        {
+          "en": "Making fake profiles",
+          "hi": "फर्ज़ी प्रोफ़ाइल बनाना"
+        },
+        {
+          "en": "Sharing passwords with friends",
+          "hi": "दोस्तों से पासवर्ड साझा करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Cyber ethics means good behaviour while online.",
+        "hi": "साइबर नैतिकता का अर्थ है ऑनलाइन अच्छा व्यवहार।"
+      }
+    },
+    {
+      "question": {
+        "en": "Copying someone's work without giving credit is called…",
+        "hi": "श्रेय दिए बिना किसी का काम कॉपी करना क्या कहलाता है?"
+      },
+      "options": [
+        {
+          "en": "Copyright",
+          "hi": "कॉपीराइट"
+        },
+        {
+          "en": "Plagiarism",
+          "hi": "प्लेजियरिज़्म"
+        },
+        {
+          "en": "Backup",
+          "hi": "बैकअप"
+        },
+        {
+          "en": "Formatting",
+          "hi": "फॉर्मेटिंग"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Using someone's work without credit is plagiarism.",
+        "hi": "श्रेय दिए बिना किसी का काम उपयोग करना प्लेजियरिज़्म है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Where should a cyber crime be reported in India?",
+        "hi": "भारत में साइबर अपराध कहाँ रिपोर्ट करना चाहिए?"
+      },
+      "options": [
+        {
+          "en": "On social media",
+          "hi": "सोशल मीडिया पर"
+        },
+        {
+          "en": "Cyber crime portal / police (cybercrime.gov.in)",
+          "hi": "साइबर क्राइम पोर्टल/पुलिस (cybercrime.gov.in)"
+        },
+        {
+          "en": "To a shopkeeper",
+          "hi": "दुकानदार को"
+        },
+        {
+          "en": "Nowhere",
+          "hi": "कहीं नहीं"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Cyber crimes are reported at the cyber crime portal or police station.",
+        "hi": "साइबर अपराध साइबर क्राइम पोर्टल या पुलिस को रिपोर्ट किए जाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Taking a deliberate break from digital devices is called…",
+        "hi": "डिजिटल उपकरणों से जानबूझकर ब्रेक लेना क्या कहलाता है?"
+      },
+      "options": [
+        {
+          "en": "Digital Detoxification",
+          "hi": "डिजिटल डिटॉक्सिफिकेशन"
+        },
+        {
+          "en": "Downloading",
+          "hi": "डाउनलोडिंग"
+        },
+        {
+          "en": "Logging in",
+          "hi": "लॉगिन"
+        },
+        {
+          "en": "Browsing",
+          "hi": "ब्राउज़िंग"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Digital Detoxification means deliberately staying away from digital devices for a time.",
+        "hi": "डिजिटल डिटॉक्सिफिकेशन का अर्थ है कुछ समय जानबूझकर डिजिटल उपकरणों से दूर रहना।"
+      }
+    },
+    {
+      "question": {
+        "en": "Digital Wellbeing describes technology's impact on…",
+        "hi": "डिजिटल वेलबीइंग टेक्नोलॉजी के किस प्रभाव का वर्णन करता है?"
+      },
+      "options": [
+        {
+          "en": "Mental, physical, social and emotional health",
+          "hi": "मानसिक, शारीरिक, सामाजिक और भावनात्मक स्वास्थ्य"
+        },
+        {
+          "en": "Only phone battery",
+          "hi": "केवल फ़ोन बैटरी"
+        },
+        {
+          "en": "Computer speed",
+          "hi": "कंप्यूटर गति"
+        },
+        {
+          "en": "Internet cost",
+          "hi": "इंटरनेट कीमत"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "It describes the impact on mental, physical, social and emotional health.",
+        "hi": "यह मानसिक, शारीरिक, सामाजिक, भावनात्मक स्वास्थ्य पर प्रभाव बताता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Cyber ethics means…",
+        "hi": "साइबर नैतिकता का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Behaving well while using the internet",
+          "hi": "इंटरनेट उपयोग में अच्छा व्यवहार"
+        },
+        {
+          "en": "Buying expensive computers",
+          "hi": "महँगे कंप्यूटर खरीदना"
+        },
+        {
+          "en": "Making fake profiles",
+          "hi": "फर्ज़ी प्रोफ़ाइल बनाना"
+        },
+        {
+          "en": "Sharing passwords",
+          "hi": "पासवर्ड साझा करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Cyber ethics is good behaviour while online.",
+        "hi": "साइबर नैतिकता अर्थात ऑनलाइन अच्छा व्यवहार।"
+      }
+    },
+    {
+      "question": {
+        "en": "Using someone's work without giving credit is…",
+        "hi": "श्रेय दिए बिना किसी का काम उपयोग करना है…"
+      },
+      "options": [
+        {
+          "en": "Plagiarism",
+          "hi": "प्लेजियरिज़्म"
+        },
+        {
+          "en": "Copyright",
+          "hi": "कॉपीराइट"
+        },
+        {
+          "en": "Backup",
+          "hi": "बैकअप"
+        },
+        {
+          "en": "Formatting",
+          "hi": "फ़ॉर्मेटिंग"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Copying work without credit is plagiarism.",
+        "hi": "श्रेय दिए बिना कॉपी करना प्लेजियरिज़्म है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Copyright protects…",
+        "hi": "कॉपीराइट किसकी रक्षा करता है?"
+      },
+      "options": [
+        {
+          "en": "The creator's rights over their work",
+          "hi": "रचनाकार के अधिकार"
+        },
+        {
+          "en": "The internet",
+          "hi": "इंटरनेट"
+        },
+        {
+          "en": "Printers",
+          "hi": "प्रिंटर"
+        },
+        {
+          "en": "Passwords",
+          "hi": "पासवर्ड"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Copyright gives creators rights over their work.",
+        "hi": "कॉपीराइट रचनाकार को उसके काम पर अधिकार देता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Digital Detoxification means…",
+        "hi": "डिजिटल डिटॉक्सिफिकेशन का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Taking a deliberate break from digital devices",
+          "hi": "डिजिटल उपकरणों से जानबूझकर ब्रेक लेना"
+        },
+        {
+          "en": "Downloading more apps",
+          "hi": "अधिक ऐप डाउनलोड करना"
+        },
+        {
+          "en": "Buying a new phone",
+          "hi": "नया फ़ोन खरीदना"
+        },
+        {
+          "en": "Charging devices",
+          "hi": "उपकरण चार्ज करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Digital detox is staying away from devices for a time.",
+        "hi": "कुछ समय डिजिटल उपकरणों से दूर रहना डिटॉक्स है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Before sharing any news on a virtual platform, we must…",
+        "hi": "किसी समाचार को वर्चुअल प्लेटफ़ॉर्म पर साझा करने से पहले हमें क्या करना चाहिए?"
+      },
+      "options": [
+        {
+          "en": "Verify it first",
+          "hi": "पहले उसे जाँचना"
+        },
+        {
+          "en": "Forward instantly",
+          "hi": "तुरंत फ़ॉरवर्ड करना"
+        },
+        {
+          "en": "Add emojis",
+          "hi": "इमोजी जोड़ना"
+        },
+        {
+          "en": "Delete it",
+          "hi": "डिलीट करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Verify news before sharing to stop misinformation.",
+        "hi": "गलत सूचना रोकने के लिए साझा करने से पहले जाँचें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Making a fake profile is…",
+        "hi": "फर्ज़ी प्रोफ़ाइल बनाना है…"
+      },
+      "options": [
+        {
+          "en": "Punishable by law in India",
+          "hi": "भारत में क़ानूनन दंडनीय"
+        },
+        {
+          "en": "Just a prank",
+          "hi": "महज़ मज़ाक"
+        },
+        {
+          "en": "Always safe",
+          "hi": "सदैव सुरक्षित"
+        },
+        {
+          "en": "Encouraged",
+          "hi": "प्रोत्साहित"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Fake profiles are punishable under Indian law.",
+        "hi": "भारत में फर्ज़ी प्रोफ़ाइल बनाना दंडनीय अपराध है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A joke that hurts someone can become…",
+        "hi": "किसी को दुख पहुँचाने वाला मज़ाक बन सकता है…"
+      },
+      "options": [
+        {
+          "en": "Cyberbullying",
+          "hi": "साइबर बुलिंग"
+        },
+        {
+          "en": "A celebration",
+          "hi": "उत्सव"
+        },
+        {
+          "en": "A compliment",
+          "hi": "प्रशंसा"
+        },
+        {
+          "en": "Homework",
+          "hi": "गृहकार्य"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Hurting 'jokes' are actually cyberbullying.",
+        "hi": "दुख देने वाला 'मज़ाक' साइबर बुलिंग है।"
+      }
+    },
+    {
+      "question": {
+        "en": "If someone cyberbullies you, you should…",
+        "hi": "अगर कोई आपको साइबर बुली करे, तो आपको चाहिए…"
+      },
+      "options": [
+        {
+          "en": "Report it to parents/teachers and authorities",
+          "hi": "माता-पिता/शिक्षकों व अधिकारियों को बताना"
+        },
+        {
+          "en": "Bully back",
+          "hi": "बदले में बुली करना"
+        },
+        {
+          "en": "Hide it silently",
+          "hi": "चुपचाप छिपाना"
+        },
+        {
+          "en": "Delete your life offline",
+          "hi": "जीवन छोड़ देना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Tell trusted adults and report the bully.",
+        "hi": "भरोसेमंद बड़ों को बताएँ और रिपोर्ट करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Spending too much time online affects…",
+        "hi": "बहुत अधिक समय ऑनलाइन बिताना किसे प्रभावित करता है?"
+      },
+      "options": [
+        {
+          "en": "Our mental and physical health",
+          "hi": "हमारा मानसिक और शारीरिक स्वास्थ्य"
+        },
+        {
+          "en": "Only the Wi-Fi router",
+          "hi": "केवल वाई-फ़ाई राउटर"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        },
+        {
+          "en": "Only electricity",
+          "hi": "केवल बिजली"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Excessive screen time harms health.",
+        "hi": "अत्यधिक स्क्रीन-टाइम स्वास्थ्य पर असर डालता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is a good digital habit?",
+        "hi": "कौन-सी अच्छी डिजिटल आदत है?"
+      },
+      "options": [
+        {
+          "en": "Taking regular breaks from screens",
+          "hi": "स्क्रीन से नियमित ब्रेक लेना"
+        },
+        {
+          "en": "Using the phone at midnight daily",
+          "hi": "रोज़ आधी रात फ़ोन चलाना"
+        },
+        {
+          "en": "Replying angrily to everyone",
+          "hi": "सबको गुस्से में जवाब देना"
+        },
+        {
+          "en": "Believing all forwards",
+          "hi": "सारे फ़ॉरवर्ड मान लेना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Regular breaks keep body and mind healthy.",
+        "hi": "नियमित ब्रेक शरीर-मन को स्वस्थ रखते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Cyber crimes in India are reported at…",
+        "hi": "भारत में साइबर अपराध कहाँ रिपोर्ट किए जाते हैं?"
+      },
+      "options": [
+        {
+          "en": "cybercrime.gov.in",
+          "hi": "cybercrime.gov.in"
+        },
+        {
+          "en": "A shopping mall",
+          "hi": "शॉपिंग मॉल"
+        },
+        {
+          "en": "A video game",
+          "hi": "वीडियो गेम"
+        },
+        {
+          "en": "Nowhere",
+          "hi": "कहीं नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Report at the cyber crime portal cybercrime.gov.in.",
+        "hi": "साइबर क्राइम पोर्टल cybercrime.gov.in पर रिपोर्ट करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Good manners online include…",
+        "hi": "ऑनलाइन अच्छे व्यवहार में शामिल है…"
+      },
+      "options": [
+        {
+          "en": "Respecting others' feelings",
+          "hi": "दूसरों की भावनाओं का सम्मान"
+        },
+        {
+          "en": "Posting rude comments",
+          "hi": "अभद्र कमेंट पोस्ट करना"
+        },
+        {
+          "en": "Spreading rumours",
+          "hi": "अफ़वाहें फैलाना"
+        },
+        {
+          "en": "Insulting classmates",
+          "hi": "सहपाठियों का अपमान"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Respect online is the same as respect offline.",
+        "hi": "ऑनलाइन सम्मान ही ऑफ़लाइन सम्मान जैसा है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Digital detox helps restore…",
+        "hi": "डिजिटल डिटॉक्स किसे बहाल करने में मदद करता है?"
+      },
+      "options": [
+        {
+          "en": "Focus, sleep and healthy habits",
+          "hi": "फोकस, नींद और स्वस्थ आदतें"
+        },
+        {
+          "en": "Phone storage",
+          "hi": "फ़ोन स्टोरेज"
+        },
+        {
+          "en": "Internet speed",
+          "hi": "इंटरनेट गति"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A detox brings back focus and better sleep.",
+        "hi": "डिटॉक्स से फोकस व बेहतर नींद लौटती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "In the book's self-test, mostly answer 'E' (I'll delete my post in shame) means…",
+        "hi": "पुस्तक के स्व-परीक्षण में अधिकतर 'E' (शर्मिंदा होकर पोस्ट हटाऊँगा) का अर्थ…"
+      },
+      "options": [
+        {
+          "en": "You urgently need Digital Detoxification",
+          "hi": "आपको तुरंत डिजिटल डिटॉक्सिफिकेशन चाहिए"
+        },
+        {
+          "en": "No detox needed",
+          "hi": "डिटॉक्स की ज़रूरत नहीं"
+        },
+        {
+          "en": "Perfectly healthy habits",
+          "hi": "पूर्ण स्वस्थ आदतें"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mostly E answers warn that detox is needed.",
+        "hi": "अधिकतर E उत्तर चेतावनी देते हैं कि डिटॉक्स ज़रूरी है।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "Screen time before bed can trick your brain: blue light tells your brain 'it's daytime!' and delays sleep by reducing the sleep hormone melatonin.",
+      "hi": "सोने से पहले स्क्रीन आपके दिमाग़ को धोखा देती है: नीली रोशनी दिमाग़ को कहती है 'अभी दिन है!' और नींद के हॉर्मोन मेलाटोनिन को घटाकर नींद टाल देती है।"
+    },
+    {
+      "en": "Try the 20-20-20 rule: every 20 minutes of screen time, look at something 20 feet away for 20 seconds - your eyes will thank you!",
+      "hi": "20-20-20 नियम आज़माएँ: हर 20 मिनट स्क्रीन के बाद, 20 फीट दूर की किसी चीज़ को 20 सेकंड देखें - आपकी आँखें शुक्रिया कहेंगी!"
+    },
+    {
+      "en": "In 2007, when phones first got 'do not disturb'-style modes, screen-time studies changed forever - doctors could finally measure how much we actually touch our phones.",
+      "hi": "2007 में, जब फ़ोनों में पहली बार 'डिस्टर्ब न करें' जैसे मोड आए, स्क्रीन-टाइम के अध्ययन हमेशा के लिए बदल गए - डॉक्टर आख़िरकार नाप सके कि हम फ़ोन को कितना छूते हैं।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "Digital Wellbeing: impact of technology on our health.",
+      "hi": "डिजिटल वेलबीइंग: तकनीक का स्वास्थ्य पर प्रभाव।"
+    },
+    {
+      "en": "Cyber Ethics: good behaviour online.",
+      "hi": "साइबर नैतिकता: ऑनलाइन अच्छा व्यवहार।"
+    },
+    {
+      "en": "Cyberbullying: harassment using digital platforms.",
+      "hi": "साइबर बुलिंग: डिजिटल माध्यम से उत्पीड़न।"
+    },
+    {
+      "en": "Digital Detox: deliberate break from devices.",
+      "hi": "डिजिटल डिटॉक्स: उपकरणों से जानबूझकर ब्रेक।"
+    },
+    {
+      "en": "Copyright: creator's rights over their work.",
+      "hi": "कॉपीराइट: रचनाकार के अधिकार।"
+    },
+    {
+      "en": "Plagiarism: copying without credit.",
+      "hi": "प्लेजियरिज़्म: बिना श्रेय कॉपी करना।"
+    }
+  ],
+  "conclusion": {
+    "en": "Balance your online and offline life, behave ethically online, and take a digital detox when screens start controlling you.",
+    "hi": "ऑनलाइन-ऑफ़लाइन जीवन संतुलित रखें, ऑनलाइन नैतिक रहें, और स्क्रीन नियंत्रित करने लगें तो डिजिटल डिटॉक्स लें।"
+  }
+}

@@ -1,0 +1,830 @@
+{
+  "id": "ch1",
+  "title": {
+    "en": "Data Representation and Processing-03 (Presentation Tool)",
+    "hi": "डेटा प्रतिनिधित्व और प्रसंस्करण-03 (प्रेजेंटेशन टूल)"
+  },
+  "class": 7,
+  "pages": "5-33",
+  "overview": {
+    "en": "This chapter teaches how to create presentations using Apache OpenOffice Impress. Students learn to make slides, format them, and add images, sound, animation and slide transitions. They also learn to gather information using an AI chatbox.",
+    "hi": "इस अध्याय में Apache OpenOffice Impress का उपयोग करके प्रेजेंटेशन बनाना सिखाया जाता है। छात्र स्लाइड बनाना, फॉर्मेट करना और उनमें चित्र, ध्वनि, एनीमेशन और स्लाइड ट्रांज़िशन जोड़ना सीखते हैं। वे AI चैटबॉक्स की मदद से जानकारी प्राप्त करना भी सीखते हैं।"
+  },
+  "sections": [
+    {
+      "id": "presentation",
+      "title": {
+        "en": "Presentation and Slides",
+        "hi": "प्रेजेंटेशन और स्लाइड्स"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "A presentation is made of several pages, and each page is called a Slide. Every slide gives information about one topic of the presentation's subject.",
+          "hi": "प्रेजेंटेशन कई पेजों से बना होता है, हर पेज स्लाइड कहलाता है। प्रत्येक स्लाइड विषय के किसी एक टॉपिक की जानकारी देती है।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Uses of Presentations",
+            "hi": "प्रेजेंटेशन के उपयोग"
+          },
+          "items": [
+            {
+              "en": "Business meetings.",
+              "hi": "व्यापार मीटिंग।"
+            },
+            {
+              "en": "Training sessions.",
+              "hi": "प्रशिक्षण सत्र।"
+            },
+            {
+              "en": "Educational purposes - like the class zoo-trip photo story.",
+              "hi": "शैक्षिक उद्देश्य - जैसे चिड़ियाघर यात्रा की फ़ोटो-कहानी।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "impress",
+      "title": {
+        "en": "OpenOffice Impress",
+        "hi": "OpenOffice Impress"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Impress is the presentation tool of the Apache OpenOffice software suite.",
+          "hi": "Impress, Apache OpenOffice software suite का प्रेजेंटेशन टूल है।"
+        },
+        {
+          "type": "num",
+          "title": {
+            "en": "Opening Impress",
+            "hi": "Impress खोलना"
+          },
+          "items": [
+            {
+              "t": {
+                "en": "Step 1",
+                "hi": "चरण 1"
+              },
+              "d": {
+                "en": "Type 'OpenOffice' in the Windows search bar.",
+                "hi": "Windows सर्च बार में 'OpenOffice' टाइप करें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 2",
+                "hi": "चरण 2"
+              },
+              "d": {
+                "en": "Open the OpenOffice suite (downloaded in Class 6).",
+                "hi": "OpenOffice suite खोलें (कक्षा 6 में डाउनलोड सीखा था)।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 3",
+                "hi": "चरण 3"
+              },
+              "d": {
+                "en": "Choose Presentation and start making slides.",
+                "hi": "Presentation चुनकर स्लाइड बनाना शुरू करें।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enhancing",
+      "title": {
+        "en": "Enhancing Slides",
+        "hi": "स्लाइडें सुंदर बनाना"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Formatting",
+                "hi": "फ़ॉर्मेटिंग"
+              },
+              "d": {
+                "en": "Improve text look - fonts, colours, layout.",
+                "hi": "टेक्स्ट की सुंदरता - फ़ॉन्ट, रंग, लेआउट।"
+              }
+            },
+            {
+              "t": {
+                "en": "Images",
+                "hi": "चित्र"
+              },
+              "d": {
+                "en": "Add pictures to make slides attractive.",
+                "hi": "स्लाइडें आकर्षक बनाने हेतु चित्र जोड़ें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Sound",
+                "hi": "ध्वनि"
+              },
+              "d": {
+                "en": "Insert audio into slides.",
+                "hi": "स्लाइडों में ध्वनि जोड़ें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Animation",
+                "hi": "एनीमेशन"
+              },
+              "d": {
+                "en": "Adds movement effects to objects on a slide.",
+                "hi": "स्लाइड की वस्तुओं में गति का प्रभाव।"
+              }
+            },
+            {
+              "t": {
+                "en": "Slide Transition",
+                "hi": "स्लाइड ट्रांज़िशन"
+              },
+              "d": {
+                "en": "The effect applied when moving from one slide to the next.",
+                "hi": "एक स्लाइड से अगली पर जाते समय का प्रभाव।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-chatbox",
+      "title": {
+        "en": "Using an AI Chatbox",
+        "hi": "AI चैटबॉक्स का उपयोग"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "An AI chatbox can help gather information and ideas for presentation content.",
+          "hi": "प्रेजेंटेशन सामग्री के लिए AI चैटबॉक्स जानकारी/विचार इकट्ठा करने में मदद कर सकता है।"
+        },
+        {
+          "type": "remember",
+          "en": "Always verify AI-provided facts from reliable sources before using them in your presentation.",
+          "hi": "प्रेजेंटेशन में लाने से पहले AI से मिले तथ्य विश्वसनीय स्रोतों से अवश्य जाँचें।"
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Slide",
+      "hi": "प्रेजेंटेशन का एक पेज"
+    },
+    {
+      "en": "Impress",
+      "hi": "OpenOffice का प्रेजेंटेशन टूल"
+    },
+    {
+      "en": "Animation",
+      "hi": "वस्तुओं में गति का प्रभाव"
+    },
+    {
+      "en": "Slide Transition",
+      "hi": "स्लाइडों के बीच बदलाव का प्रभाव"
+    },
+    {
+      "en": "AI Chatbox",
+      "hi": "जानकारी पूछने के लिए AI वार्तालाप उपकरण"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "Each page of a presentation is called a…",
+        "hi": "प्रेजेंटेशन का हर पेज क्या कहलाता है?"
+      },
+      "options": [
+        {
+          "en": "Sheet",
+          "hi": "शीट"
+        },
+        {
+          "en": "Slide",
+          "hi": "स्लाइड"
+        },
+        {
+          "en": "Document",
+          "hi": "डॉक्यूमेंट"
+        },
+        {
+          "en": "Frame",
+          "hi": "फ्रेम"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Every page in a presentation is called a Slide.",
+        "hi": "प्रेजेंटेशन का हर पेज स्लाइड कहलाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which tool is used in this chapter to make presentations?",
+        "hi": "इस अध्याय में प्रेजेंटेशन बनाने के लिए कौन-सा टूल उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "OpenOffice Writer",
+          "hi": "OpenOffice Writer"
+        },
+        {
+          "en": "OpenOffice Calc",
+          "hi": "OpenOffice Calc"
+        },
+        {
+          "en": "OpenOffice Impress",
+          "hi": "OpenOffice Impress"
+        },
+        {
+          "en": "MS Paint",
+          "hi": "MS Paint"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "OpenOffice Impress is the presentation tool of the Apache OpenOffice suite.",
+        "hi": "OpenOffice Impress, Apache OpenOffice suite का प्रेजेंटेशन टूल है।"
+      }
+    },
+    {
+      "question": {
+        "en": "The effect used when moving from one slide to the next is called…",
+        "hi": "एक स्लाइड से अगली स्लाइड पर जाते समय उपयोग होने वाला प्रभाव क्या कहलाता है?"
+      },
+      "options": [
+        {
+          "en": "Animation",
+          "hi": "एनीमेशन"
+        },
+        {
+          "en": "Slide Transition",
+          "hi": "स्लाइड ट्रांज़िशन"
+        },
+        {
+          "en": "Formatting",
+          "hi": "फॉर्मेटिंग"
+        },
+        {
+          "en": "Rendering",
+          "hi": "रेंडरिंग"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Slide Transition is the effect applied between slides.",
+        "hi": "स्लाइडों के बीच लागू होने वाला प्रभाव स्लाइड ट्रांज़िशन कहलाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "In the Windows search bar, what do you type to open the presentation suite?",
+        "hi": "Windows सर्च बार में प्रेजेंटेशन suite खोलने के लिए क्या टाइप करते हैं?"
+      },
+      "options": [
+        {
+          "en": "Impress only",
+          "hi": "केवल Impress"
+        },
+        {
+          "en": "OpenOffice",
+          "hi": "OpenOffice"
+        },
+        {
+          "en": "Presentation",
+          "hi": "Presentation"
+        },
+        {
+          "en": "Slides",
+          "hi": "Slides"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "You type 'OpenOffice' in the Windows search bar to open the suite.",
+        "hi": "Windows सर्च बार में 'OpenOffice' टाइप करके suite खोला जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Presentations are commonly used for…",
+        "hi": "प्रेजेंटेशन आमतौर पर किसके लिए उपयोग होते हैं?"
+      },
+      "options": [
+        {
+          "en": "Business meetings, training and education",
+          "hi": "व्यापार मीटिंग, प्रशिक्षण और शिक्षा"
+        },
+        {
+          "en": "Playing games",
+          "hi": "खेल खेलने"
+        },
+        {
+          "en": "Storing spreadsheets",
+          "hi": "स्प्रेडशीट संग्रहित करने"
+        },
+        {
+          "en": "Sending emails",
+          "hi": "ईमेल भेजने"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Presentations are commonly used in business meetings, training and educational purposes.",
+        "hi": "प्रेजेंटेशन आमतौर पर व्यापार मीटिंग, प्रशिक्षण और शैक्षिक उद्देश्यों में उपयोग होते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "A presentation is made of many pages, each called a…",
+        "hi": "प्रेजेंटेशन कई पेजों से बना होता है, हर पेज कहलाता है…"
+      },
+      "options": [
+        {
+          "en": "Slide",
+          "hi": "स्लाइड"
+        },
+        {
+          "en": "Sheet",
+          "hi": "शीट"
+        },
+        {
+          "en": "Cell",
+          "hi": "सेल"
+        },
+        {
+          "en": "Frame",
+          "hi": "फ्रेम"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Each page of a presentation is called a Slide.",
+        "hi": "प्रेजेंटेशन का हर पेज स्लाइड कहलाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "OpenOffice Impress is the presentation tool of…",
+        "hi": "OpenOffice Impress किसका प्रेजेंटेशन टूल है?"
+      },
+      "options": [
+        {
+          "en": "Apache OpenOffice suite",
+          "hi": "Apache OpenOffice suite"
+        },
+        {
+          "en": "MS Windows",
+          "hi": "MS Windows"
+        },
+        {
+          "en": "Google",
+          "hi": "Google"
+        },
+        {
+          "en": "A printer",
+          "hi": "प्रिंटर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Impress is the presentation tool of the Apache OpenOffice suite.",
+        "hi": "Impress, Apache OpenOffice suite का प्रेजेंटेशन टूल है।"
+      }
+    },
+    {
+      "question": {
+        "en": "The effect applied when moving from one slide to the next is…",
+        "hi": "एक स्लाइड से अगली पर जाते समय लगने वाला प्रभाव है…"
+      },
+      "options": [
+        {
+          "en": "Slide Transition",
+          "hi": "स्लाइड ट्रांज़िशन"
+        },
+        {
+          "en": "Formatting",
+          "hi": "फ़ॉर्मेटिंग"
+        },
+        {
+          "en": "Saving",
+          "hi": "सेविंग"
+        },
+        {
+          "en": "Printing",
+          "hi": "प्रिंटिंग"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Slide Transition is the effect between slides.",
+        "hi": "स्लाइडों के बीच का प्रभाव स्लाइड ट्रांज़िशन कहलाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "To open the OpenOffice suite, type ___ in the Windows search bar.",
+        "hi": "OpenOffice suite खोलने के लिए Windows सर्च बार में ___ टाइप करें।"
+      },
+      "options": [
+        {
+          "en": "OpenOffice",
+          "hi": "OpenOffice"
+        },
+        {
+          "en": "Games",
+          "hi": "Games"
+        },
+        {
+          "en": "Internet",
+          "hi": "Internet"
+        },
+        {
+          "en": "Printer",
+          "hi": "Printer"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Type 'OpenOffice' in the Windows search bar.",
+        "hi": "Windows सर्च बार में 'OpenOffice' टाइप करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Presentations are commonly used in…",
+        "hi": "प्रेजेंटेशन आमतौर पर कहाँ उपयोग होते हैं?"
+      },
+      "options": [
+        {
+          "en": "Business meetings, training and education",
+          "hi": "व्यापार मीटिंग, प्रशिक्षण और शिक्षा में"
+        },
+        {
+          "en": "Cooking food",
+          "hi": "खाना पकाने में"
+        },
+        {
+          "en": "Washing clothes",
+          "hi": "कपड़े धोने में"
+        },
+        {
+          "en": "Sleeping",
+          "hi": "सोने में"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Presentations are used in business, training and education.",
+        "hi": "प्रेजेंटेशन व्यापार, प्रशिक्षण, शिक्षा में उपयोग होते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Animation in a presentation adds…",
+        "hi": "प्रेजेंटेशन में एनीमेशन क्या जोड़ता है?"
+      },
+      "options": [
+        {
+          "en": "Movement effects to objects on a slide",
+          "hi": "स्लाइड की वस्तुओं में गति का प्रभाव"
+        },
+        {
+          "en": "New slides only",
+          "hi": "केवल नई स्लाइडें"
+        },
+        {
+          "en": "A printer",
+          "hi": "प्रिंटर"
+        },
+        {
+          "en": "A spreadsheet",
+          "hi": "स्प्रेडशीट"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Animation animates text and objects on slides.",
+        "hi": "एनीमेशन स्लाइड के टेक्स्ट/वस्तुओं में गति लाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "An AI chatbox can be used to…",
+        "hi": "AI चैटबॉक्स का उपयोग किसके लिए हो सकता है?"
+      },
+      "options": [
+        {
+          "en": "Gather information and ideas for content",
+          "hi": "सामग्री के लिए जानकारी/विचार इकट्ठा करने"
+        },
+        {
+          "en": "Print slides",
+          "hi": "स्लाइड प्रिंट करने"
+        },
+        {
+          "en": "Clean the computer",
+          "hi": "कंप्यूटर साफ़ करने"
+        },
+        {
+          "en": "Charge the laptop",
+          "hi": "लैपटॉप चार्ज करने"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "AI chatboxes help gather information - verify facts before using.",
+        "hi": "AI चैटबॉक्स जानकारी इकट्ठा करने में मदद करते हैं - तथ्य जाँचें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Each slide in a presentation usually gives information about…",
+        "hi": "प्रेजेंटेशन की प्रत्येक स्लाइड सामान्यतः किसकी जानकारी देती है?"
+      },
+      "options": [
+        {
+          "en": "One topic of the subject",
+          "hi": "विषय के एक टॉपिक की"
+        },
+        {
+          "en": "The whole book at once",
+          "hi": "पूरी किताब एक साथ"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        },
+        {
+          "en": "Only the title",
+          "hi": "केवल शीर्षक"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Every slide covers one topic of the presentation's subject.",
+        "hi": "हर स्लाइड विषय के एक टॉपिक के बारे में बताती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these can be added to a presentation?",
+        "hi": "इनमें से क्या प्रेजेंटेशन में जोड़ा जा सकता है?"
+      },
+      "options": [
+        {
+          "en": "Images, sound, animation and transitions",
+          "hi": "चित्र, ध्वनि, एनीमेशन और ट्रांज़िशन"
+        },
+        {
+          "en": "Only text",
+          "hi": "केवल टेक्स्ट"
+        },
+        {
+          "en": "Only numbers",
+          "hi": "केवल संख्याएँ"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Slides can be enhanced with images, sound, animation and transitions.",
+        "hi": "स्लाइडों में चित्र, ध्वनि, एनीमेशन, ट्रांज़िशन जोड़े जा सकते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Formatting slides means…",
+        "hi": "स्लाइड फ़ॉर्मेट करने का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Improving their look - fonts, colours, layout",
+          "hi": "उनकी सुंदरता बढ़ाना - फ़ॉन्ट, रंग, लेआउट"
+        },
+        {
+          "en": "Deleting them",
+          "hi": "उन्हें डिलीट करना"
+        },
+        {
+          "en": "Hiding them",
+          "hi": "उन्हें छिपाना"
+        },
+        {
+          "en": "Renaming the file",
+          "hi": "फ़ाइल नाम बदलना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Formatting makes slides attractive and readable.",
+        "hi": "फ़ॉर्मेटिंग स्लाइडों को आकर्षक और पठनीय बनाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Where did students first download the OpenOffice suite?",
+        "hi": "छात्रों ने OpenOffice suite सबसे पहले कहाँ डाउनलोड करना सीखा था?"
+      },
+      "options": [
+        {
+          "en": "In Class 6",
+          "hi": "कक्षा 6 में"
+        },
+        {
+          "en": "In Class 10",
+          "hi": "कक्षा 10 में"
+        },
+        {
+          "en": "They never did",
+          "hi": "कभी नहीं"
+        },
+        {
+          "en": "In college",
+          "hi": "कॉलेज में"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Students downloaded OpenOffice in Class 6.",
+        "hi": "छात्रों ने कक्षा 6 में OpenOffice डाउनलोड करना सीखा।"
+      }
+    },
+    {
+      "question": {
+        "en": "The zoo trip example shows that presentations can include…",
+        "hi": "चिड़ियाघर यात्रा का उदाहरण दिखाता है कि प्रेजेंटेशन में क्या हो सकता है?"
+      },
+      "options": [
+        {
+          "en": "Photos taken on the trip",
+          "hi": "यात्रा की तस्वीरें"
+        },
+        {
+          "en": "Only audio",
+          "hi": "केवल ऑडियो"
+        },
+        {
+          "en": "Nothing visual",
+          "hi": "कुछ भी दृश्य नहीं"
+        },
+        {
+          "en": "Only numbers",
+          "hi": "केवल संख्याएँ"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Presentations can show the photos and stories of a trip.",
+        "hi": "प्रेजेंटेशन में यात्रा की तस्वीरें-कहानियाँ दिखाई जा सकती हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Presentations are better than plain speech because they…",
+        "hi": "प्रेजेंटेशन साधारण बोलने से बेहतर होते हैं क्योंकि…"
+      },
+      "options": [
+        {
+          "en": "Show pictures and points together, making ideas clear",
+          "hi": "चित्र और बिंदु साथ दिखाकर विचार स्पष्ट करते हैं"
+        },
+        {
+          "en": "Take more time",
+          "hi": "अधिक समय लेते हैं"
+        },
+        {
+          "en": "Confuse listeners",
+          "hi": "श्रोताओं को उलझाते हैं"
+        },
+        {
+          "en": "Cannot be shared",
+          "hi": "साझा नहीं किए जा सकते"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Visual slides make explanations clearer.",
+        "hi": "दृश्य स्लाइडें समझाना आसान बनाती हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Before using AI chatbox content in a presentation, you should…",
+        "hi": "AI चैटबॉक्स सामग्री को प्रेजेंटेशन में लाने से पहले आपको क्या करना चाहिए?"
+      },
+      "options": [
+        {
+          "en": "Verify facts from reliable sources",
+          "hi": "विश्वसनीय स्रोतों से तथ्य जाँचना"
+        },
+        {
+          "en": "Copy it blindly",
+          "hi": "आँख मूंदकर कॉपी करना"
+        },
+        {
+          "en": "Hide the source",
+          "hi": "स्रोत छिपाना"
+        },
+        {
+          "en": "Delete your work",
+          "hi": "अपना काम डिलीट करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Always verify AI-provided information.",
+        "hi": "AI से मिली जानकारी सदैव जाँचें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which software suite also includes Writer and Calc besides Impress?",
+        "hi": "Impress के अलावा कौन-सा सॉफ्टवेयर समूह Writer और Calc भी रखता है?"
+      },
+      "options": [
+        {
+          "en": "Apache OpenOffice",
+          "hi": "Apache OpenOffice"
+        },
+        {
+          "en": "Notepad",
+          "hi": "Notepad"
+        },
+        {
+          "en": "Calculator",
+          "hi": "कैलकुलेटर"
+        },
+        {
+          "en": "MS Paint",
+          "hi": "MS Paint"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "OpenOffice includes Writer (word), Calc (spreadsheet) and Impress (presentation).",
+        "hi": "OpenOffice में Writer, Calc और Impress तीनों होते हैं।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "An estimated 30 million presentations are created every day around the world - that's about 350 every second!",
+      "hi": "अनुमान है कि दुनिया में हर दिन 3 करोड़ प्रेजेंटेशन बनाए जाते हैं - यानी हर सेकंड लगभग 350!"
+    },
+    {
+      "en": "Presentation experts follow the '6x6 rule': at most 6 bullet points per slide and 6 words per bullet - your slides shouldn't look like a storybook.",
+      "hi": "प्रेजेंटेशन विशेषज्ञ '6x6 नियम' मानते हैं: प्रति स्लाइड अधिकतम 6 बिंदु और प्रति बिंदु 6 शब्द - स्लाइड कहानी की किताब नहीं दिखनी चाहिए।"
+    },
+    {
+      "en": "The animation frames you add in Impress are drawn so fast (about 24 pictures every second) that your eyes believe the objects are really moving!",
+      "hi": "Impress में जोड़े गए एनीमेशन फ़्रेम इतनी तेज़ी से बनते हैं (लगभग हर सेकंड 24 चित्र) कि आपकी आँखें मान लेती हैं कि वस्तुएँ सच में हिल रही हैं!"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "Slide: one page of a presentation.",
+      "hi": "स्लाइड: प्रेजेंटेशन का एक पेज।"
+    },
+    {
+      "en": "Impress: OpenOffice's presentation tool.",
+      "hi": "Impress: OpenOffice का प्रेजेंटेशन टूल।"
+    },
+    {
+      "en": "Animation: movement effect on slide objects.",
+      "hi": "एनीमेशन: स्लाइड वस्तुओं की गति।"
+    },
+    {
+      "en": "Slide Transition: effect between slides.",
+      "hi": "स्लाइड ट्रांज़िशन: स्लाइडों के बीच प्रभाव।"
+    },
+    {
+      "en": "AI Chatbox: tool to gather information by asking.",
+      "hi": "AI चैटबॉक्स: पूछकर जानकारी पाने का उपकरण।"
+    }
+  ],
+  "conclusion": {
+    "en": "With Impress you can turn any story - like a zoo trip - into a colourful presentation with images, sound, animation and transitions.",
+    "hi": "Impress से कोई भी कहानी - जैसे चिड़ियाघर यात्रा - चित्रों, ध्वनि, एनीमेशन और ट्रांज़िशन के साथ रंग-बिरंगी प्रेजेंटेशन बन सकती है।"
+  }
+}

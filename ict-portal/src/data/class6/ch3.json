@@ -1,0 +1,814 @@
+{
+  "id": "ch3",
+  "title": {
+    "en": "Data Representation and Processing - 02 (Word Processing)",
+    "hi": "डेटा प्रतिनिधित्व और प्रसंस्करण - 02 (वर्ड प्रोसेसिंग)"
+  },
+  "class": 6,
+  "pages": "54-83",
+  "overview": {
+    "en": "Learn word processing skills including text formatting, editing, spell check, find & replace, and document creation.",
+    "hi": "वर्ड प्रोसेसिंग कौशल सीखें जिसमें टेक्स्ट फॉर्मेटिंग, संपादन, वर्तनी जांच, खोज और प्रतिस्थापन, और दस्तावेज़ निर्माण शामिल हैं।"
+  },
+  "sections": [
+    {
+      "id": "word-processor",
+      "title": {
+        "en": "What is a Word Processor?",
+        "hi": "वर्ड प्रोसेसर क्या है?"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "A word processor is application software used to create, edit and format text documents. OpenOffice Writer is the word processor taught in the book.",
+          "hi": "वर्ड प्रोसेसर एप्लिकेशन सॉफ्टवेयर है जिससे टेक्स्ट दस्तावेज़ बनाए, संपादित व सज्जित किए जाते हैं। पुस्तक में OpenOffice Writer सिखाया गया है।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Used for letters, applications, stories, reports and notes.",
+              "hi": "पत्र, प्रार्थना-पत्र, कहानियाँ, रिपोर्ट व नोट्स हेतु।"
+            },
+            {
+              "en": "Documents can contain text, images and tables.",
+              "hi": "दस्तावेज़ों में टेक्स्ट, चित्र व तालिकाएँ आ सकती हैं।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "creating",
+      "title": {
+        "en": "Creating a Document",
+        "hi": "दस्तावेज़ बनाना"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Step 1",
+                "hi": "चरण 1"
+              },
+              "d": {
+                "en": "Open the OpenOffice suite.",
+                "hi": "OpenOffice suite खोलें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 2",
+                "hi": "चरण 2"
+              },
+              "d": {
+                "en": "Double-click 'Text Document'.",
+                "hi": "'Text Document' पर डबल क्लिक करें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 3",
+                "hi": "चरण 3"
+              },
+              "d": {
+                "en": "A blank document opens - start typing.",
+                "hi": "खाली दस्तावेज़ खुलता है - टाइप करें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 4",
+                "hi": "चरण 4"
+              },
+              "d": {
+                "en": "Save the document in your folder.",
+                "hi": "दस्तावेज़ को अपने फ़ोल्डर में सहेजें।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "formatting",
+      "title": {
+        "en": "Formatting Text",
+        "hi": "टेक्स्ट फ़ॉर्मेटिंग"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Bold",
+                "hi": "बोल्ड"
+              },
+              "d": {
+                "en": "Displays text in a darker, heavier form.",
+                "hi": "टेक्स्ट को गहरे रंग में दिखाता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Italic",
+                "hi": "इटैलिक"
+              },
+              "d": {
+                "en": "Shows the text slightly tilted.",
+                "hi": "टेक्स्ट को थोड़ा तिरछा दिखाता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Underline",
+                "hi": "अंडरलाइन"
+              },
+              "d": {
+                "en": "Draws a line below the text.",
+                "hi": "टेक्स्ट के नीचे लाइन खींचता है।"
+              }
+            }
+          ]
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Text Highlighting",
+            "hi": "टेक्स्ट हाइलाइटिंग"
+          },
+          "items": [
+            {
+              "en": "Sets the background colour behind text.",
+              "hi": "टेक्स्ट के पीछे का रंग सेट करती है।"
+            },
+            {
+              "en": "Select the part of the text, then click the highlighting icon.",
+              "hi": "टेक्स्ट का भाग चुनकर हाइलाइटिंग आइकन पर क्लिक करें।"
+            },
+            {
+              "en": "Text can be highlighted in many different colours.",
+              "hi": "टेक्स्ट कई अलग-अलग रंगों में हाइलाइट किया जा सकता है।"
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "Formatting applies only to the selected text - select first, format after.",
+          "hi": "फ़ॉर्मेटिंग केवल चयनित टेक्स्ट पर होती है - पहले चुनें, फिर फ़ॉर्मेट करें।"
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Word Processor",
+      "hi": "वर्ड प्रोसेसर"
+    },
+    {
+      "en": "Formatting",
+      "hi": "फॉर्मेटिंग"
+    },
+    {
+      "en": "Spell Check",
+      "hi": "वर्तनी जांच"
+    },
+    {
+      "en": "Find and Replace",
+      "hi": "खोज और बदलें"
+    },
+    {
+      "en": "Document",
+      "hi": "दस्तावेज़"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "Which of these is a word processor?",
+        "hi": "इनमें से कौन सा वर्ड प्रोसेसर है?"
+      },
+      "options": [
+        {
+          "en": "Microsoft Word",
+          "hi": "माइक्रोसॉफ्ट वर्ड"
+        },
+        {
+          "en": "Microsoft Excel",
+          "hi": "माइक्रोसॉफ्ट एक्सेल"
+        },
+        {
+          "en": "Adobe Photoshop",
+          "hi": "एडोब फोटोशॉप"
+        },
+        {
+          "en": "Google Chrome",
+          "hi": "गूगल क्रोम"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Microsoft Word is a popular word processing software.",
+        "hi": "माइक्रोसॉफ्ट वर्ड एक लोकप्रिय वर्ड प्रोसेसिंग सॉफ्टवेयर है।"
+      }
+    },
+    {
+      "question": {
+        "en": "What does Ctrl+B do in a word processor?",
+        "hi": "वर्ड प्रोसेसर में Ctrl+B क्या करता है?"
+      },
+      "options": [
+        {
+          "en": "Italic text",
+          "hi": "इटैलिक टेक्स्ट"
+        },
+        {
+          "en": "Bold text",
+          "hi": "बोल्ड टेक्स्ट"
+        },
+        {
+          "en": "Underline text",
+          "hi": "अंडरलाइन टेक्स्ट"
+        },
+        {
+          "en": "Save document",
+          "hi": "दस्तावेज़ सेव करें"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Ctrl+B applies bold formatting to selected text.",
+        "hi": "Ctrl+B चयनित टेक्स्ट पर बोल्ड फॉर्मेटिंग लागू करता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Text highlighting sets the…",
+        "hi": "टेक्स्ट हाइलाइटिंग क्या सेट करती है?"
+      },
+      "options": [
+        {
+          "en": "Font size",
+          "hi": "फ़ॉन्ट आकार"
+        },
+        {
+          "en": "Background colour of text",
+          "hi": "टेक्स्ट का बैकग्राउंड रंग"
+        },
+        {
+          "en": "Language",
+          "hi": "भाषा"
+        },
+        {
+          "en": "Page size",
+          "hi": "पेज आकार"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Highlighting sets the background colour behind the text.",
+        "hi": "हाइलाइटिंग टेक्स्ट के पीछे का रंग सेट करती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Bold text appears…",
+        "hi": "बोल्ड टेक्स्ट कैसा दिखता है?"
+      },
+      "options": [
+        {
+          "en": "Tilted",
+          "hi": "तिरछा"
+        },
+        {
+          "en": "Darker/heavier",
+          "hi": "गहरा/मोटा"
+        },
+        {
+          "en": "With a line below",
+          "hi": "नीचे लाइन सहित"
+        },
+        {
+          "en": "In colour only",
+          "hi": "केवल रंगीन"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Bold displays text in a darker, heavier form.",
+        "hi": "बोल्ड टेक्स्ट को गहरे रंग में दिखाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Italic text appears…",
+        "hi": "इटैलिक टेक्स्ट कैसा दिखता है?"
+      },
+      "options": [
+        {
+          "en": "Tilted/slanted",
+          "hi": "तिरछा"
+        },
+        {
+          "en": "Darker",
+          "hi": "गहरा"
+        },
+        {
+          "en": "Underlined",
+          "hi": "रेखांकित"
+        },
+        {
+          "en": "Highlighted",
+          "hi": "हाइलाइटेड"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Italics slant the text slightly.",
+        "hi": "इटैलिक्स टेक्स्ट को थोड़ा तिरछा दिखाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Underline shows…",
+        "hi": "अंडरलाइन क्या दिखाती है?"
+      },
+      "options": [
+        {
+          "en": "A line above text",
+          "hi": "टेक्स्ट के ऊपर लाइन"
+        },
+        {
+          "en": "A line below text",
+          "hi": "टेक्स्ट के नीचे लाइन"
+        },
+        {
+          "en": "Coloured text",
+          "hi": "रंगीन टेक्स्ट"
+        },
+        {
+          "en": "Bigger text",
+          "hi": "बड़ा टेक्स्ट"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Underline draws a line beneath the text.",
+        "hi": "अंडरलाइन टेक्स्ट के नीचे एक लाइन दिखाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "OpenOffice Writer is used for…",
+        "hi": "OpenOffice Writer का उपयोग होता है…"
+      },
+      "options": [
+        {
+          "en": "Word processing / documents",
+          "hi": "वर्ड प्रोसेसिंग / दस्तावेज़"
+        },
+        {
+          "en": "Presentations",
+          "hi": "प्रेजेंटेशन"
+        },
+        {
+          "en": "Spreadsheets",
+          "hi": "स्प्रेडशीट"
+        },
+        {
+          "en": "Painting",
+          "hi": "चित्रकला"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Writer is the word processing tool of OpenOffice.",
+        "hi": "Writer, OpenOffice का वर्ड प्रोसेसिंग टूल है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Double-clicking 'Text Document' in OpenOffice opens…",
+        "hi": "OpenOffice में 'Text Document' पर डबल क्लिक करने से क्या खुलता है?"
+      },
+      "options": [
+        {
+          "en": "A blank document",
+          "hi": "एक खाली दस्तावेज़"
+        },
+        {
+          "en": "A spreadsheet",
+          "hi": "स्प्रेडशीट"
+        },
+        {
+          "en": "The internet",
+          "hi": "इंटरनेट"
+        },
+        {
+          "en": "A game",
+          "hi": "खेल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A blank document opens so you can start typing.",
+        "hi": "एक खाली दस्तावेज़ खुलता है जिसमें टाइप शुरू कर सकते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "To apply highlighting, you must first…",
+        "hi": "हाइलाइटिंग लगाने से पहले सबसे पहले क्या करना होगा?"
+      },
+      "options": [
+        {
+          "en": "Select the text",
+          "hi": "टेक्स्ट चुनना"
+        },
+        {
+          "en": "Print the page",
+          "hi": "पेज प्रिंट करना"
+        },
+        {
+          "en": "Close the file",
+          "hi": "फ़ाइल बंद करना"
+        },
+        {
+          "en": "Restart the computer",
+          "hi": "कंप्यूटर रीस्टार्ट करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Select the part of the text, then click the highlighting icon.",
+        "hi": "टेक्स्ट का भाग चुनकर हाइलाइटिंग आइकन पर क्लिक करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "A word processor helps us…",
+        "hi": "वर्ड प्रोसेसर हमें मदद करता है…"
+      },
+      "options": [
+        {
+          "en": "Create, edit and format text documents",
+          "hi": "टेक्स्ट दस्तावेज़ बनाने, संपादित और सज्जित करने"
+        },
+        {
+          "en": "Only play games",
+          "hi": "केवल खेल खेलने"
+        },
+        {
+          "en": "Only browse the internet",
+          "hi": "केवल इंटरनेट चलाने"
+        },
+        {
+          "en": "Store spreadsheets only",
+          "hi": "केवल स्प्रेडशीट रखने"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Word processors create and format text documents.",
+        "hi": "वर्ड प्रोसेसर टेक्स्ट दस्तावेज़ बनाते और सज्जित करते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Highlighting can be done in…",
+        "hi": "हाइलाइटिंग कितने रंगों में की जा सकती है?"
+      },
+      "options": [
+        {
+          "en": "Only one colour",
+          "hi": "केवल एक रंग"
+        },
+        {
+          "en": "Only two colours",
+          "hi": "केवल दो रंग"
+        },
+        {
+          "en": "Many different colours",
+          "hi": "कई अलग-अलग रंग"
+        },
+        {
+          "en": "No colour",
+          "hi": "कोई रंग नहीं"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Text can be highlighted in different colours.",
+        "hi": "टेक्स्ट अलग-अलग रंगों से हाइलाइट किया जा सकता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "To emphasise an important word, you would use…",
+        "hi": "किसी महत्वपूर्ण शब्द पर ज़ोर देने के लिए क्या उपयोग करेंगे?"
+      },
+      "options": [
+        {
+          "en": "Bold",
+          "hi": "बोल्ड"
+        },
+        {
+          "en": "Delete",
+          "hi": "डिलीट"
+        },
+        {
+          "en": "Close",
+          "hi": "क्लोज़"
+        },
+        {
+          "en": "Restart",
+          "hi": "रीस्टार्ट"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Bold makes the word stand out darker.",
+        "hi": "बोल्ड शब्द को गहरा करके अलग कर देता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Where do you write an application or letter on a computer?",
+        "hi": "कंप्यूटर पर प्रार्थना-पत्र या पत्र कहाँ लिखते हैं?"
+      },
+      "options": [
+        {
+          "en": "In a word processor",
+          "hi": "वर्ड प्रोसेसर में"
+        },
+        {
+          "en": "In a spreadsheet",
+          "hi": "स्प्रेडशीट में"
+        },
+        {
+          "en": "In a presentation",
+          "hi": "प्रेजेंटेशन में"
+        },
+        {
+          "en": "In a folder",
+          "hi": "फ़ोल्डर में"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Letters and applications are typed in a word processor.",
+        "hi": "पत्र वर्ड प्रोसेसर में टाइप किए जाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Formatting text makes the document…",
+        "hi": "टेक्स्ट फ़ॉर्मेटिंग से दस्तावेज़…"
+      },
+      "options": [
+        {
+          "en": "Easier and nicer to read",
+          "hi": "पढ़ने में आसान और सुंदर बनता है"
+        },
+        {
+          "en": "Impossible to print",
+          "hi": "प्रिंट न होने योग्य"
+        },
+        {
+          "en": "Locked",
+          "hi": "लॉक हो जाता है"
+        },
+        {
+          "en": "Slower to open",
+          "hi": "खुलने में धीमा"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Formatting improves the look and readability of documents.",
+        "hi": "फ़ॉर्मेटिंग दस्तावेज़ की सुंदरता और पठनीयता बढ़ाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "To make a heading stand out, use…",
+        "hi": "शीर्षक को अलग दिखाने के लिए क्या करें?"
+      },
+      "options": [
+        {
+          "en": "Bold and a larger font size",
+          "hi": "बोल्ड और बड़ा फ़ॉन्ट आकार"
+        },
+        {
+          "en": "Smaller font",
+          "hi": "छोटा फ़ॉन्ट"
+        },
+        {
+          "en": "White colour",
+          "hi": "सफ़ेद रंग"
+        },
+        {
+          "en": "Delete key",
+          "hi": "डिलीट कुंजी"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Headings are made bold and larger to stand out.",
+        "hi": "शीर्षक को बोल्ड और बड़ा करके उभारा जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "After typing a document, you should…",
+        "hi": "दस्तावेज़ टाइप करने के बाद आपको क्या करना चाहिए?"
+      },
+      "options": [
+        {
+          "en": "Save it in a folder",
+          "hi": "उसे फ़ोल्डर में सहेजना"
+        },
+        {
+          "en": "Delete it",
+          "hi": "उसे डिलीट करना"
+        },
+        {
+          "en": "Turn off the monitor",
+          "hi": "मॉनिटर बंद करना"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Save the document in a folder so it is not lost.",
+        "hi": "दस्तावेज़ को फ़ोल्डर में सहेजें ताकि वह न खोए।"
+      }
+    },
+    {
+      "question": {
+        "en": "Word processing software is an example of…",
+        "hi": "वर्ड प्रोसेसिंग सॉफ्टवेयर किसका उदाहरण है?"
+      },
+      "options": [
+        {
+          "en": "Application software",
+          "hi": "एप्लिकेशन सॉफ्टवेयर"
+        },
+        {
+          "en": "Hardware",
+          "hi": "हार्डवेयर"
+        },
+        {
+          "en": "An input device",
+          "hi": "इनपुट उपकरण"
+        },
+        {
+          "en": "A cable",
+          "hi": "केबल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Word processors are application software.",
+        "hi": "वर्ड प्रोसेसर एप्लिकेशन सॉफ्टवेयर हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is NOT done in a word processor?",
+        "hi": "वर्ड प्रोसेसर में यह काम कौन नहीं होता?"
+      },
+      "options": [
+        {
+          "en": "Typing text",
+          "hi": "टेक्स्ट टाइप करना"
+        },
+        {
+          "en": "Formatting text",
+          "hi": "टेक्स्ट फ़ॉर्मेट करना"
+        },
+        {
+          "en": "Calculating planetary distances",
+          "hi": "ग्रहों की दूरी गणना"
+        },
+        {
+          "en": "Printing documents",
+          "hi": "दस्तावेज़ प्रिंट करना"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Calculations on big data are done in spreadsheets, not word processors.",
+        "hi": "बड़े डेटा की गणना स्प्रेडशीट में होती है, वर्ड प्रोसेसर में नहीं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Selecting text before formatting is needed because…",
+        "hi": "फ़ॉर्मेटिंग से पहले टेक्स्ट चुनना ज़रूरी है क्योंकि…"
+      },
+      "options": [
+        {
+          "en": "The effect must know which part to apply to",
+          "hi": "प्रभाव को पता हो कि किस भाग पर लगाना है"
+        },
+        {
+          "en": "It looks nice",
+          "hi": "यह अच्छा लगता है"
+        },
+        {
+          "en": "The computer is slow",
+          "hi": "कंप्यूटर धीमा है"
+        },
+        {
+          "en": "It is a rule of the internet",
+          "hi": "यह इंटरनेट का नियम है"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Formatting applies only to the selected part of the text.",
+        "hi": "फ़ॉर्मेटिंग केवल चयनित भाग पर लागू होती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Documents can contain…",
+        "hi": "दस्तावेज़ों में क्या हो सकता है?"
+      },
+      "options": [
+        {
+          "en": "Text, images and tables",
+          "hi": "टेक्स्ट, चित्र और तालिकाएँ"
+        },
+        {
+          "en": "Only text",
+          "hi": "केवल टेक्स्ट"
+        },
+        {
+          "en": "Only pictures",
+          "hi": "केवल चित्र"
+        },
+        {
+          "en": "Only numbers",
+          "hi": "केवल संख्याएँ"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Word documents can hold text, images and tables.",
+        "hi": "वर्ड दस्तावेज़ों में टेक्स्ट, चित्र, तालिकाएँ आ सकती हैं।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "The Undo shortcut Ctrl+Z exists because programmers made mistakes so often - 'Z' was chosen simply because it was rarely used for anything else!",
+      "hi": "Undo शॉर्टकट Ctrl+Z इसलिए बना क्योंकि प्रोग्रामर बहुत गलतियाँ करते थे - 'Z' चुना गया क्योंकि वह अक्षर और कहीं इस्तेमाल नहीं होता था!"
+    },
+    {
+      "en": "The Backspace key once had a real job: on old typewriters, it physically moved the carriage back so you could type over a mistake.",
+      "hi": "Backspace की कभी असली नौकरी थी: पुरानी टाइपराइटर पर यह गाड़ी (carriage) को वापस खिसकाती थी ताकि गलती के ऊपर दोबारा टाइप हो सके।"
+    },
+    {
+      "en": "Autocorrect was invented in the 1990s - and its first famous mistake, changing 'th' correctly every time, made millions of users fall in love with it.",
+      "hi": "ऑटोकरेक्ट 1990 के दशक में बना - और इसकी पहली प्रसिद्ध सफलता ने लाखों उपयोगकर्ताओं को इसका प्रेमी बना दिया।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "Word processor: creates and formats text documents.",
+      "hi": "वर्ड प्रोसेसर: टेक्स्ट दस्तावेज़ बनाता-सज्जित करता है।"
+    },
+    {
+      "en": "Writer: OpenOffice's word processor.",
+      "hi": "Writer: OpenOffice का वर्ड प्रोसेसर।"
+    },
+    {
+      "en": "Bold: darker/heavier text.",
+      "hi": "बोल्ड: गहरा/मोटा टेक्स्ट।"
+    },
+    {
+      "en": "Italic: tilted text.",
+      "hi": "इटैलिक: तिरछा टेक्स्ट।"
+    },
+    {
+      "en": "Underline: line below text.",
+      "hi": "अंडरलाइन: टेक्स्ट के नीचे लाइन।"
+    },
+    {
+      "en": "Highlighting: background colour of text.",
+      "hi": "हाइलाइटिंग: टेक्स्ट का बैकग्राउंड रंग।"
+    }
+  ],
+  "conclusion": {
+    "en": "From letters to stories, the word processor is where our words take shape - type, format, and save.",
+    "hi": "पत्रों से कहानियों तक, वर्ड प्रोसेसर में हमारे शब्द आकार लेते हैं - टाइप करें, फ़ॉर्मेट करें, सहेजें।"
+  }
+}

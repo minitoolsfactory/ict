@@ -1,0 +1,902 @@
+{
+  "id": "ch2",
+  "title": {
+    "en": "Data Representation and Processing - 01 (SpreadSheet)",
+    "hi": "डेटा प्रतिनिधित्व और प्रसंस्करण - 01 (स्प्रेडशीट)"
+  },
+  "class": 6,
+  "pages": "25-53",
+  "overview": {
+    "en": "Learn how to represent and process data using spreadsheets. Covers cells, rows, columns, formulas, functions, charts, and data organization.",
+    "hi": "स्प्रेडशीट का उपयोग करके डेटा को कैसे दर्शाया और संसाधित किया जाता है, यह सीखें। इसमें सेल, पंक्तियां, स्तंभ, सूत्र, फलन, चार्ट और डेटा संगठन शामिल हैं।"
+  },
+  "sections": [
+    {
+      "id": "what-is-spreadsheet",
+      "title": {
+        "en": "What is Spreadsheet Software?",
+        "hi": "स्प्रेडशीट सॉफ्टवेयर क्या है?"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Spreadsheet software is a computer application that helps store large amounts of data and perform calculations on it.",
+          "hi": "स्प्रेडशीट सॉफ्टवेयर एक कंप्यूटर एप्लिकेशन है जो बड़ी मात्रा में डेटा संग्रहित कर उस पर गणना करने में मदद करता है।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Examples",
+            "hi": "उदाहरण"
+          },
+          "items": [
+            {
+              "en": "Microsoft Excel, LibreOffice Calc, Google Sheets.",
+              "hi": "Microsoft Excel, LibreOffice Calc, Google Sheets।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cells",
+      "title": {
+        "en": "Rows, Columns and Cells",
+        "hi": "पंक्तियाँ, स्तंभ और सेल"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Row",
+                "hi": "पंक्ति"
+              },
+              "d": {
+                "en": "Runs horizontally (side by side).",
+                "hi": "क्षैतिज रूप से (आगे-पीछे) चलती है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Column",
+                "hi": "स्तंभ"
+              },
+              "d": {
+                "en": "Runs vertically (up and down).",
+                "hi": "लंबवत (ऊपर-नीचे) चलता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Cell",
+                "hi": "सेल"
+              },
+              "d": {
+                "en": "The box where a row and a column meet.",
+                "hi": "जहाँ पंक्ति और स्तंभ मिलते हैं वह बॉक्स।"
+              }
+            },
+            {
+              "t": {
+                "en": "Cell address",
+                "hi": "सेल पता"
+              },
+              "d": {
+                "en": "Formed by the column name and row name - e.g. A1 is the active cell's address.",
+                "hi": "स्तंभ नाम और पंक्ति नाम से बनता है - जैसे A1 एक्टिव सेल का पता।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "workbook",
+      "title": {
+        "en": "Workbook and Worksheet",
+        "hi": "वर्कबुक और वर्कशीट"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Worksheet",
+                "hi": "वर्कशीट"
+              },
+              "d": {
+                "en": "A single page of the spreadsheet where data is stored.",
+                "hi": "स्प्रेडशीट का एक पेज जहाँ डेटा रहता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Workbook",
+                "hi": "वर्कबुक"
+              },
+              "d": {
+                "en": "A collection of worksheets - a new workbook opens with three worksheets by default.",
+                "hi": "वर्कशीटों का संग्रह - नई वर्कबुक डिफ़ॉल्ट रूप से तीन वर्कशीट के साथ खुलती है।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "editing",
+      "title": {
+        "en": "Inserting and Deleting Rows/Columns",
+        "hi": "पंक्ति/स्तंभ जोड़ना-हटाना"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "title": {
+            "en": "Insert a column",
+            "hi": "स्तंभ जोड़ना"
+          },
+          "items": [
+            {
+              "t": {
+                "en": "Step 1",
+                "hi": "चरण 1"
+              },
+              "d": {
+                "en": "Select a cell in the worksheet.",
+                "hi": "वर्कशीट में एक सेल चुनें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 2",
+                "hi": "चरण 2"
+              },
+              "d": {
+                "en": "Select the Insert menu and click Column.",
+                "hi": "Insert मेन्यू चुनकर Column पर क्लिक करें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 3",
+                "hi": "चरण 3"
+              },
+              "d": {
+                "en": "A new column is inserted to the left of the selected cell.",
+                "hi": "चयनित सेल के बाईं ओर नया स्तंभ जुड़ता है।"
+              }
+            }
+          ]
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Insert a row the same way - a new row appears above the selected one.",
+              "hi": "उसी तरह पंक्ति जोड़ें - नई पंक्ति चयनित के ऊपर आती है।"
+            },
+            {
+              "en": "Deleting removes the entire row/column with its data.",
+              "hi": "डिलीट करने पर पूरी पंक्ति/स्तंभ और उसका डेटा हट जाता है।"
+            },
+            {
+              "en": "In the book's activity, planets were stored with a 'Distance' column - closest planet = 1, farthest = 8.",
+              "hi": "पुस्तक की गतिविधि में ग्रहों के साथ 'Distance' स्तंभ बना - निकटतम ग्रह = 1, सुदूरतम = 8।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "functions",
+      "title": {
+        "en": "Basic Functions",
+        "hi": "मूल फ़ंक्शन"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "sum",
+                "hi": "sum"
+              },
+              "d": {
+                "en": "Adds all the values.",
+                "hi": "सभी मानों का योग।"
+              }
+            },
+            {
+              "t": {
+                "en": "min / max",
+                "hi": "min / max"
+              },
+              "d": {
+                "en": "Smallest / largest value.",
+                "hi": "सबसे छोटा / बड़ा मान।"
+              }
+            },
+            {
+              "t": {
+                "en": "count",
+                "hi": "count"
+              },
+              "d": {
+                "en": "Counts the number of values.",
+                "hi": "मानों की संख्या।"
+              }
+            },
+            {
+              "t": {
+                "en": "average",
+                "hi": "average"
+              },
+              "d": {
+                "en": "The mean of the values.",
+                "hi": "मानों का औसत।"
+              }
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "Cell address = column letter + row number. Change one number and every formula recalculates instantly.",
+          "hi": "सेल पता = स्तंभ अक्षर + पंक्ति संख्या। एक संख्या बदलें, हर फ़ॉर्मूला तुरंत दोबारा गणना कर लेता है।"
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Spreadsheet",
+      "hi": "स्प्रेडशीट"
+    },
+    {
+      "en": "Cell",
+      "hi": "सेल"
+    },
+    {
+      "en": "Row",
+      "hi": "पंक्ति"
+    },
+    {
+      "en": "Column",
+      "hi": "स्तंभ"
+    },
+    {
+      "en": "Formula",
+      "hi": "सूत्र"
+    },
+    {
+      "en": "Function",
+      "hi": "फलन"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "What is the intersection of a row and column called?",
+        "hi": "पंक्ति और स्तंभ के चौरास्ते को क्या कहते हैं?"
+      },
+      "options": [
+        {
+          "en": "Cell",
+          "hi": "सेल"
+        },
+        {
+          "en": "Sheet",
+          "hi": "शीट"
+        },
+        {
+          "en": "Workbook",
+          "hi": "कार्यपुस्तिका"
+        },
+        {
+          "en": "Range",
+          "hi": "सीमा"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The intersection of a row and column is called a cell.",
+        "hi": "पंक्ति और स्तंभ के चौरास्ते को सेल कहा जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which symbol do formulas start with?",
+        "hi": "फॉर्मूले किस चिह्न से शुरू होते हैं?"
+      },
+      "options": [
+        {
+          "en": "+",
+          "hi": "+"
+        },
+        {
+          "en": "=",
+          "hi": "="
+        },
+        {
+          "en": "*",
+          "hi": "*"
+        },
+        {
+          "en": "#",
+          "hi": "#"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "All spreadsheet formulas start with an equals sign (=).",
+        "hi": "सभी स्प्रेडशीट फॉर्मूले बराबर के चिह्न (=) से शुरू होते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which function calculates the sum of values?",
+        "hi": "मानों का योग किस फलन से गणना किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "AVERAGE()",
+          "hi": "AVERAGE()"
+        },
+        {
+          "en": "SUM()",
+          "hi": "SUM()"
+        },
+        {
+          "en": "MAX()",
+          "hi": "MAX()"
+        },
+        {
+          "en": "COUNT()",
+          "hi": "COUNT()"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The SUM() function adds up all values in a range.",
+        "hi": "SUM() फलन एक सीमा के सभी मानों को जोड़ता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A cell address like A1 is formed by combining…",
+        "hi": "A1 जैसा सेल पता किनको मिलाकर बनता है?"
+      },
+      "options": [
+        {
+          "en": "Row name and column name",
+          "hi": "पंक्ति और स्तंभ के नाम"
+        },
+        {
+          "en": "File and folder names",
+          "hi": "फ़ाइल और फ़ोल्डर नाम"
+        },
+        {
+          "en": "Two numbers",
+          "hi": "दो संख्याएँ"
+        },
+        {
+          "en": "Sheet names",
+          "hi": "शीट नाम"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A cell address combines its column name and row name.",
+        "hi": "सेल पता स्तंभ नाम और पंक्ति नाम मिलाकर बनता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "By default, how many worksheets does a new workbook contain?",
+        "hi": "डिफ़ॉल्ट रूप से नई वर्कबुक में कितनी वर्कशीट होती हैं?"
+      },
+      "options": [
+        {
+          "en": "One",
+          "hi": "एक"
+        },
+        {
+          "en": "Two",
+          "hi": "दो"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Ten",
+          "hi": "दस"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "A new workbook opens with three worksheets by default.",
+        "hi": "नई वर्कबुक डिफ़ॉल्ट रूप से तीन वर्कशीट के साथ खुलती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which menu is used to insert a new column?",
+        "hi": "नया कॉलम डालने के लिए कौन-सा मेन्यू उपयोग होता है?"
+      },
+      "options": [
+        {
+          "en": "File",
+          "hi": "File"
+        },
+        {
+          "en": "Insert",
+          "hi": "Insert"
+        },
+        {
+          "en": "View",
+          "hi": "View"
+        },
+        {
+          "en": "Help",
+          "hi": "Help"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Select the Insert menu and click Column.",
+        "hi": "Insert मेन्यू चुनकर Column पर क्लिक करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "A new column is inserted to which side of the selected cell?",
+        "hi": "चयनित सेल के किस ओर नया कॉलम जुड़ता है?"
+      },
+      "options": [
+        {
+          "en": "Right",
+          "hi": "दाईं"
+        },
+        {
+          "en": "Left",
+          "hi": "बाईं"
+        },
+        {
+          "en": "Above",
+          "hi": "ऊपर"
+        },
+        {
+          "en": "Randomly",
+          "hi": "कहीं भी"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The new column appears to the left of the selected cell.",
+        "hi": "नया कॉलम चयनित सेल के बाईं ओर जुड़ता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Spreadsheet software mainly helps in…",
+        "hi": "स्प्रेडशीट सॉफ्टवेयर मुख्य रूप से मदद करता है…"
+      },
+      "options": [
+        {
+          "en": "Drawing pictures",
+          "hi": "चित्र बनाने में"
+        },
+        {
+          "en": "Storing large data and doing calculations",
+          "hi": "बड़ी मात्रा में डेटा संग्रहित कर गणना करने में"
+        },
+        {
+          "en": "Sending emails",
+          "hi": "ईमेल भेजने में"
+        },
+        {
+          "en": "Playing music",
+          "hi": "संगीत बजाने में"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Spreadsheets store large amounts of data and calculate on it.",
+        "hi": "स्प्रेडशीट बड़ा डेटा संग्रहित करती है और उस पर गणना करती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which function finds the smallest value?",
+        "hi": "कौन-सा फ़ंक्शन सबसे छोटा मान बताता है?"
+      },
+      "options": [
+        {
+          "en": "max",
+          "hi": "max"
+        },
+        {
+          "en": "min",
+          "hi": "min"
+        },
+        {
+          "en": "sum",
+          "hi": "sum"
+        },
+        {
+          "en": "count",
+          "hi": "count"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "min returns the smallest value.",
+        "hi": "min सबसे छोटा मान देता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which function adds all the values?",
+        "hi": "कौन-सा फ़ंक्शन सभी मानों का योग करता है?"
+      },
+      "options": [
+        {
+          "en": "sum",
+          "hi": "sum"
+        },
+        {
+          "en": "count",
+          "hi": "count"
+        },
+        {
+          "en": "average",
+          "hi": "average"
+        },
+        {
+          "en": "min",
+          "hi": "min"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "sum adds up all the values.",
+        "hi": "sum सभी मानों को जोड़ता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A collection of worksheets is called a…",
+        "hi": "वर्कशीटों के समूह को क्या कहते हैं?"
+      },
+      "options": [
+        {
+          "en": "Workbook",
+          "hi": "वर्कबुक"
+        },
+        {
+          "en": "Document",
+          "hi": "डॉक्यूमेंट"
+        },
+        {
+          "en": "Folder",
+          "hi": "फ़ोल्डर"
+        },
+        {
+          "en": "Database",
+          "hi": "डेटाबेस"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A workbook is a collection of worksheets.",
+        "hi": "वर्कबुक वर्कशीटों का संग्रह है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these is spreadsheet software?",
+        "hi": "इनमें से कौन-सा स्प्रेडशीट सॉफ्टवेयर है?"
+      },
+      "options": [
+        {
+          "en": "OpenOffice Writer",
+          "hi": "OpenOffice Writer"
+        },
+        {
+          "en": "OpenOffice Impress",
+          "hi": "OpenOffice Impress"
+        },
+        {
+          "en": "LibreOffice Calc",
+          "hi": "LibreOffice Calc"
+        },
+        {
+          "en": "MS Paint",
+          "hi": "MS Paint"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "LibreOffice Calc is a spreadsheet application.",
+        "hi": "LibreOffice Calc एक स्प्रेडशीट एप्लिकेशन है।"
+      }
+    },
+    {
+      "question": {
+        "en": "The cell where you are currently typing is called the…",
+        "hi": "जिस सेल में आप अभी टाइप कर रहे हैं उसे क्या कहते हैं?"
+      },
+      "options": [
+        {
+          "en": "Dead cell",
+          "hi": "डेड सेल"
+        },
+        {
+          "en": "Active cell",
+          "hi": "एक्टिव सेल"
+        },
+        {
+          "en": "Hidden cell",
+          "hi": "हिडन सेल"
+        },
+        {
+          "en": "Locked cell",
+          "hi": "लॉक सेल"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The cell you are working in is the active cell.",
+        "hi": "जिस सेल पर काम कर रहे हों वह एक्टिव सेल है।"
+      }
+    },
+    {
+      "question": {
+        "en": "In the planets activity, which distance number is given to the planet closest to the Sun?",
+        "hi": "ग्रहों की गतिविधि में सूर्य के सबसे नज़दीक वाले ग्रह को कौन-सी दूरी संख्या दी गई?"
+      },
+      "options": [
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "100",
+          "hi": "100"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The closest planet got distance '1', the farthest '8'.",
+        "hi": "सबसे नज़दीकी ग्रह को '1', सबसे दूर को '8' लिखा गया।"
+      }
+    },
+    {
+      "question": {
+        "en": "Data in a spreadsheet is arranged in…",
+        "hi": "स्प्रेडशीट में डेटा कैसे व्यवस्थित होता है?"
+      },
+      "options": [
+        {
+          "en": "Rows and columns",
+          "hi": "पंक्तियों और स्तंभों में"
+        },
+        {
+          "en": "Bubbles",
+          "hi": "बबल्स में"
+        },
+        {
+          "en": "Pages only",
+          "hi": "केवल पेजों में"
+        },
+        {
+          "en": "Folders",
+          "hi": "फ़ोल्डरों में"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Data is stored in rows and columns.",
+        "hi": "डेटा पंक्तियों और स्तंभों में संग्रहित होता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which function counts the number of values?",
+        "hi": "कौन-सा फ़ंक्शन मानों की संख्या गिनता है?"
+      },
+      "options": [
+        {
+          "en": "sum",
+          "hi": "sum"
+        },
+        {
+          "en": "count",
+          "hi": "count"
+        },
+        {
+          "en": "average",
+          "hi": "average"
+        },
+        {
+          "en": "max",
+          "hi": "max"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "count counts how many values there are.",
+        "hi": "count मानों की संख्या गिनता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which function finds the average of values?",
+        "hi": "कौन-सा फ़ंक्शन मानों का औसत निकालता है?"
+      },
+      "options": [
+        {
+          "en": "average",
+          "hi": "average"
+        },
+        {
+          "en": "sum",
+          "hi": "sum"
+        },
+        {
+          "en": "min",
+          "hi": "min"
+        },
+        {
+          "en": "max",
+          "hi": "max"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "average gives the mean of the values.",
+        "hi": "average मानों का औसत देता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Before inserting a new column, what do you select first?",
+        "hi": "नया कॉलम जोड़ने से पहले सबसे पहले क्या चुनते हैं?"
+      },
+      "options": [
+        {
+          "en": "A printer",
+          "hi": "प्रिंटर"
+        },
+        {
+          "en": "A cell in the worksheet",
+          "hi": "वर्कशीट का एक सेल"
+        },
+        {
+          "en": "The internet",
+          "hi": "इंटरनेट"
+        },
+        {
+          "en": "A folder",
+          "hi": "फ़ोल्डर"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "First select a cell, then use Insert → Column.",
+        "hi": "पहले सेल चुनें, फिर Insert → Column करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Deleting a column removes…",
+        "hi": "कॉलम डिलीट करने से क्या हटता है?"
+      },
+      "options": [
+        {
+          "en": "That entire column and its data",
+          "hi": "पूरा स्तंभ और उसका डेटा"
+        },
+        {
+          "en": "Only one cell",
+          "hi": "केवल एक सेल"
+        },
+        {
+          "en": "The whole file",
+          "hi": "पूरी फ़ाइल"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Deleting a column removes the whole column with its data.",
+        "hi": "कॉलम डिलीट से पूरा स्तंभ और उसका डेटा हट जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Rows in a spreadsheet run…",
+        "hi": "स्प्रेडशीट में पंक्तियाँ कैसे चलती हैं?"
+      },
+      "options": [
+        {
+          "en": "Horizontally (side by side)",
+          "hi": "क्षैतिज रूप से (आगे-पीछे)"
+        },
+        {
+          "en": "Vertically only",
+          "hi": "केवल लंबवत"
+        },
+        {
+          "en": "Diagonally",
+          "hi": "तिरछे"
+        },
+        {
+          "en": "Nowhere",
+          "hi": "कहीं नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Rows run horizontally; columns run vertically.",
+        "hi": "पंक्तियाँ क्षैतिज, स्तंभ लंबवत होते हैं।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "VisiCalc (1979) was the first spreadsheet program - it was so popular that people bought personal computers just to run it!",
+      "hi": "VisiCalc (1979) पहला स्प्रेडशीट प्रोग्राम था - यह इतना लोकप्रिय हुआ कि लोग केवल इसे चलाने के लिए पर्सनल कंप्यूटर खरीदते थे!"
+    },
+    {
+      "en": "A modern spreadsheet can hold more than 1 million rows and 16,000 columns - enough to fit your entire school's data many times over.",
+      "hi": "आधुनिक स्प्रेडशीट में 10 लाख से अधिक पंक्तियाँ और 16,000 से अधिक कॉलम हो सकते हैं - पूरे स्कूल का डेटा कई बार समा जाएगा।"
+    },
+    {
+      "en": "Spreadsheet cells remember: change one number and every formula that depends on it recalculates instantly - like magic math that never sleeps.",
+      "hi": "स्प्रेडशीट की सेलें याद रखती हैं: एक संख्या बदलें और उस पर निर्भर हर फ़ॉर्मूला तुरंत दोबारा गणना कर लेता है - जादुई गणित की तरह।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "Spreadsheet: stores data and does calculations.",
+      "hi": "स्प्रेडशीट: डेटा रखती और गणना करती है।"
+    },
+    {
+      "en": "Cell: meeting point of a row and column.",
+      "hi": "सेल: पंक्ति-स्तंभ का मिलन बिंदु।"
+    },
+    {
+      "en": "Cell address: column name + row name (A1).",
+      "hi": "सेल पता: स्तंभ नाम + पंक्ति नाम (A1)।"
+    },
+    {
+      "en": "Workbook: collection of worksheets.",
+      "hi": "वर्कबुक: वर्कशीटों का संग्रह।"
+    },
+    {
+      "en": "sum/min/max/count/average: basic functions.",
+      "hi": "sum/min/max/count/average: मूल फ़ंक्शन।"
+    }
+  ],
+  "conclusion": {
+    "en": "Spreadsheets keep lists tidy and calculate for us - from planets and moons to marks and money.",
+    "hi": "स्प्रेडशीट सूचियाँ सज्जित रखती है और हमारे लिए गणना करती है - ग्रहों से अंक-धन तक।"
+  }
+}

@@ -1,0 +1,898 @@
+{
+  "id": "ch1",
+  "title": {
+    "en": "Introduction to ICT Environment",
+    "hi": "आईसीटी वातावरण का परिचय"
+  },
+  "class": 6,
+  "pages": "5-24",
+  "overview": {
+    "en": "This chapter introduces students to the world of Information and Communication Technology (ICT). It covers computer systems, components, input/output devices, and basic computer etiquette for responsible use.",
+    "hi": "यह अध्याय छात्रों को सूचना और संचार प्रौद्योगिकी (आईसीटी) की दुनिया से परिचित कराता है। इसमें कंप्यूटर सिस्टम, कंपोनेंट्स, इनपुट/आउटपुट डिवाइस और जिम्मेदार उपयोग के लिए बुनियादी कंप्यूटर शिष्टाचार शामिल हैं।"
+  },
+  "sections": [
+    {
+      "id": "what-is-ict",
+      "title": {
+        "en": "What is ICT?",
+        "hi": "ICT क्या है?"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "ICT stands for Information and Communication Technology. It includes all technologies used to handle information and communicate.",
+          "hi": "ICT अर्थात सूचना एवं संचार प्रौद्योगिकी। इसमें सूचना संभालने और संवाद की सभी तकनीकें आती हैं।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Examples",
+            "hi": "उदाहरण"
+          },
+          "items": [
+            {
+              "en": "Computers and smartphones.",
+              "hi": "कंप्यूटर और स्मार्टफ़ोन।"
+            },
+            {
+              "en": "Internet, radio and television.",
+              "hi": "इंटरनेट, रेडियो और टेलीविज़न।"
+            },
+            {
+              "en": "Satellites and communication devices.",
+              "hi": "उपग्रह और संचार उपकरण।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "computer-system",
+      "title": {
+        "en": "Computer System Components",
+        "hi": "कंप्यूटर सिस्टम के घटक"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "A computer system consists of hardware and software.",
+          "hi": "कंप्यूटर सिस्टम हार्डवेयर और सॉफ्टवेयर से मिलकर बना होता है।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Hardware (physical parts)",
+            "hi": "हार्डवेयर (भौतिक भाग)"
+          },
+          "items": [
+            {
+              "en": "CPU - the brain that processes data.",
+              "hi": "CPU - डेटा संसाधित करने वाला मस्तिष्क।"
+            },
+            {
+              "en": "Monitor, keyboard, mouse, printer, storage devices.",
+              "hi": "मॉनिटर, कीबोर्ड, माउस, प्रिंटर, स्टोरेज उपकरण।"
+            }
+          ]
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Software (programs)",
+            "hi": "सॉफ्टवेयर (प्रोग्राम)"
+          },
+          "items": [
+            {
+              "en": "Operating systems (e.g. Windows).",
+              "hi": "ऑपरेटिंग सिस्टम (जैसे Windows)।"
+            },
+            {
+              "en": "Application programs (e.g. word processor, games).",
+              "hi": "एप्लिकेशन प्रोग्राम (जैसे वर्ड प्रोसेसर, खेल)।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "types",
+      "title": {
+        "en": "Types of Computers by Size",
+        "hi": "आकार अनुसार कंप्यूटर के प्रकार"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Desktop",
+                "hi": "डेस्कटॉप"
+              },
+              "d": {
+                "en": "Kept on a table and used.",
+                "hi": "मेज़ पर रखकर उपयोग किया जाता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Laptop",
+                "hi": "लैपटॉप"
+              },
+              "d": {
+                "en": "Kept on the lap and used.",
+                "hi": "गोद में रखकर उपयोग किया जाता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Palmtop",
+                "hi": "पामटॉप"
+              },
+              "d": {
+                "en": "Small enough to fit in the palm.",
+                "hi": "हथेली में समा जाने लायक छोटा।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "input-output",
+      "title": {
+        "en": "Input and Output Devices",
+        "hi": "इनपुट और आउटपुट डिवाइस"
+      },
+      "blocks": [
+        {
+          "type": "sub",
+          "title": {
+            "en": "Input devices - enter data into the computer",
+            "hi": "इनपुट डिवाइस - कंप्यूटर में डेटा दर्ज करते हैं"
+          },
+          "items": [
+            {
+              "en": "Keyboard, mouse, scanner, microphone.",
+              "hi": "कीबोर्ड, माउस, स्कैनर, माइक्रोफ़ोन।"
+            }
+          ]
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Output devices - display results to the user",
+            "hi": "आउटपुट डिवाइस - उपयोगकर्ता को परिणाम दिखाते हैं"
+          },
+          "items": [
+            {
+              "en": "Monitor, printer, speakers, projector.",
+              "hi": "मॉनिटर, प्रिंटर, स्पीकर, प्रोजेक्टर।"
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "If a device sends data IN, it is an input device; if it brings results OUT, it is an output device.",
+          "hi": "जो उपकरण डेटा अंदर भेजे वह इनपुट; जो परिणाम बाहर लाए वह आउटपुट डिवाइस।"
+        }
+      ]
+    },
+    {
+      "id": "files-folders",
+      "title": {
+        "en": "Files and Folders",
+        "hi": "फ़ाइलें और फ़ोल्डर"
+      },
+      "blocks": [
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "A folder is used to save and organise files.",
+              "hi": "फ़ोल्डर से फ़ाइलें सहेजकर व्यवस्थित की जाती हैं।"
+            },
+            {
+              "en": "A new folder appears as 'New Folder' - rename it as you like (e.g. ICT).",
+              "hi": "नया फ़ोल्डर 'New Folder' नाम से बनता है - नाम बदलें (जैसे ICT)।"
+            },
+            {
+              "en": "Open a folder by double-clicking it with the left mouse button.",
+              "hi": "बाएँ बटन से डबल क्लिक करके फ़ोल्डर खोलें।"
+            },
+            {
+              "en": "Install software by clicking Install, then Finish after installation.",
+              "hi": "Install पर क्लिक कर सॉफ्टवेयर इंस्टॉल करें; पूरा होने पर Finish।"
+            },
+            {
+              "en": "GCompris is educational software with fun learning activities.",
+              "hi": "GCompris मनोरंजक शैक्षिक गतिविधियों वाला सॉफ्टवेयर है।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "etiquette",
+      "title": {
+        "en": "Computer Etiquette",
+        "hi": "कंप्यूटर शिष्टाचार"
+      },
+      "blocks": [
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Wash hands before use; keep food and drinks away.",
+              "hi": "उपयोग से पहले हाथ धोएँ; भोजन-पेय दूर रखें।"
+            },
+            {
+              "en": "Sit with proper posture and take regular breaks.",
+              "hi": "सही मुद्रा में बैठें, नियमित ब्रेक लें।"
+            },
+            {
+              "en": "Handle equipment gently; don't press keys hard.",
+              "hi": "उपकरण धीरे से संभालें; कुंजियाँ ज़ोर से न दबाएँ।"
+            },
+            {
+              "en": "Never share passwords; report cyberbullying.",
+              "hi": "पासवर्ड कभी साझा न करें; साइबर बुलिंग रिपोर्ट करें।"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "ICT",
+      "hi": "सूचना और संचार प्रौद्योगिकी"
+    },
+    {
+      "en": "Hardware",
+      "hi": "कंप्यूटर का भौतिक भाग"
+    },
+    {
+      "en": "Software",
+      "hi": "कंप्यूटर प्रोग्राम"
+    },
+    {
+      "en": "Input Device",
+      "hi": "इनपुट उपकरण"
+    },
+    {
+      "en": "Output Device",
+      "hi": "आउटपुट उपकरण"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "What does ICT stand for?",
+        "hi": "आईसीटी का पूर्ण रूप क्या है?"
+      },
+      "options": [
+        {
+          "en": "Information and Communication Technology",
+          "hi": "सूचना और संचार प्रौद्योगिकी"
+        },
+        {
+          "en": "Internet and Computer Technology",
+          "hi": "इंटरनेट और कंप्यूटर प्रौद्योगिकी"
+        },
+        {
+          "en": "International Communication Technology",
+          "hi": "अंतर्राष्ट्रीय संचार प्रौद्योगिकी"
+        },
+        {
+          "en": "Integrated Computer Technology",
+          "hi": "एकीकृत कंप्यूटर प्रौद्योगिकी"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "ICT stands for Information and Communication Technology.",
+        "hi": "आईसीटी का अर्थ सूचना और संचार प्रौद्योगिकी है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these is an input device?",
+        "hi": "इनमें से कौन सा इनपुट डिवाइस है?"
+      },
+      "options": [
+        {
+          "en": "Monitor",
+          "hi": "मॉनिटर"
+        },
+        {
+          "en": "Printer",
+          "hi": "प्रिंटर"
+        },
+        {
+          "en": "Keyboard",
+          "hi": "कीबोर्ड"
+        },
+        {
+          "en": "Speaker",
+          "hi": "स्पीकर"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "A keyboard is used to input data into the computer.",
+        "hi": "कीबोर्ड का उपयोग कंप्यूटर में डेटा डालने के लिए किया जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which rule is NOT part of computer etiquette?",
+        "hi": "कंप्यूटर शिष्टाचार का हिस्सा कौन सा नियम नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Wash hands before using computer",
+          "hi": "कंप्यूटर इस्तेमाल से पहले हाथ धोएं"
+        },
+        {
+          "en": "Share passwords with friends",
+          "hi": "दोस्तों के साथ पासवर्ड साझा करें"
+        },
+        {
+          "en": "No food or drink near computer",
+          "hi": "कंप्यूटर के पास भोजन या पेय नहीं"
+        },
+        {
+          "en": "Report cyberbullying to teacher",
+          "hi": "शिक्षक को साइबर बुलिंग की रिपोर्ट करें"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Passwords should never be shared with anyone.",
+        "hi": "पासवर्ड कभी भी किसी के साथ साझा नहीं करने चाहिए।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is NOT one of the three types of computers by size taught in the book?",
+        "hi": "आकार के आधार पर पुस्तक में बताए गए तीन कंप्यूटर प्रकारों में कौन नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Desktop",
+          "hi": "डेस्कटॉप"
+        },
+        {
+          "en": "Laptop",
+          "hi": "लैपटॉप"
+        },
+        {
+          "en": "Mainframe",
+          "hi": "मेनफ्रेम"
+        },
+        {
+          "en": "Palmtop",
+          "hi": "पामटॉप"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The book lists Desktop, Laptop and Palmtop by size.",
+        "hi": "पुस्तक में आकार अनुसार डेस्कटॉप, लैपटॉप और पामटॉप बताए गए हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "A laptop is used by keeping it on…",
+        "hi": "लैपटॉप का उपयोग किस पर रखकर किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "A table only",
+          "hi": "केवल मेज़"
+        },
+        {
+          "en": "Our lap",
+          "hi": "हमारी गोद"
+        },
+        {
+          "en": "The floor",
+          "hi": "फ़र्श"
+        },
+        {
+          "en": "A wall",
+          "hi": "दीवार"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "A laptop is kept on the lap and used.",
+        "hi": "लैपटॉप को गोद में रखकर उपयोग किया जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which computer is small enough to be held in your palm?",
+        "hi": "कौन-सा कंप्यूटर हथेली में समा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Desktop",
+          "hi": "डेस्कटॉप"
+        },
+        {
+          "en": "Laptop",
+          "hi": "लैपटॉप"
+        },
+        {
+          "en": "Palmtop",
+          "hi": "पामटॉप"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Palmtop fits in the palm of your hand.",
+        "hi": "पामटॉप हथेली में समा जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "What is a folder used for on a computer?",
+        "hi": "कंप्यूटर में फ़ोल्डर का उपयोग किसके लिए होता है?"
+      },
+      "options": [
+        {
+          "en": "Playing games",
+          "hi": "खेल खेलने"
+        },
+        {
+          "en": "Saving and organising files",
+          "hi": "फ़ाइलें सहेजने व व्यवस्थित करने"
+        },
+        {
+          "en": "Printing",
+          "hi": "प्रिंट करने"
+        },
+        {
+          "en": "Cleaning the screen",
+          "hi": "स्क्रीन साफ़ करने"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "A folder is created to save and organise files.",
+        "hi": "फ़ोल्डर फ़ाइलों को सहेजने और व्यवस्थित रखने के लिए बनाया जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the default name of a newly created folder?",
+        "hi": "नए बनाए गए फ़ोल्डर का डिफ़ॉल्ट नाम क्या होता है?"
+      },
+      "options": [
+        {
+          "en": "My Folder",
+          "hi": "My Folder"
+        },
+        {
+          "en": "Folder1",
+          "hi": "Folder1"
+        },
+        {
+          "en": "New Folder",
+          "hi": "New Folder"
+        },
+        {
+          "en": "ICT",
+          "hi": "ICT"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "A new folder appears named 'New Folder', which you can rename.",
+        "hi": "नया फ़ोल्डर 'New Folder' नाम से बनता है, जिसे बदला जा सकता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "How do you open a folder on a computer?",
+        "hi": "कंप्यूटर पर फ़ोल्डर कैसे खोलते हैं?"
+      },
+      "options": [
+        {
+          "en": "Single click",
+          "hi": "एक क्लिक"
+        },
+        {
+          "en": "Double click",
+          "hi": "डबल क्लिक"
+        },
+        {
+          "en": "Shake the mouse",
+          "hi": "माउस हिलाकर"
+        },
+        {
+          "en": "Press Escape",
+          "hi": "Escape दबाकर"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Double-click the folder with the left mouse button to open it.",
+        "hi": "माउस के बाएँ बटन से डबल क्लिक करके फ़ोल्डर खोला जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "GCompris is…",
+        "hi": "GCompris क्या है?"
+      },
+      "options": [
+        {
+          "en": "A game console",
+          "hi": "गेम कंसोल"
+        },
+        {
+          "en": "Educational software with fun activities",
+          "hi": "मनोरंजक गतिविधियों वाला शैक्षिक सॉफ्टवेयर"
+        },
+        {
+          "en": "A printer brand",
+          "hi": "प्रिंटर ब्रांड"
+        },
+        {
+          "en": "An input device",
+          "hi": "इनपुट उपकरण"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "GCompris is educational software with many learning activities.",
+        "hi": "GCompris बहुत सी सीखने की गतिविधियों वाला शैक्षिक सॉफ्टवेयर है।"
+      }
+    },
+    {
+      "question": {
+        "en": "After installation of software finishes, which button do you click?",
+        "hi": "सॉफ्टवेयर इंस्टॉलेशन पूरा होने पर किस बटन पर क्लिक करते हैं?"
+      },
+      "options": [
+        {
+          "en": "Start",
+          "hi": "Start"
+        },
+        {
+          "en": "Finish",
+          "hi": "Finish"
+        },
+        {
+          "en": "Restart",
+          "hi": "Restart"
+        },
+        {
+          "en": "Cancel",
+          "hi": "Cancel"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Click Finish after installation completes.",
+        "hi": "इंस्टॉलेशन पूरा होने पर Finish पर क्लिक करते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these is an input device?",
+        "hi": "इनमें से कौन-सा इनपुट डिवाइस है?"
+      },
+      "options": [
+        {
+          "en": "Monitor",
+          "hi": "मॉनिटर"
+        },
+        {
+          "en": "Printer",
+          "hi": "प्रिंटर"
+        },
+        {
+          "en": "Keyboard",
+          "hi": "कीबोर्ड"
+        },
+        {
+          "en": "Speaker",
+          "hi": "स्पीकर"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "A keyboard is used to enter data into the computer.",
+        "hi": "कीबोर्ड से कंप्यूटर में डेटा दर्ज किया जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these is an output device?",
+        "hi": "इनमें से कौन-सा आउटपुट डिवाइस है?"
+      },
+      "options": [
+        {
+          "en": "Mouse",
+          "hi": "माउस"
+        },
+        {
+          "en": "Scanner",
+          "hi": "स्कैनर"
+        },
+        {
+          "en": "Microphone",
+          "hi": "माइक्रोफ़ोन"
+        },
+        {
+          "en": "Projector",
+          "hi": "प्रोजेक्टर"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "A projector displays output to users.",
+        "hi": "प्रोजेक्टर उपयोगकर्ता को परिणाम दिखाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Hardware means…",
+        "hi": "हार्डवेयर का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Computer programs",
+          "hi": "कंप्यूटर प्रोग्राम"
+        },
+        {
+          "en": "Physical parts of a computer",
+          "hi": "कंप्यूटर के भौतिक भाग"
+        },
+        {
+          "en": "Internet data",
+          "hi": "इंटरनेट डेटा"
+        },
+        {
+          "en": "Games only",
+          "hi": "केवल खेल"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Hardware includes physical parts like CPU, monitor and keyboard.",
+        "hi": "हार्डवेयर में CPU, मॉनिटर, कीबोर्ड जैसे भौतिक भाग आते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these is software?",
+        "hi": "इनमें से कौन-सा सॉफ्टवेयर है?"
+      },
+      "options": [
+        {
+          "en": "Mouse",
+          "hi": "माउस"
+        },
+        {
+          "en": "Monitor",
+          "hi": "मॉनिटर"
+        },
+        {
+          "en": "Operating system",
+          "hi": "ऑपरेटिंग सिस्टम"
+        },
+        {
+          "en": "Keyboard",
+          "hi": "कीबोर्ड"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "An operating system is a program - software, not a physical part.",
+        "hi": "ऑपरेटिंग सिस्टम एक प्रोग्राम है - सॉफ्टवेयर, भौतिक भाग नहीं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these is good computer etiquette?",
+        "hi": "इनमें से कौन-सी अच्छी कंप्यूटर आदत है?"
+      },
+      "options": [
+        {
+          "en": "Eating food near the computer",
+          "hi": "कंप्यूटर के पास खाना खाना"
+        },
+        {
+          "en": "Washing hands before use",
+          "hi": "उपयोग से पहले हाथ धोना"
+        },
+        {
+          "en": "Sharing passwords",
+          "hi": "पासवर्ड साझा करना"
+        },
+        {
+          "en": "Pressing keys hard",
+          "hi": "कुंजियाँ ज़ोर से दबाना"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Wash your hands before using the computer.",
+        "hi": "कंप्यूटर उपयोग से पहले हाथ धोना चाहिए।"
+      }
+    },
+    {
+      "question": {
+        "en": "Why should we not share passwords?",
+        "hi": "पासवर्ड साझा क्यों नहीं करने चाहिए?"
+      },
+      "options": [
+        {
+          "en": "It is fashionable",
+          "hi": "यह फैशन है"
+        },
+        {
+          "en": "To keep our accounts safe",
+          "hi": "अपने अकाउंट सुरक्षित रखने के लिए"
+        },
+        {
+          "en": "Passwords are personal secret codes",
+          "hi": "पासवर्ड निजी गुप्त कोड होते हैं"
+        },
+        {
+          "en": "Both B and C",
+          "hi": "दोनों B और C"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Passwords keep accounts safe and are personal.",
+        "hi": "पासवर्ड अकाउंट की सुरक्षा करते हैं और निजी होते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "ICT helps us in daily life by…",
+        "hi": "आईसीटी हमारे दैनिक जीवन में मदद करती है…"
+      },
+      "options": [
+        {
+          "en": "Only playing games",
+          "hi": "केवल खेल खेलने में"
+        },
+        {
+          "en": "Studying, banking, entertainment and communication",
+          "hi": "पढ़ाई, बैंकिंग, मनोरंजन और संवाद में"
+        },
+        {
+          "en": "Making food",
+          "hi": "खाना बनाने में"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "ICT is used for study, work, banking, entertainment and communication.",
+        "hi": "ICT पढ़ाई, काम, बैंकिंग, मनोरंजन और संवाद के लिए उपयोग होती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "ICT stands for…",
+        "hi": "ICT का पूर्ण रूप है…"
+      },
+      "options": [
+        {
+          "en": "Information and Communication Technology",
+          "hi": "सूचना और संचार प्रौद्योगिकी"
+        },
+        {
+          "en": "International Computer Tools",
+          "hi": "अंतर्राष्ट्रीय कंप्यूटर टूल्स"
+        },
+        {
+          "en": "Internet Connection Type",
+          "hi": "इंटरनेट कनेक्शन प्रकार"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "ICT = Information and Communication Technology.",
+        "hi": "ICT अर्थात सूचना एवं संचार प्रौद्योगिकी।"
+      }
+    },
+    {
+      "question": {
+        "en": "The CPU is…",
+        "hi": "CPU क्या है?"
+      },
+      "options": [
+        {
+          "en": "The brain of the computer that processes data",
+          "hi": "कंप्यूटर का मस्तिष्क जो डेटा संसाधित करता है"
+        },
+        {
+          "en": "A screen",
+          "hi": "एक स्क्रीन"
+        },
+        {
+          "en": "A cable",
+          "hi": "एक केबल"
+        },
+        {
+          "en": "A printer",
+          "hi": "एक प्रिंटर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The CPU processes all data and instructions.",
+        "hi": "CPU सारे डेटा व अनुदेश संसाधित करता है।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "The first computer 'bug' was a real moth! In 1947, engineers found a moth stuck inside Harvard's Mark II computer and taped it into the logbook - that's why we say 'debugging'.",
+      "hi": "पहला कंप्यूटर 'बग' एक असली कीट (मॉथ) था! 1947 में इंजीनियरों नों हार्वर्ड के Mark II कंप्यूटर के अंदर फंसी मॉथ निकालकर उसे लॉगबुक में चिपका दिया था - इसीलिए 'डीबगिंग' कहा जाता है।"
+    },
+    {
+      "en": "The first computer mouse was made of wood! Douglas Engelbart carved it in 1963 with just one button.",
+      "hi": "पहला कंप्यूटर माउस लकड़ी से बना था! डगलस एंजेलबार्ट ने 1963 में केवल एक बटन वाला लकड़ी का माउस बनाया था।"
+    },
+    {
+      "en": "ENIAC, one of the earliest computers (1945), weighed about 27,000 kg - heavier than four elephants!",
+      "hi": "ENIAC, प्रारंभिक कंप्यूटरों में से एक (1945), लगभग 27,000 किलो वजनी था - चार हाथियों से भी भारी!"
+    },
+    {
+      "en": "QWERTY keyboard layout was designed in the 1870s for typewriters - decades before computers existed.",
+      "hi": "QWERTY कीबोर्ड की सज्जा 1870 के दशक में टाइपराइटर के लिए बनी थी - कंप्यूटर के आने से दशकों पहले।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "ICT: technologies to handle information and communicate.",
+      "hi": "ICT: सूचना संभालने व संवाद की तकनीकें।"
+    },
+    {
+      "en": "Hardware: physical parts of a computer.",
+      "hi": "हार्डवेयर: कंप्यूटर के भौतिक भाग।"
+    },
+    {
+      "en": "Software: computer programs.",
+      "hi": "सॉफ्टवेयर: कंप्यूटर प्रोग्राम।"
+    },
+    {
+      "en": "Input device: enters data (keyboard, mouse).",
+      "hi": "इनपुट डिवाइस: डेटा दर्ज करता है (कीबोर्ड, माउस)।"
+    },
+    {
+      "en": "Output device: shows results (monitor, printer).",
+      "hi": "आउटपुट डिवाइस: परिणाम दिखाता है (मॉनिटर, प्रिंटर)।"
+    },
+    {
+      "en": "Folder: organises and stores files.",
+      "hi": "फ़ोल्डर: फ़ाइलें व्यवस्थित संग्रहित करता है।"
+    }
+  ],
+  "conclusion": {
+    "en": "A computer is a helpful machine when we understand its parts and use it with care and good manners.",
+    "hi": "कंप्यूटर उपयोगी मशीन है - उसके भाग समझकर, देखभाल और अच्छे व्यवहार से उपयोग करें।"
+  }
+}

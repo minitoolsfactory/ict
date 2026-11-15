@@ -1,0 +1,828 @@
+{
+  "id": "ch2",
+  "title": {
+    "en": "Learn to Code-02",
+    "hi": "कोडिंग सीखें-02"
+  },
+  "class": 7,
+  "pages": "34-52",
+  "overview": {
+    "en": "This chapter builds a problem-solving approach and teaches decision making and loops in programming. Students implement these concepts using Scratch 3.0 tools.",
+    "hi": "यह अध्याय समस्या-समाधान का दृष्टिकोण विकसित करता है और प्रोग्रामिंग में निर्णय लेना (decision making) तथा लूप्स सिखाता है। छात्र इन अवधारणाओं को Scratch 3.0 टूल्स से क्रियान्वित करते हैं।"
+  },
+  "sections": [
+    {
+      "id": "problem-solving",
+      "title": {
+        "en": "Problem Solving Approach",
+        "hi": "समस्या-समाधान दृष्टिकोण"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Problem solving means understanding the goal, planning a solution and testing it - often by breaking a big task into smaller steps.",
+          "hi": "समस्या-समाधान का अर्थ है लक्ष्य समझना, समाधान की योजना बनाना और परखना - अक्सर बड़े कार्य को छोटे चरणों में तोड़कर।"
+        },
+        {
+          "type": "num",
+          "title": {
+            "en": "Steps",
+            "hi": "चरण"
+          },
+          "items": [
+            {
+              "t": {
+                "en": "Understand",
+                "hi": "समझो"
+              },
+              "d": {
+                "en": "What exactly is the problem?",
+                "hi": "समस्या ठीक क्या है?"
+              }
+            },
+            {
+              "t": {
+                "en": "Plan",
+                "hi": "योजना बनाओ"
+              },
+              "d": {
+                "en": "Break the task into steps.",
+                "hi": "कार्य को चरणों में तोड़ें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Test",
+                "hi": "परखो"
+              },
+              "d": {
+                "en": "Run and check; debug errors.",
+                "hi": "चलाकर जाँचें; त्रुटियाँ सुधारें।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "decisions",
+      "title": {
+        "en": "Decision Making in Programs",
+        "hi": "प्रोग्राम में निर्णय लेना"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Programs often need to make decisions: 'if something is true, do this, otherwise do that'.",
+          "hi": "प्रोग्रामों को अक्सर निर्णय लेने होते हैं: 'अगर कुछ सत्य है तो यह करो, अन्यथा वह करो'।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "A condition is a check that is either true or false.",
+              "hi": "शर्त एक जाँच है जो सत्य या असत्य होती है।"
+            },
+            {
+              "en": "if block - runs the inside blocks only when the condition is true.",
+              "hi": "if ब्लॉक - शर्त सत्य होने पर ही अंदर के ब्लॉक चलाता है।"
+            },
+            {
+              "en": "if-else block - one path when true, another when false.",
+              "hi": "if-else ब्लॉक - सत्य पर एक पथ, असत्य पर दूसरा।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "loops",
+      "title": {
+        "en": "Loops",
+        "hi": "लूप्स"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Loops repeat actions without writing the same blocks again and again.",
+          "hi": "लूप्स वही ब्लॉक बार-बार लिखे बिना क्रियाएँ दोहराने देते हैं।"
+        },
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "repeat n",
+                "hi": "repeat n"
+              },
+              "d": {
+                "en": "Repeats the inside blocks n times.",
+                "hi": "अंदर के ब्लॉक n बार दोहराता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "repeat until",
+                "hi": "repeat until"
+              },
+              "d": {
+                "en": "Repeats until the condition becomes true.",
+                "hi": "शर्त सत्य होने तक दोहराता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "forever",
+                "hi": "forever"
+              },
+              "d": {
+                "en": "Repeats until the program is stopped.",
+                "hi": "प्रोग्राम रोकने तक दोहराता है।"
+              }
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "Games use loops because actions repeat every frame - the same blocks run again and again.",
+          "hi": "खेल लूप्स उपयोग करते हैं क्योंकि क्रियाएँ हर फ़्रेम दोहराई जाती हैं - वही ब्लॉक बार-बार चलते हैं।"
+        }
+      ]
+    },
+    {
+      "id": "scratch",
+      "title": {
+        "en": "Building with Scratch 3.0",
+        "hi": "Scratch 3.0 से निर्माण"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Scratch is a block-based coding tool: the sprite (character) acts on the stage, and puzzle-like blocks snap together to give it instructions.",
+          "hi": "Scratch ब्लॉक-आधारित कोडिंग टूल है: स्प्राइट (पात्र) स्टेज पर कार्य करता है और पहेली जैसे ब्लॉक जुड़कर उसे अनुदेश देते हैं।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Combine decision blocks and loops to build animated stories and simple games.",
+              "hi": "निर्णय ब्लॉकों और लूप्स को मिलाकर एनिमेटेड कहानियाँ व सरल गेम बनाएँ।"
+            },
+            {
+              "en": "Debugging means finding and fixing errors in your program.",
+              "hi": "डीबगिंग अर्थात प्रोग्राम की त्रुटियाँ ढूँढ़कर सुधारना।"
+            },
+            {
+              "en": "Test your program step by step.",
+              "hi": "अपना प्रोग्राम चरण-दर-चरण परखें।"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Problem Solving",
+      "hi": "समस्या-समाधान"
+    },
+    {
+      "en": "Decision Making",
+      "hi": "निर्णय लेना"
+    },
+    {
+      "en": "Loop",
+      "hi": "क्रियाओं का दोहराव"
+    },
+    {
+      "en": "Condition",
+      "hi": "शर्त"
+    },
+    {
+      "en": "Scratch 3.0",
+      "hi": "ब्लॉक-आधारित कोडिंग उपकरण"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "Which Scratch tool is used in this chapter?",
+        "hi": "इस अध्याय में Scratch का कौन-सा संस्करण उपयोग होता है?"
+      },
+      "options": [
+        {
+          "en": "Scratch 1.0",
+          "hi": "Scratch 1.0"
+        },
+        {
+          "en": "Scratch 2.0",
+          "hi": "Scratch 2.0"
+        },
+        {
+          "en": "Scratch 3.0",
+          "hi": "Scratch 3.0"
+        },
+        {
+          "en": "Scratch 4.0",
+          "hi": "Scratch 4.0"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The chapter uses Scratch 3.0.",
+        "hi": "इस अध्याय में Scratch 3.0 का उपयोग होता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which block helps a program choose between two actions?",
+        "hi": "कौन-सा ब्लॉक प्रोग्राम को दो क्रियाओं में से चुनने में मदद करता है?"
+      },
+      "options": [
+        {
+          "en": "if / if-else",
+          "hi": "if / if-else"
+        },
+        {
+          "en": "move",
+          "hi": "move"
+        },
+        {
+          "en": "wait",
+          "hi": "wait"
+        },
+        {
+          "en": "say",
+          "hi": "say"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Decision blocks like if and if-else let a program choose between actions.",
+        "hi": "if और if-else जैसे निर्णय ब्लॉक प्रोग्राम को क्रियाओं में चुनाव करने देते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Why do we use loops in programming?",
+        "hi": "प्रोग्रामिंग में हम लूप्स का उपयोग क्यों करते हैं?"
+      },
+      "options": [
+        {
+          "en": "To make programs slower",
+          "hi": "प्रोग्राम को धीमा बनाने के लिए"
+        },
+        {
+          "en": "To repeat actions without rewriting blocks",
+          "hi": "ब्लॉक दोबारा लिखे बिना क्रियाएँ दोहराने के लिए"
+        },
+        {
+          "en": "To delete sprites",
+          "hi": "स्प्राइट मिटाने के लिए"
+        },
+        {
+          "en": "To change colours only",
+          "hi": "केवल रंग बदलने के लिए"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Loops repeat actions so we don't write the same blocks again and again.",
+        "hi": "लूप्स क्रियाएँ दोहराते हैं ताकि हमें वही ब्लॉक बार-बार न लिखना पड़े।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these is NOT a loop in Scratch?",
+        "hi": "इनमें से क्या Scratch का लूप नहीं है?"
+      },
+      "options": [
+        {
+          "en": "repeat",
+          "hi": "repeat"
+        },
+        {
+          "en": "repeat until",
+          "hi": "repeat until"
+        },
+        {
+          "en": "forever",
+          "hi": "forever"
+        },
+        {
+          "en": "go to",
+          "hi": "go to"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "'go to' is a motion block, not a loop.",
+        "hi": "'go to' एक मोशन ब्लॉक है, लूप नहीं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Breaking a big task into smaller steps is part of…",
+        "hi": "बड़े कार्य को छोटे चरणों में तोड़ना किसका हिस्सा है?"
+      },
+      "options": [
+        {
+          "en": "The problem solving approach",
+          "hi": "समस्या-समाधान दृष्टिकोण"
+        },
+        {
+          "en": "Animation",
+          "hi": "एनीमेशन"
+        },
+        {
+          "en": "Slide transition",
+          "hi": "स्लाइड ट्रांज़िशन"
+        },
+        {
+          "en": "Email writing",
+          "hi": "ईमेल लेखन"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Breaking tasks into steps is the essence of problem solving.",
+        "hi": "कार्यों को चरणों में तोड़ना समस्या-समाधान का सार है।"
+      }
+    },
+    {
+      "question": {
+        "en": "In Scratch, the character that acts on the stage is called a…",
+        "hi": "Scratch में स्टेज पर अभिनय करने वाली वस्तु क्या कहलाती है?"
+      },
+      "options": [
+        {
+          "en": "Sprite",
+          "hi": "स्प्राइट"
+        },
+        {
+          "en": "Slide",
+          "hi": "स्लाइड"
+        },
+        {
+          "en": "Cell",
+          "hi": "सेल"
+        },
+        {
+          "en": "Chip",
+          "hi": "चिप"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The sprite is the object that performs actions in Scratch.",
+        "hi": "Scratch में कार्य करने वाली वस्तु स्प्राइट कहलाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Scratch programs are built by joining…",
+        "hi": "Scratch प्रोग्राम किन्हें जोड़कर बनते हैं?"
+      },
+      "options": [
+        {
+          "en": "Puzzle-like blocks",
+          "hi": "पहेली जैसे ब्लॉकों"
+        },
+        {
+          "en": "Wires",
+          "hi": "तारों"
+        },
+        {
+          "en": "Paper slips",
+          "hi": "कागज़ पर्चियों"
+        },
+        {
+          "en": "Numbers only",
+          "hi": "केवल संख्याओं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Scratch uses block-based programming - blocks snap together like a puzzle.",
+        "hi": "Scratch ब्लॉक-आधारित है - ब्लॉक पहेली की तरह जुड़ते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "A 'repeat 10' block repeats the actions inside it…",
+        "hi": "'repeat 10' ब्लॉक अंदर की क्रियाएँ कितनी बार दोहराता है?"
+      },
+      "options": [
+        {
+          "en": "10 times",
+          "hi": "10 बार"
+        },
+        {
+          "en": "Forever",
+          "hi": "हमेशा"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        },
+        {
+          "en": "100 times",
+          "hi": "100 बार"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "repeat runs the blocks the given number of times.",
+        "hi": "repeat ब्लॉक दी गई संख्या के अनुसार दोहराता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A 'forever' loop runs…",
+        "hi": "'forever' लूप कब तक चलता है?"
+      },
+      "options": [
+        {
+          "en": "Until the program is stopped",
+          "hi": "प्रोग्राम रुकने तक"
+        },
+        {
+          "en": "Only once",
+          "hi": "केवल एक बार"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        },
+        {
+          "en": "For 10 seconds",
+          "hi": "10 सेकंड"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "forever repeats the blocks until you stop the program.",
+        "hi": "forever ब्लॉक प्रोग्राम रोकने तक दोहराता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A condition is…",
+        "hi": "शर्त (Condition) क्या है?"
+      },
+      "options": [
+        {
+          "en": "A check that is either true or false",
+          "hi": "एक जाँच जो सत्य या असत्य होती है"
+        },
+        {
+          "en": "A colour",
+          "hi": "एक रंग"
+        },
+        {
+          "en": "A sprite",
+          "hi": "एक स्प्राइट"
+        },
+        {
+          "en": "A file",
+          "hi": "एक फ़ाइल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Conditions are true/false checks used in decisions.",
+        "hi": "शर्तें सत्य/असत्य जाँचें हैं जो निर्णय में उपयोग होती हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "The 'if-else' block chooses between…",
+        "hi": "'if-else' ब्लॉक किनमें से चुनाव करता है?"
+      },
+      "options": [
+        {
+          "en": "Two different paths",
+          "hi": "दो अलग पथ"
+        },
+        {
+          "en": "Three colours",
+          "hi": "तीन रंग"
+        },
+        {
+          "en": "Two sprites",
+          "hi": "दो स्प्राइट"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "if-else runs one block when true, another when false.",
+        "hi": "if-else सत्य पर एक ब्लॉक, असत्य पर दूसरा चलाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Finding and fixing errors in a program is called…",
+        "hi": "प्रोग्राम की त्रुटियाँ ढूँढ़कर सुधारना क्या कहलाता है?"
+      },
+      "options": [
+        {
+          "en": "Debugging",
+          "hi": "डीबगिंग"
+        },
+        {
+          "en": "Downloading",
+          "hi": "डाउनलोडिंग"
+        },
+        {
+          "en": "Formatting",
+          "hi": "फ़ॉर्मेटिंग"
+        },
+        {
+          "en": "Printing",
+          "hi": "प्रिंटिंग"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Debugging means locating and fixing errors.",
+        "hi": "त्रुटियाँ ढूँढ़ना और सुधारना डीबगिंग है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Good problem solving starts by…",
+        "hi": "अच्छी समस्या-समाधान शुरू होती है…"
+      },
+      "options": [
+        {
+          "en": "Understanding the problem clearly",
+          "hi": "समस्या को स्पष्ट समझने से"
+        },
+        {
+          "en": "Pressing buttons randomly",
+          "hi": "यादृच्छिक बटन दबाने से"
+        },
+        {
+          "en": "Copying others blindly",
+          "hi": "दूसरों की नकल से"
+        },
+        {
+          "en": "Giving up",
+          "hi": "हार मानने से"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "First understand the goal, then plan the solution.",
+        "hi": "पहले लक्ष्य समझें, फिर समाधान की योजना बनाएँ।"
+      }
+    },
+    {
+      "question": {
+        "en": "Games use loops because…",
+        "hi": "खेल लूप्स उपयोग करते हैं क्योंकि…"
+      },
+      "options": [
+        {
+          "en": "Actions like moving and scoring repeat continuously",
+          "hi": "चलना-स्कोर करना जैसी क्रियाएँ लगातार दोहराई जाती हैं"
+        },
+        {
+          "en": "Loops look pretty",
+          "hi": "लूप सुंदर दिखते हैं"
+        },
+        {
+          "en": "Loops delete data",
+          "hi": "लूप डेटा डिलीट करते हैं"
+        },
+        {
+          "en": "Games hate blocks",
+          "hi": "खेल ब्लॉक से नफ़रत करते हैं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Game actions repeat every frame - perfect for loops.",
+        "hi": "गेम की क्रियाएँ हर फ़्रेम दोहराई जाती हैं - लूप्स के लिए उत्तम।"
+      }
+    },
+    {
+      "question": {
+        "en": "If-then block runs the inside blocks only when…",
+        "hi": "if-then ब्लॉक अंदर के ब्लॉक तभी चलाता है जब…"
+      },
+      "options": [
+        {
+          "en": "The condition is true",
+          "hi": "शर्त सत्य हो"
+        },
+        {
+          "en": "The sun rises",
+          "hi": "सूरज निकले"
+        },
+        {
+          "en": "You press Escape",
+          "hi": "Escape दबाएँ"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "if runs blocks only when its condition is true.",
+        "hi": "if शर्त सत्य होने पर ही ब्लॉक चलाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "'repeat until' repeats the blocks…",
+        "hi": "'repeat until' ब्लॉक कितनी देर तक दोहराता है?"
+      },
+      "options": [
+        {
+          "en": "Until the condition becomes true",
+          "hi": "जब तक शर्त सत्य न हो जाए"
+        },
+        {
+          "en": "Forever always",
+          "hi": "सदैव हमेशा"
+        },
+        {
+          "en": "Only once",
+          "hi": "केवल एक बार"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "repeat-until keeps looping until the condition is met.",
+        "hi": "repeat until शर्त पूरी होने तक दोहराता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Motion blocks make the sprite…",
+        "hi": "मोशन ब्लॉक स्प्राइट को क्या कराते हैं?"
+      },
+      "options": [
+        {
+          "en": "Move on the stage",
+          "hi": "स्टेज पर चलना"
+        },
+        {
+          "en": "Delete itself",
+          "hi": "स्वयं डिलीट"
+        },
+        {
+          "en": "Change language",
+          "hi": "भाषा बदलना"
+        },
+        {
+          "en": "Print pages",
+          "hi": "पेज प्रिंट करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Motion blocks control the sprite's movement on the stage.",
+        "hi": "मोशन ब्लॉक स्प्राइट की स्टेज पर गति नियंत्रित करते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Why do we test our program?",
+        "hi": "हम प्रोग्राम परखते क्यों हैं?"
+      },
+      "options": [
+        {
+          "en": "To find and fix errors",
+          "hi": "त्रुटियाँ पकड़ने और सुधारने के लिए"
+        },
+        {
+          "en": "To make it slower",
+          "hi": "इसे धीमा करने के लिए"
+        },
+        {
+          "en": "To delete it",
+          "hi": "इसे डिलीट करने के लिए"
+        },
+        {
+          "en": "No reason",
+          "hi": "कोई कारण नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Testing reveals errors that can then be debugged.",
+        "hi": "परीक्षण से त्रुटियाँ सामने आती हैं जिन्हें सुधारा जा सकता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is the correct problem-solving order?",
+        "hi": "समस्या-समाधान का सही क्रम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Understand → Plan → Test",
+          "hi": "समझो → योजना → परखो"
+        },
+        {
+          "en": "Test → Confuse → Quit",
+          "hi": "परखो → उलझाओ → छोड़ो"
+        },
+        {
+          "en": "Guess → Pray → Hide",
+          "hi": "अंदाज़ा → प्रार्थना → छिपो"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Understand the problem, plan a solution, then test it.",
+        "hi": "समस्या समझें, योजना बनाएँ, फिर परखें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Breaking a big task into smaller steps is part of…",
+        "hi": "बड़े कार्य को छोटे चरणों में तोड़ना किसका हिस्सा है?"
+      },
+      "options": [
+        {
+          "en": "The problem solving approach",
+          "hi": "समस्या-समाधान दृष्टिकोण"
+        },
+        {
+          "en": "Animation",
+          "hi": "एनीमेशन"
+        },
+        {
+          "en": "Slide transition",
+          "hi": "स्लाइड ट्रांज़िशन"
+        },
+        {
+          "en": "Email writing",
+          "hi": "ईमेल लेखन"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Breaking down tasks is the essence of problem solving.",
+        "hi": "कार्य विभाजन समस्या-समाधान का सार है।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "A modern processor can follow billions of instructions every second - while you read this sentence, a computer made more calculations than a human could do in a thousand years.",
+      "hi": "आधुनिक प्रोसेसर हर सेकंड अरबों अनुदेश निभा सकता है - आप जिस वाक्य को पढ़ रहे हैं, उतने समय में कंप्यूटर इतनी गणनाएँ कर चुका होता है जो इंसान हज़ार वर्षों में भी नहीं कर सकता।"
+    },
+    {
+      "en": "Video game loops run about 60 times per second - that means the same blocks repeat 3,600 times every minute you play!",
+      "hi": "वीडियो गेम के लूप हर सेकंड लगभग 60 बार चलते हैं - यानी आपके खेलते हर मिनट में वही ब्लॉक 3,600 बार दोहराए जाते हैं!"
+    },
+    {
+      "en": "An accidental infinite loop once froze an entire telephone network in the US in 1990 - one wrong line of code brought 114 switching centres to a standstill.",
+      "hi": "1990 में एक गलती से बना infinite loop ने अमेरिका का पूरा टेलीफ़ोन नेटवर्क जाम कर दिया था - कोड की एक गलत पंक्ति ने 114 स्विचिंग केंद्र ठप्प कर दिए थे।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "Sprite: the character that acts in Scratch.",
+      "hi": "स्प्राइट: Scratch में कार्य करने वाला पात्र।"
+    },
+    {
+      "en": "Condition: a true/false check.",
+      "hi": "शर्त: सत्य/असत्य जाँच।"
+    },
+    {
+      "en": "Loop: repeating actions without rewriting blocks.",
+      "hi": "लूप: ब्लॉक दोहराए बिना क्रियाओं का दोहराव।"
+    },
+    {
+      "en": "if-else: choosing between two paths.",
+      "hi": "if-else: दो पथों में चुनाव।"
+    },
+    {
+      "en": "Debugging: finding and fixing errors.",
+      "hi": "डीबगिंग: त्रुटियाँ ढूँढ़कर सुधारना।"
+    }
+  ],
+  "conclusion": {
+    "en": "Understand the problem, plan with decisions and loops, then test and debug - that is how every good program is built.",
+    "hi": "समस्या समझें, निर्णयों-लूपों से योजना बनाएँ, फिर परखें-सुधारें - इसी तरह हर अच्छा प्रोग्राम बनता है।"
+  }
+}

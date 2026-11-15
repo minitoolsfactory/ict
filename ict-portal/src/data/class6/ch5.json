@@ -1,0 +1,837 @@
+{
+  "id": "ch5",
+  "title": {
+    "en": "Learn to Code - 01",
+    "hi": "कोडिंग सीखें - 01"
+  },
+  "class": 6,
+  "pages": "109-135",
+  "overview": {
+    "en": "Introduction to programming concepts: algorithms, flowcharts, sequencing, loops, and basic Python programming.",
+    "hi": "प्रोग्रामिंग अवधारणाओं का परिचय: एल्गोरिथम, फ्लोचार्ट, क्रम, लूप और बुनियादी पायथन प्रोग्रामिंग।"
+  },
+  "sections": [
+    {
+      "id": "algorithm",
+      "title": {
+        "en": "Algorithm",
+        "hi": "एल्गोरिद्म"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "An algorithm is a step-by-step method to solve a task or problem.",
+          "hi": "एल्गोरिद्म किसी कार्य या समस्या को हल करने की चरण-दर-चरण विधि है।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Example from the book",
+            "hi": "पुस्तक का उदाहरण"
+          },
+          "items": [
+            {
+              "en": "An algorithm to calculate the square of a number.",
+              "hi": "किसी संख्या का वर्ग निकालने का एल्गोरिद्म।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flowchart",
+      "title": {
+        "en": "Flowchart",
+        "hi": "फ़्लोचार्ट"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "A flowchart shows an algorithm as a picture — its steps and the order they happen in.",
+          "hi": "फ़्लोचार्ट एल्गोरिद्म को चित्र रूप में दिखाता है — उसके चरण और उनका क्रम।"
+        },
+        {
+          "type": "num",
+          "title": {
+            "en": "Common symbols",
+            "hi": "सामान्य प्रतीक"
+          },
+          "items": [
+            {
+              "t": {
+                "en": "Oval",
+                "hi": "दीर्घवृत्त"
+              },
+              "d": {
+                "en": "Start and end of the flowchart.",
+                "hi": "फ़्लोचार्ट का प्रारंभ और अंत।"
+              }
+            },
+            {
+              "t": {
+                "en": "Diamond",
+                "hi": "डायमंड"
+              },
+              "d": {
+                "en": "A decision point — a true/false check.",
+                "hi": "निर्णय बिंदु — सत्य/असत्य जाँच।"
+              }
+            },
+            {
+              "t": {
+                "en": "Arrows",
+                "hi": "तीर"
+              },
+              "d": {
+                "en": "Show the direction of flow.",
+                "hi": "प्रवाह की दिशा दिखाते हैं।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "control-flow",
+      "title": {
+        "en": "Control Flow",
+        "hi": "कंट्रोल फ़्लो"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Control flow is the order in which a computer runs the instructions of a program.",
+          "hi": "कंट्रोल फ़्लो वह क्रम है जिसमें कंप्यूटर प्रोग्राम के अनुदेश चलाता है।"
+        },
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "1. Sequence Flow",
+                "hi": "1. सीक्वेंस फ़्लो"
+              },
+              "d": {
+                "en": "Instructions run top to bottom, one after another (the default).",
+                "hi": "अनुदेश ऊपर से नीचे, एक के बाद एक चलते हैं (डिफ़ॉल्ट)।"
+              }
+            },
+            {
+              "t": {
+                "en": "2. Selection Control",
+                "hi": "2. सेलेक्शन कंट्रोल"
+              },
+              "d": {
+                "en": "Choosing a path based on a condition — e.g. if it rains, take an umbrella.",
+                "hi": "शर्त के आधार पर पथ चुनना — जैसे बारिश हो तो छाता लो।"
+              }
+            },
+            {
+              "t": {
+                "en": "3. Iteration",
+                "hi": "3. पुनरावृत्ति"
+              },
+              "d": {
+                "en": "Repeating a set of instructions until a condition is met.",
+                "hi": "शर्त पूरी होने तक अनुदेशों का सेट दोहराना।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "google-drawings",
+      "title": {
+        "en": "Drawing Flowcharts with Google Drawings",
+        "hi": "Google Drawings से फ़्लोचार्ट बनाना"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Step 1",
+                "hi": "चरण 1"
+              },
+              "d": {
+                "en": "Open https://docs.google.com/drawings in a web browser.",
+                "hi": "वेब ब्राउज़र में https://docs.google.com/drawings खोलें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 2",
+                "hi": "चरण 2"
+              },
+              "d": {
+                "en": "Open a blank sheet and give it a suitable name.",
+                "hi": "खाली शीट खोलकर उचित नाम दें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Step 3",
+                "hi": "चरण 3"
+              },
+              "d": {
+                "en": "Draw the flowchart of the square algorithm using shapes.",
+                "hi": "आकृतियों से वर्ग-एल्गोरिद्म का फ़्लोचार्ट बनाएँ।"
+              }
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "Plan the steps before coding — a good flowchart makes the program easy to write.",
+          "hi": "कोडिंग से पहले चरणों की योजना बनाएँ — अच्छा फ़्लोचार्ट प्रोग्राम लिखना आसान कर देता है।"
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Algorithm",
+      "hi": "एल्गोरिथम"
+    },
+    {
+      "en": "Flowchart",
+      "hi": "फ्लोचार्ट"
+    },
+    {
+      "en": "Loop",
+      "hi": "लूप"
+    },
+    {
+      "en": "Variable",
+      "hi": "चर"
+    },
+    {
+      "en": "Python",
+      "hi": "पायथन"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "What is an algorithm?",
+        "hi": "एल्गोरिथम क्या है?"
+      },
+      "options": [
+        {
+          "en": "A step-by-step procedure to solve a problem",
+          "hi": "किसी समस्या को हल करने की चरण-दर-चरण प्रक्रिया"
+        },
+        {
+          "en": "A type of computer virus",
+          "hi": "कंप्यूटर वायरस का एक प्रकार"
+        },
+        {
+          "en": "A programming language",
+          "hi": "एक प्रोग्रामिंग भाषा"
+        },
+        {
+          "en": "A computer hardware component",
+          "hi": "कंप्यूटर हार्डवेयर घटक"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "An algorithm is a step-by-step procedure for solving a problem.",
+        "hi": "एक एल्गोरिथम किसी समस्या को हल करने की चरण-दर-चरण प्रक्रिया है।"
+      }
+    },
+    {
+      "question": {
+        "en": "What does a loop do in programming?",
+        "hi": "प्रोग्रामिंग में लूप क्या करता है?"
+      },
+      "options": [
+        {
+          "en": "Repeats instructions multiple times",
+          "hi": "निर्देशों को कई बार दोहराता है"
+        },
+        {
+          "en": "Deletes code",
+          "hi": "कोड हटाता है"
+        },
+        {
+          "en": "Creates variables",
+          "hi": "चर बनाता है"
+        },
+        {
+          "en": "Ends the program",
+          "hi": "प्रोग्राम समाप्त करता है"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A loop repeats a block of code multiple times.",
+        "hi": "एक लूप कोड के एक ब्लॉक को कई बार दोहराता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "What is an algorithm?",
+        "hi": "एल्गोरिद्म क्या है?"
+      },
+      "options": [
+        {
+          "en": "A step-by-step method to solve a task",
+          "hi": "किसी कार्य को हल करने की चरण-दर-चरण विधि"
+        },
+        {
+          "en": "A computer part",
+          "hi": "कंप्यूटर का भाग"
+        },
+        {
+          "en": "A game",
+          "hi": "एक खेल"
+        },
+        {
+          "en": "A folder",
+          "hi": "एक फ़ोल्डर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "An algorithm is a step-by-step procedure to solve a problem.",
+        "hi": "एल्गोरिद्म समस्या हल करने की चरणबद्ध विधि है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which online tool was used in the book to draw a flowchart?",
+        "hi": "पुस्तक में फ़्लोचार्ट बनाने के लिए कौन-सा ऑनलाइन टूल उपयोग हुआ?"
+      },
+      "options": [
+        {
+          "en": "Google Drawings",
+          "hi": "Google Drawings"
+        },
+        {
+          "en": "MS Paint",
+          "hi": "MS Paint"
+        },
+        {
+          "en": "WhatsApp",
+          "hi": "WhatsApp"
+        },
+        {
+          "en": "Calculator",
+          "hi": "कैलकुलेटर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Flowcharts were drawn at docs.google.com/drawings.",
+        "hi": "फ़्लोचार्ट docs.google.com/drawings पर बनाए गए।"
+      }
+    },
+    {
+      "question": {
+        "en": "In the book's example, the algorithm calculated the…",
+        "hi": "पुस्तक के उदाहरण में एल्गोरिद्म ने क्या गणना की?"
+      },
+      "options": [
+        {
+          "en": "Square of a number",
+          "hi": "किसी संख्या का वर्ग"
+        },
+        {
+          "en": "Sum of planets",
+          "hi": "ग्रहों का योग"
+        },
+        {
+          "en": "Weather",
+          "hi": "मौसम"
+        },
+        {
+          "en": "Song list",
+          "hi": "गानों की सूची"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The example algorithm calculated the square of a number.",
+        "hi": "उदाहरण एल्गोरिद्म ने संख्या का वर्ग निकाला।"
+      }
+    },
+    {
+      "question": {
+        "en": "The order in which a computer runs program instructions is called…",
+        "hi": "कंप्यूटर द्वारा अनुदेश चलाने के क्रम को क्या कहते हैं?"
+      },
+      "options": [
+        {
+          "en": "Control Flow",
+          "hi": "कंट्रोल फ़्लो"
+        },
+        {
+          "en": "Data Flow",
+          "hi": "डेटा फ़्लो"
+        },
+        {
+          "en": "Water flow",
+          "hi": "जल प्रवाह"
+        },
+        {
+          "en": "Random order",
+          "hi": "यादृच्छिक क्रम"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Control flow is the order of executing instructions.",
+        "hi": "अनुदेशों के निष्पादन क्रम को कंट्रोल फ़्लो कहते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "In Sequence flow, instructions run…",
+        "hi": "सीक्वेंस फ़्लो में अनुदेश कैसे चलते हैं?"
+      },
+      "options": [
+        {
+          "en": "Top to bottom, one after another",
+          "hi": "ऊपर से नीचे, एक के बाद एक"
+        },
+        {
+          "en": "Bottom to top",
+          "hi": "नीचे से ऊपर"
+        },
+        {
+          "en": "Randomly",
+          "hi": "यादृच्छिक"
+        },
+        {
+          "en": "All at once",
+          "hi": "एक साथ सब"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Sequential execution runs statements one after another.",
+        "hi": "क्रमिक निष्पादन में अनुदेश एक के बाद एक चलते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Selection control is used when…",
+        "hi": "सेलेक्शन कंट्रोल कब उपयोग होता है?"
+      },
+      "options": [
+        {
+          "en": "We must choose based on a condition",
+          "hi": "शर्त के आधार पर चुनना हो"
+        },
+        {
+          "en": "We print a page",
+          "hi": "पेज प्रिंट करना हो"
+        },
+        {
+          "en": "We close a file",
+          "hi": "फ़ाइल बंद करनी हो"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Selection lets the program choose a path based on a condition.",
+        "hi": "शर्त के आधार पर प्रोग्राम पथ चुनता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Iteration means…",
+        "hi": "पुनरावृत्ति (Iteration) का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Repeating steps",
+          "hi": "चरणों को दोहराना"
+        },
+        {
+          "en": "Deleting steps",
+          "hi": "चरण मिटाना"
+        },
+        {
+          "en": "Skipping steps",
+          "hi": "चरण छोड़ना"
+        },
+        {
+          "en": "Printing steps",
+          "hi": "चरण प्रिंट करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Iteration repeats a set of instructions.",
+        "hi": "पुनरावृत्ति में अनुदेश दोहराए जाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "In a flowchart, which shape shows a decision?",
+        "hi": "फ़्लोचार्ट में निर्णय किस आकृति में दिखाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Diamond",
+          "hi": "डायमंड"
+        },
+        {
+          "en": "Circle only",
+          "hi": "केवल वृत्त"
+        },
+        {
+          "en": "Square only",
+          "hi": "केवल वर्ग"
+        },
+        {
+          "en": "Arrow",
+          "hi": "तीर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A diamond represents a decision point.",
+        "hi": "डायमंड निर्णय बिंदु दिखाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A flowchart helps us…",
+        "hi": "फ़्लोचार्ट हमें क्या करने में मदद करता है?"
+      },
+      "options": [
+        {
+          "en": "See the algorithm's steps visually",
+          "hi": "एल्गोरिद्म के चरण दृश्य रूप में देखने"
+        },
+        {
+          "en": "Print faster",
+          "hi": "तेज़ प्रिंट करने"
+        },
+        {
+          "en": "Type documents",
+          "hi": "दस्तावेज़ टाइप करने"
+        },
+        {
+          "en": "Browse the web",
+          "hi": "वेब ब्राउज़ करने"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A flowchart shows the algorithm as a picture.",
+        "hi": "फ़्लोचार्ट एल्गोरिद्म को चित्र रूप में दिखाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Coding means…",
+        "hi": "कोडिंग का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Giving instructions to a computer in a language it understands",
+          "hi": "कंप्यूटर को उसकी समझ की भाषा में अनुदेश देना"
+        },
+        {
+          "en": "Cleaning the computer",
+          "hi": "कंप्यूटर साफ़ करना"
+        },
+        {
+          "en": "Playing games only",
+          "hi": "केवल खेल खेलना"
+        },
+        {
+          "en": "Charging the battery",
+          "hi": "बैटरी चार्ज करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Coding is writing instructions for the computer.",
+        "hi": "कोडिंग कंप्यूटर के लिए अनुदेश लिखना है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A program is…",
+        "hi": "प्रोग्राम क्या है?"
+      },
+      "options": [
+        {
+          "en": "A set of instructions for the computer",
+          "hi": "कंप्यूटर के लिए अनुदेशों का समूह"
+        },
+        {
+          "en": "A type of mouse",
+          "hi": "माउस का प्रकार"
+        },
+        {
+          "en": "A screen",
+          "hi": "स्क्रीन"
+        },
+        {
+          "en": "A cable",
+          "hi": "केबल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A program is a collection of instructions.",
+        "hi": "प्रोग्राम अनुदेशों का संग्रह है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Why do we plan steps before coding?",
+        "hi": "कोडिंग से पहले चरण योजना क्यों बनाते हैं?"
+      },
+      "options": [
+        {
+          "en": "To solve the problem correctly",
+          "hi": "समस्या सही ढंग से हल करने के लिए"
+        },
+        {
+          "en": "To waste time",
+          "hi": "समय बर्बाद करने के लिए"
+        },
+        {
+          "en": "To confuse the computer",
+          "hi": "कंप्यूटर उलझाने के लिए"
+        },
+        {
+          "en": "No reason",
+          "hi": "कोई कारण नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Planning steps ensures the solution is correct.",
+        "hi": "चरणों की योजना से समाधान सही बनता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which control flow repeats a block until a condition is met?",
+        "hi": "कौन-सा कंट्रोल फ़्लो शर्त पूरी होने तक ब्लॉक दोहराता है?"
+      },
+      "options": [
+        {
+          "en": "Iteration",
+          "hi": "पुनरावृत्ति"
+        },
+        {
+          "en": "Sequence",
+          "hi": "क्रम"
+        },
+        {
+          "en": "Printing",
+          "hi": "प्रिंटिंग"
+        },
+        {
+          "en": "Saving",
+          "hi": "सेविंग"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Iteration repeats instructions until the condition is satisfied.",
+        "hi": "पुनरावृत्ति शर्त पूरी होने तक अनुदेश दोहराती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Ovals in a flowchart generally show…",
+        "hi": "फ़्लोचार्ट में दीर्घवृत्त सामान्यतः क्या दिखाते हैं?"
+      },
+      "options": [
+        {
+          "en": "Start and end",
+          "hi": "प्रारंभ और अंत"
+        },
+        {
+          "en": "Decisions",
+          "hi": "निर्णय"
+        },
+        {
+          "en": "Files",
+          "hi": "फ़ाइलें"
+        },
+        {
+          "en": "Errors",
+          "hi": "त्रुटियाँ"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Oval shapes mark the start and end of a flowchart.",
+        "hi": "दीर्घवृत्त फ़्लोचार्ट का प्रारंभ/अंत दिखाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Computers execute instructions…",
+        "hi": "कंप्यूटर अनुदेश कैसे निष्पादित करते हैं?"
+      },
+      "options": [
+        {
+          "en": "In the order given, unless told otherwise",
+          "hi": "दिए गए क्रम में, जब तक अन्यथा न कहा जाए"
+        },
+        {
+          "en": "Always randomly",
+          "hi": "सदैव यादृच्छिक"
+        },
+        {
+          "en": "From bottom to top",
+          "hi": "नीचे से ऊपर"
+        },
+        {
+          "en": "Skipping most",
+          "hi": "अधिकांश छोड़कर"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "By default computers follow the given order (sequence).",
+        "hi": "डिफ़ॉल्ट रूप से कंप्यूटर दिया क्रम (सीक्वेंस) मानते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "What was the first step in the Google Drawings activity?",
+        "hi": "Google Drawings गतिविधि का पहला चरण क्या था?"
+      },
+      "options": [
+        {
+          "en": "Open docs.google.com/drawings and name the blank sheet",
+          "hi": "docs.google.com/drawings खोलकर खाली शीट को नाम देना"
+        },
+        {
+          "en": "Print the page",
+          "hi": "पेज प्रिंट करना"
+        },
+        {
+          "en": "Delete the file",
+          "hi": "फ़ाइल डिलीट करना"
+        },
+        {
+          "en": "Restart",
+          "hi": "रीस्टार्ट करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "First open the site and give the blank drawing a suitable name.",
+        "hi": "पहले साइट खोलकर खाली शीट को उचित नाम दें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Flowcharts make algorithms…",
+        "hi": "फ़्लोचार्ट एल्गोरिद्म को कैसा बनाते हैं?"
+      },
+      "options": [
+        {
+          "en": "Easy to understand at a glance",
+          "hi": "एक नज़र में समझने में आसान"
+        },
+        {
+          "en": "Impossible to read",
+          "hi": "पढ़ना असंभव"
+        },
+        {
+          "en": "Longer to write",
+          "hi": "लिखने में लंबा"
+        },
+        {
+          "en": "Secret",
+          "hi": "गुप्त"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Pictures of steps are easier to follow than long text.",
+        "hi": "चरणों का चित्र लंबे टेक्स्ट से आसानी से समझ आता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which is an example of selection in daily life?",
+        "hi": "दैनिक जीवन में सेलेक्शन का उदाहरण क्या है?"
+      },
+      "options": [
+        {
+          "en": "If it rains, take an umbrella, else don't",
+          "hi": "अगर बारिश हो तो छाता लो, वरना नहीं"
+        },
+        {
+          "en": "Breathing continuously",
+          "hi": "लगातार साँस लेना"
+        },
+        {
+          "en": "Walking in a straight line",
+          "hi": "सीधी रेखा में चलना"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Choosing based on a condition is selection.",
+        "hi": "शर्त के आधार पर चुनाव सेलेक्शन है।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "The world's first programmer was a woman - Ada Lovelace wrote the first algorithm in the 1840s, almost a century before the first computer was built.",
+      "hi": "दुनिया की पहली प्रोग्रामर एक महिला थीं - एडा लवलेस ने 1840 के दशक में पहला एल्गोरिथ्म लिखा, पहले कंप्यूटर के बनने से लगभग एक सदी पहले।"
+    },
+    {
+      "en": "Scratch got its name from DJs 'scratching' records - mixing pieces of music, just like Scratch mixes pieces of code!",
+      "hi": "Scratch का नाम DJ के रिकॉर्ड 'स्क्रैच' करने से आया - संगीत के टुकड़ों को मिलाने जैसे, वैसे ही Scratch कोड के टुकड़ों को मिलाता है!"
+    },
+    {
+      "en": "Python is NOT named after the snake! Its creator Guido van Rossum named it after the comedy show 'Monty Python's Flying Circus'.",
+      "hi": "Python का नाम साँप पर नहीं है! इसके रचयिता गाइडो वैन रॉसम ने इसे कॉमेडी शो 'Monty Python's Flying Circus' पर नामित किया।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "Algorithm: step-by-step solution method.",
+      "hi": "एल्गोरिद्म: चरणबद्ध समाधान विधि।"
+    },
+    {
+      "en": "Flowchart: picture of an algorithm.",
+      "hi": "फ़्लोचार्ट: एल्गोरिद्म का चित्र।"
+    },
+    {
+      "en": "Sequence: top-to-bottom execution.",
+      "hi": "सीक्वेंस: ऊपर से नीचे निष्पादन।"
+    },
+    {
+      "en": "Selection: choosing a path by condition.",
+      "hi": "सेलेक्शन: शर्त से पथ चुनना।"
+    },
+    {
+      "en": "Iteration: repeating steps.",
+      "hi": "पुनरावृत्ति: चरणों का दोहराव।"
+    }
+  ],
+  "conclusion": {
+    "en": "Code is just a plan written for the computer — think the steps first, draw them, then code them.",
+    "hi": "कोड केवल कंप्यूटर के लिए लिखी योजना है — पहले चरण सोचें, चित्र बनाएँ, फिर कोड करें।"
+  }
+}

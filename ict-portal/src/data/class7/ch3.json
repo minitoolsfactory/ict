@@ -1,0 +1,797 @@
+{
+  "id": "ch3",
+  "title": {
+    "en": "Being Future Ready-02 (Website Designing)",
+    "hi": "भविष्य के लिए तैयार-02 (वेबसाइट डिज़ाइनिंग)"
+  },
+  "class": 7,
+  "pages": "53-79",
+  "overview": {
+    "en": "This chapter introduces websites as a window for any organisation, school or project. Students learn what a website is and design their own website using an online website builder, customising headers, themes, fonts and templates.",
+    "hi": "यह अध्याय वेबसाइट को किसी भी संगठन, स्कूल या परियोजना के झरोखे के रूप में परिचित कराता है। छात्र सीखते हैं कि वेबसाइट क्या है और ऑनलाइन वेबसाइट बिल्डर का उपयोग करके अपनी वेबसाइट बनाते हैं - हेडर, थीम, फॉन्ट और टेम्पलेट बदलकर।"
+  },
+  "sections": [
+    {
+      "id": "what-is-website",
+      "title": {
+        "en": "What is a Website?",
+        "hi": "वेबसाइट क्या है?"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "A website is like a window for any organisation, school, place or project - it displays all the information at one place, reachable with the click of a button.",
+          "hi": "वेबसाइट किसी संस्था, स्कूल, जगह या परियोजना का झरोखा है - एक बटन के क्लिक पर सारी जानकारी एक ही स्थान पर।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Examples",
+            "hi": "उदाहरण"
+          },
+          "items": [
+            {
+              "en": "A company's site shows its products, people and address.",
+              "hi": "कंपनी की साइट उत्पाद, लोग और पता दिखाती है।"
+            },
+            {
+              "en": "A school or a social science project site.",
+              "hi": "स्कूल या सोशल साइंस प्रोजेक्ट की साइट।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "building",
+      "title": {
+        "en": "Building a Website Online",
+        "hi": "ऑनलाइन वेबसाइट बनाना"
+      },
+      "blocks": [
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Use an online website builder - no coding needed.",
+              "hi": "ऑनलाइन वेबसाइट बिल्डर उपयोग करें - कोडिंग की ज़रूरत नहीं।"
+            },
+            {
+              "en": "Add pages, text, images and links.",
+              "hi": "पेज, टेक्स्ट, चित्र, लिंक जोड़ें।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "customisation",
+      "title": {
+        "en": "Headers, Themes and Templates",
+        "hi": "हेडर, थीम और टेम्पलेट"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Header type",
+                "hi": "हेडर टाइप"
+              },
+              "d": {
+                "en": "Hover over the background image, click header type and choose Large Banner, Banner or Title Only.",
+                "hi": "बैकग्राउंड इमेज पर hover कर हेडर टाइप पर क्लिक कर Large Banner/Banner/Title Only चुनें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Theme and colours",
+                "hi": "थीम और रंग"
+              },
+              "d": {
+                "en": "Click Themes in the top-right corner and pick colours.",
+                "hi": "top-right कोने में Themes पर क्लिक कर रंग चुनें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Font style",
+                "hi": "फ़ॉन्ट स्टाइल"
+              },
+              "d": {
+                "en": "Click font style and select a design separately.",
+                "hi": "font style पर क्लिक कर अलग से चुनें।"
+              }
+            },
+            {
+              "t": {
+                "en": "Templates",
+                "hi": "टेम्पलेट"
+              },
+              "d": {
+                "en": "Ready-made designs - scroll down to see available templates.",
+                "hi": "रेडी-मेड डिज़ाइन - नीचे scroll करके टेम्पलेट देखें।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "publish",
+      "title": {
+        "en": "Publishing and Sharing",
+        "hi": "प्रकाशित करना और साझा करना"
+      },
+      "blocks": [
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Preview your design before publishing.",
+              "hi": "प्रकाशन से पहले पूर्वावलोकन करें।"
+            },
+            {
+              "en": "Publish to make the site live.",
+              "hi": "प्रकाशित करके साइट लाइव करें।"
+            },
+            {
+              "en": "Share the link - anyone, anywhere can view it.",
+              "hi": "लिंक साझा करें - कोई भी, कहीं से भी देख सकता है।"
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "A website is your project's window to the world - check every page before you publish.",
+          "hi": "वेबसाइट आपकी परियोजना की दुनिया के सामने झरोखा है - प्रकाशन से पहले हर पेज जाँचें।"
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Website",
+      "hi": "जानकारी दिखाने वाला ऑनलाइन पेज-समूह"
+    },
+    {
+      "en": "Header",
+      "hi": "पेज का शीर्ष भाग"
+    },
+    {
+      "en": "Theme",
+      "hi": "रंग और डिज़ाइन का सेट"
+    },
+    {
+      "en": "Template",
+      "hi": "रेडी-मेड डिज़ाइन"
+    },
+    {
+      "en": "Publish",
+      "hi": "वेबसाइट को इंटरनेट पर उपलब्ध कराना"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "A website is like a ______ for an organisation.",
+        "hi": "वेबसाइट किसी संगठन के लिए ______ जैसी होती है।"
+      },
+      "options": [
+        {
+          "en": "Window",
+          "hi": "झरोखा"
+        },
+        {
+          "en": "Lock",
+          "hi": "ताला"
+        },
+        {
+          "en": "Wall",
+          "hi": "दीवार"
+        },
+        {
+          "en": "Door bell",
+          "hi": "घंटी"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The book compares a website to a window through which an organisation can be seen.",
+        "hi": "पुस्तक वेबसाइट को झरोखे से तुलना करती है जिसके द्वारा संगठन देखा जा सकता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these is a header type option?",
+        "hi": "इनमें से कौन-सा हेडर टाइप का विकल्प है?"
+      },
+      "options": [
+        {
+          "en": "Title Only",
+          "hi": "Title Only"
+        },
+        {
+          "en": "Footer Only",
+          "hi": "Footer Only"
+        },
+        {
+          "en": "Side Only",
+          "hi": "Side Only"
+        },
+        {
+          "en": "Text Only",
+          "hi": "Text Only"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Header types include Large Banner, Banner and Title Only.",
+        "hi": "हेडर टाइप में Large Banner, Banner और Title Only शामिल हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Where do you click to change the theme and colours?",
+        "hi": "थीम और रंग बदलने के लिए कहाँ क्लिक करते हैं?"
+      },
+      "options": [
+        {
+          "en": "Bottom-left corner",
+          "hi": "नीचे-बाएँ कोने"
+        },
+        {
+          "en": "Top-right corner, Themes",
+          "hi": "ऊपर-दाएँ कोने, Themes"
+        },
+        {
+          "en": "Middle of the page",
+          "hi": "पेज के बीच में"
+        },
+        {
+          "en": "Browser address bar",
+          "hi": "ब्राउज़र एड्रेस बार"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Themes and colours are changed from the Themes option in the top-right corner.",
+        "hi": "थीम और रंग top-right कोने के Themes विकल्प से बदले जाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Ready-made designs you can apply to your site are called…",
+        "hi": "साइट पर लागू की जा सकने वाली रेडी-मेड डिज़ाइनें क्या कहलाती हैं?"
+      },
+      "options": [
+        {
+          "en": "Templates",
+          "hi": "टेम्पलेट"
+        },
+        {
+          "en": "Headers",
+          "hi": "हेडर"
+        },
+        {
+          "en": "Fonts",
+          "hi": "फॉन्ट"
+        },
+        {
+          "en": "Links",
+          "hi": "लिंक"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Built-in ready-made templates can be chosen by scrolling down.",
+        "hi": "नीचे scroll करके बिल्ट-इन रेडी-मेड टेम्पलेट चुने जा सकते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "What can you do once your website design is complete?",
+        "hi": "वेबसाइट का डिज़ाइन पूरा होने पर आप क्या कर सकते हैं?"
+      },
+      "options": [
+        {
+          "en": "Publish it and share the link",
+          "hi": "इसे प्रकाशित करके लिंक साझा कर सकते हैं"
+        },
+        {
+          "en": "Print the computer",
+          "hi": "कंप्यूटर प्रिंट कर सकते हैं"
+        },
+        {
+          "en": "Delete the internet",
+          "hi": "इंटरनेट डिलीट कर सकते हैं"
+        },
+        {
+          "en": "Nothing at all",
+          "hi": "कुछ नहीं कर सकते"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A completed website can be previewed, published and shared via its link.",
+        "hi": "पूरी हुई वेबसाइट का पूर्वावलोकन कर, प्रकाशित कर और लिंक साझा कर सकते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "A website displays information about…",
+        "hi": "वेबसाइट किसकी जानकारी प्रदर्शित करती है?"
+      },
+      "options": [
+        {
+          "en": "A company, school, place or project",
+          "hi": "कंपनी, स्कूल, जगह या परियोजना"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        },
+        {
+          "en": "Only games",
+          "hi": "केवल खेल"
+        },
+        {
+          "en": "Only weather",
+          "hi": "केवल मौसम"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A website shows all the details of an organisation or project.",
+        "hi": "वेबसाइट संस्था/परियोजना की सारी जानकारी दिखाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Through a website, all details can be found…",
+        "hi": "वेबसाइट से सारी जानकारी कैसे मिलती है?"
+      },
+      "options": [
+        {
+          "en": "At one place, with the click of a button",
+          "hi": "एक ही जगह, बटन के क्लिक पर"
+        },
+        {
+          "en": "Only in books",
+          "hi": "केवल किताबों में"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        },
+        {
+          "en": "Only by post",
+          "hi": "केवल डाक से"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "One click on a website brings everything together.",
+        "hi": "वेबसाइट पर एक क्लिक में सब कुछ एक स्थान पर मिलता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "An online website builder lets you create websites…",
+        "hi": "ऑनलाइन वेबसाइट बिल्डर से वेबसाइट बनती है…"
+      },
+      "options": [
+        {
+          "en": "Without writing code",
+          "hi": "बिना कोड लिखे"
+        },
+        {
+          "en": "Only with code",
+          "hi": "केवल कोड लिखकर"
+        },
+        {
+          "en": "Only on paper",
+          "hi": "केवल कागज़ पर"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Website builders let you add pages, text and images without coding.",
+        "hi": "बिल्डर से बिना कोड पेज, टेक्स्ट, चित्र जोड़े जा सकते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which project did the students plan to make a website for?",
+        "hi": "छात्रों ने किस परियोजना के लिए वेबसाइट बनाने की योजना बनाई?"
+      },
+      "options": [
+        {
+          "en": "A social science project",
+          "hi": "सोशल साइंस प्रोजेक्ट"
+        },
+        {
+          "en": "A cooking project",
+          "hi": "पाक-परियोजना"
+        },
+        {
+          "en": "A film",
+          "hi": "फ़िल्म"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "In the book, students planned a website for their social science project.",
+        "hi": "पुस्तक में छात्रों ने सोशल साइंस प्रोजेक्ट हेतु वेबसाइट की योजना बनाई।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these is a header type option?",
+        "hi": "इनमें से कौन-सा हेडर टाइप विकल्प है?"
+      },
+      "options": [
+        {
+          "en": "Title Only",
+          "hi": "Title Only"
+        },
+        {
+          "en": "Footer Only",
+          "hi": "Footer Only"
+        },
+        {
+          "en": "Side Only",
+          "hi": "Side Only"
+        },
+        {
+          "en": "Text Only",
+          "hi": "Text Only"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Header types include Large Banner, Banner and Title Only.",
+        "hi": "हेडर टाइप में Large Banner, Banner, Title Only शामिल हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Themes change a site's…",
+        "hi": "थीम किसे बदलती है?"
+      },
+      "options": [
+        {
+          "en": "Colours and overall design",
+          "hi": "रंग और समग्र डिज़ाइन"
+        },
+        {
+          "en": "Internet speed",
+          "hi": "इंटरनेट गति"
+        },
+        {
+          "en": "Computer memory",
+          "hi": "कंप्यूटर मेमोरी"
+        },
+        {
+          "en": "Language only",
+          "hi": "केवल भाषा"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Themes set the colour scheme and design of the site.",
+        "hi": "थीम साइट के रंग-डिज़ाइन तय करती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Font style can be selected…",
+        "hi": "फ़ॉन्ट स्टाइल कहाँ से चुना जाता है?"
+      },
+      "options": [
+        {
+          "en": "Separately from the theme",
+          "hi": "थीम से अलग से"
+        },
+        {
+          "en": "Only with the header",
+          "hi": "केवल हेडर के साथ"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        },
+        {
+          "en": "Only while printing",
+          "hi": "केवल प्रिंट के समय"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "After choosing a theme, click font style and pick one.",
+        "hi": "थीम चुनने के बाद font style पर क्लिक कर चुनें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Ready-made designs you can apply to your site are…",
+        "hi": "साइट पर लागू होने वाली रेडी-मेड डिज़ाइनें क्या कहलाती हैं?"
+      },
+      "options": [
+        {
+          "en": "Templates",
+          "hi": "टेम्पलेट"
+        },
+        {
+          "en": "Headers",
+          "hi": "हेडर"
+        },
+        {
+          "en": "Links",
+          "hi": "लिंक"
+        },
+        {
+          "en": "Passwords",
+          "hi": "पासवर्ड"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Built-in ready-made templates are available by scrolling down.",
+        "hi": "नीचे scroll करने पर रेडी-मेड टेम्पलेट मिलते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Before publishing, you can check your site with…",
+        "hi": "प्रकाशन से पहले साइट की जाँच कर सकते हैं…"
+      },
+      "options": [
+        {
+          "en": "A preview",
+          "hi": "पूर्वावलोकन (Preview)"
+        },
+        {
+          "en": "A printer",
+          "hi": "प्रिंटर"
+        },
+        {
+          "en": "A calculator",
+          "hi": "कैलकुलेटर"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Preview the design before publishing.",
+        "hi": "प्रकाशन से पहले पूर्वावलोकन करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Publishing a website makes it…",
+        "hi": "वेबसाइट प्रकाशित करने से वह…"
+      },
+      "options": [
+        {
+          "en": "Available to others via its link",
+          "hi": "अपने लिंक से दूसरों को उपलब्ध होती है"
+        },
+        {
+          "en": "Deleted",
+          "hi": "डिलीट हो जाती है"
+        },
+        {
+          "en": "Hidden forever",
+          "hi": "हमेशा के लिए छिप जाती है"
+        },
+        {
+          "en": "Slower",
+          "hi": "धीमी हो जाती है"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Once published, the link can be shared with anyone.",
+        "hi": "प्रकाशित होने पर लिंक किसी को भी साझा किया जा सकता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "To change the header type, you first…",
+        "hi": "हेडर टाइप बदलने के लिए सबसे पहले…"
+      },
+      "options": [
+        {
+          "en": "Hover over the background image and click header type",
+          "hi": "बैकग्राउंड इमेज पर hover कर हेडर टाइप पर क्लिक करें"
+        },
+        {
+          "en": "Shut down the computer",
+          "hi": "कंप्यूटर बंद करें"
+        },
+        {
+          "en": "Delete the site",
+          "hi": "साइट डिलीट करें"
+        },
+        {
+          "en": "Print the site",
+          "hi": "साइट प्रिंट करें"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Hover on the background image, click header type, choose an option.",
+        "hi": "बैकग्राउंड इमेज पर hover करके हेडर टाइप चुनें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Where are the theme options located?",
+        "hi": "थीम विकल्प कहाँ होते हैं?"
+      },
+      "options": [
+        {
+          "en": "Top-right corner",
+          "hi": "ऊपर-दाएँ कोने में"
+        },
+        {
+          "en": "Bottom-left corner",
+          "hi": "नीचे-बाएँ कोने में"
+        },
+        {
+          "en": "Inside the printer",
+          "hi": "प्रिंटर के अंदर"
+        },
+        {
+          "en": "In the URL",
+          "hi": "URL में"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Click Themes in the top-right corner to change colours.",
+        "hi": "top-right कोने में Themes पर क्लिक करके रंग बदलें।"
+      }
+    },
+    {
+      "question": {
+        "en": "A company website can show…",
+        "hi": "कंपनी की वेबसाइट क्या दिखा सकती है?"
+      },
+      "options": [
+        {
+          "en": "Products, employees and contact details",
+          "hi": "उत्पाद, कर्मचारी और संपर्क विवरण"
+        },
+        {
+          "en": "Only weather",
+          "hi": "केवल मौसम"
+        },
+        {
+          "en": "Only songs",
+          "hi": "केवल गाने"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The book's example showed a company's people, products and address.",
+        "hi": "पुस्तक के उदाहरण में कंपनी के लोग, उत्पाद, पता दिखे।"
+      }
+    },
+    {
+      "question": {
+        "en": "A website is like a window because…",
+        "hi": "वेबसाइट झरोखा जैसी है क्योंकि…"
+      },
+      "options": [
+        {
+          "en": "The world can look in and see the organisation",
+          "hi": "दुनिया देख सकती है कि संगठन कैसा है"
+        },
+        {
+          "en": "It is made of glass",
+          "hi": "वह काँच की बनी है"
+        },
+        {
+          "en": "It breaks easily",
+          "hi": "वह आसानी से टूटती है"
+        },
+        {
+          "en": "It needs curtains",
+          "hi": "उसे पर्दे चाहिए"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A website is a window through which people see an organisation.",
+        "hi": "वेबसाइट वह झरोखा है जिससे लोग संगठन को देखते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Sharing your published site link allows…",
+        "hi": "प्रकाशित साइट का लिंक साझा करने से…"
+      },
+      "options": [
+        {
+          "en": "Anyone, anywhere to view the project",
+          "hi": "कहीं से भी कोई भी परियोजना देख सकता है"
+        },
+        {
+          "en": "Only you to see it",
+          "hi": "केवल आप देख सकते हैं"
+        },
+        {
+          "en": "Nobody to see it",
+          "hi": "कोई नहीं देख सकता"
+        },
+        {
+          "en": "The site to be deleted",
+          "hi": "साइट डिलीट हो जाती है"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Shared links open your site for viewers anywhere.",
+        "hi": "साझा लिंक से दर्शक कहीं से भी साइट खोल सकते हैं।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "The world's first website (made by Tim Berners-Lee in 1991) is still online today! You can visit info.cern.ch and see where the web began.",
+      "hi": "दुनिया की पहली वेबसाइट (टिम बर्नर्स-ली ने 1991 में बनाई) आज भी ऑनलाइन है! आप info.cern.ch देख सकते हैं - वहीं से वेब की शुरुआत हुई थी।"
+    },
+    {
+      "en": "The word 'surfing' the internet was popularised in 1992 by a librarian, Jean Armour Polly - she loved the idea of riding waves of information!",
+      "hi": "इंटरनेट 'सर्फ़' करने का शब्द 1992 में एक लाइब्रेरियन जीन आर्मर पॉली ने लोकप्रिय किया - उन्हें जानकारी की लहरों पर सवारी का विचार बहुत पसंद था!"
+    },
+    {
+      "en": "The most visited websites are watched billions of times a month - if each visit were a second, it would take more than 10,000 years to count them all.",
+      "hi": "सबसे अधिक देखी जाने वाली वेबसाइटें हर महीने अरबों बार खोली जाती हैं - अगर हर देखा एक सेकंड होता, तो उन्हें गिनने में 10,000 साल से ज़्यादा लग जाते।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "Website: online pages showing information about an organisation.",
+      "hi": "वेबसाइट: संस्था की जानकारी दिखाने वाले ऑनलाइन पेज।"
+    },
+    {
+      "en": "Header: the top part of a page.",
+      "hi": "हेडर: पेज का शीर्ष भाग।"
+    },
+    {
+      "en": "Theme: set of colours and design.",
+      "hi": "थीम: रंग व डिज़ाइन का सेट।"
+    },
+    {
+      "en": "Template: ready-made design.",
+      "hi": "टेम्पलेट: रेडी-मेड डिज़ाइन।"
+    },
+    {
+      "en": "Publish: making the site available via link.",
+      "hi": "Publish: लिंक द्वारा साइट उपलब्ध कराना।"
+    }
+  ],
+  "conclusion": {
+    "en": "Design → customise → preview → publish → share: that is how your project website reaches the world.",
+    "hi": "डिज़ाइन → सज्जित करें → पूर्वावलोकन → प्रकाशित → साझा करें - इसी तरह आपकी परियोजना-वेबसाइट दुनिया तक पहुँचती है।"
+  }
+}

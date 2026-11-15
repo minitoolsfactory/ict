@@ -1,0 +1,831 @@
+{
+  "id": "ch3",
+  "title": {
+    "en": "Digital Communication Skills",
+    "hi": "डिजिटल संचार कौशल"
+  },
+  "class": 8,
+  "pages": "62-70",
+  "overview": {
+    "en": "This chapter teaches effective digital communication: writing professional emails (To, Subject, Body, CC), creating and managing email accounts, and holding online meetings with proper etiquette such as muting the microphone and using screen share in Google Meet.",
+    "hi": "यह अध्याय प्रभावी डिजिटल संचार सिखाता है: professional ईमेल लिखना (To, Subject, Body, CC), ईमेल अकाउंट बनाना-संभालना और Google Meet में माइक म्यूट करना तथा स्क्रीन शेयर जैसी शिष्टाचार-पूर्ण ऑनलाइन मीटिंग करना।"
+  },
+  "sections": [
+    {
+      "id": "email",
+      "title": {
+        "en": "Email - Fast Formal Communication",
+        "hi": "ईमेल - तेज़ औपचारिक संवाद"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Email (electronic mail) is the fastest and most professional way to send a written message instantly in the digital age.",
+          "hi": "ईमेल (इलेक्ट्रॉनिक डाक) डिजिटल युग में लिखित संदेश तुरंत भेजने का सबसे तेज़ और professional तरीका है।"
+        },
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Formal communication needs a written record.",
+              "hi": "औपचारिक संचार को लिखित रिकॉर्ड चाहिए।"
+            },
+            {
+              "en": "Letters take a long time; email is instant.",
+              "hi": "पत्रों में समय लगता है; ईमेल तुरंत पहुँचता है।"
+            },
+            {
+              "en": "Every email address contains the @ symbol.",
+              "hi": "हर ईमेल पते में @ प्रतीक होता है।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "email-parts",
+      "title": {
+        "en": "Parts of an Email",
+        "hi": "ईमेल के भाग"
+      },
+      "blocks": [
+        {
+          "type": "table",
+          "head": [
+            {
+              "en": "Part",
+              "hi": "भाग"
+            },
+            {
+              "en": "What it contains",
+              "hi": "क्या लिखा जाता है"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "en": "To",
+                "hi": "To"
+              },
+              {
+                "en": "Address of the person receiving the message.",
+                "hi": "जिसे संदेश भेजना है उसका पता।"
+              }
+            ],
+            [
+              {
+                "en": "CC",
+                "hi": "CC"
+              },
+              {
+                "en": "Copy of the email to additional people.",
+                "hi": "अन्य लोगों को प्रतिलिपि।"
+              }
+            ],
+            [
+              {
+                "en": "Subject",
+                "hi": "Subject"
+              },
+              {
+                "en": "Clear, brief topic of the email.",
+                "hi": "ईमेल का स्पष्ट, संक्षिप्त विषय।"
+              }
+            ],
+            [
+              {
+                "en": "Body",
+                "hi": "Body"
+              },
+              {
+                "en": "The main message.",
+                "hi": "मुख्य संदेश।"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "professional",
+      "title": {
+        "en": "Writing a Professional Email",
+        "hi": "Professional ईमेल लिखना"
+      },
+      "blocks": [
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Write a clear subject line.",
+              "hi": "स्पष्ट Subject लिखें।"
+            },
+            {
+              "en": "Start with a polite greeting.",
+              "hi": "विनम्र अभिवादन से शुरू करें।"
+            },
+            {
+              "en": "Keep the message short and clear.",
+              "hi": "संदेश संक्षिप्त और स्पष्ट रखें।"
+            },
+            {
+              "en": "End with a proper closing and your name.",
+              "hi": "उचित समापन और अपने नाम के साथ समाप्त करें।"
+            },
+            {
+              "en": "Avoid spelling mistakes and writing in ALL CAPS.",
+              "hi": "वर्तनी गलतियों और ALL CAPS से बचें।"
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "An email is a written record - write it as carefully as a letter that can be read again anytime.",
+          "hi": "ईमेल लिखित रिकॉर्ड है - उसे ऐसे पत्र की तरह लिखें जो कभी भी दोबारा पढ़ा जा सकता है।"
+        }
+      ]
+    },
+    {
+      "id": "meetings",
+      "title": {
+        "en": "Online Meeting Etiquette",
+        "hi": "ऑनलाइन मीटिंग शिष्टाचार"
+      },
+      "blocks": [
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "Join the meeting using the link or code.",
+              "hi": "लिंक/कोड से मीटिंग में जुड़ें।"
+            },
+            {
+              "en": "Mute your microphone when you are not speaking.",
+              "hi": "बोलते समय के अलावा माइक म्यूट रखें।"
+            },
+            {
+              "en": "Use Present/Screen Share to show your screen (e.g. in Google Meet).",
+              "hi": "अपनी स्क्रीन दिखाने के लिए Present/Screen Share का उपयोग करें (जैसे Google Meet में)।"
+            },
+            {
+              "en": "Leave the meeting politely when it is over.",
+              "hi": "मीटिंग समाप्त होने पर विनम्रता से निकलें।"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Email",
+      "hi": "इलेक्ट्रॉनिक डाक संदेश"
+    },
+    {
+      "en": "To / CC",
+      "hi": "प्राप्तकर्ता और प्रतिलिपि पते"
+    },
+    {
+      "en": "Subject",
+      "hi": "ईमेल का विषय"
+    },
+    {
+      "en": "Google Meet",
+      "hi": "ऑनलाइन मीटिंग का उपकरण"
+    },
+    {
+      "en": "Screen Share",
+      "hi": "अपनी स्क्रीन दिखाना"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "In an email, where do you write the address of the person receiving the message?",
+        "hi": "ईमेल में जिस व्यक्ति को संदेश भेजना है उसका पता कहाँ लिखा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Subject",
+          "hi": "Subject"
+        },
+        {
+          "en": "To",
+          "hi": "To"
+        },
+        {
+          "en": "Body",
+          "hi": "Body"
+        },
+        {
+          "en": "CC",
+          "hi": "CC"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The receiver's address goes in the To field.",
+        "hi": "प्राप्तकर्ता का पता To फ़ील्ड में लिखा जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "During an online meeting, when you are not speaking you should…",
+        "hi": "ऑनलाइन मीटिंग के दौरान, जब आप बोल नहीं रहे हों तो आपको क्या करना चाहिए?"
+      },
+      "options": [
+        {
+          "en": "Turn off the camera",
+          "hi": "कैमरा बंद कर दें"
+        },
+        {
+          "en": "Mute the microphone",
+          "hi": "माइक म्यूट कर दें"
+        },
+        {
+          "en": "Leave the meeting",
+          "hi": "मीटिंग छोड़ दें"
+        },
+        {
+          "en": "Share the screen",
+          "hi": "स्क्रीन शेयर करें"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mute your microphone when you are not speaking.",
+        "hi": "बोलते समय के अलावा माइक म्यूट रखना चाहिए।"
+      }
+    },
+    {
+      "question": {
+        "en": "The topic of an email is written in the…",
+        "hi": "ईमेल का विषय कहाँ लिखा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Subject",
+          "hi": "Subject"
+        },
+        {
+          "en": "Attachment",
+          "hi": "Attachment"
+        },
+        {
+          "en": "Signature",
+          "hi": "Signature"
+        },
+        {
+          "en": "CC",
+          "hi": "CC"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The email's subject is written in the Subject field.",
+        "hi": "ईमेल का विषय Subject में लिखा जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which button is used in Google Meet to show your screen?",
+        "hi": "Google Meet में अपनी स्क्रीन दिखाने के लिए किस बटन का उपयोग होता है?"
+      },
+      "options": [
+        {
+          "en": "Chat",
+          "hi": "Chat"
+        },
+        {
+          "en": "Present / Screen Share",
+          "hi": "Present / Screen Share"
+        },
+        {
+          "en": "Leave",
+          "hi": "Leave"
+        },
+        {
+          "en": "Participants",
+          "hi": "Participants"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Present/Screen Share button shows your screen to others.",
+        "hi": "Present/Screen Share बटन से अपनी स्क्रीन दूसरों को दिखाई जाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Why is email preferred over letters for formal communication today?",
+        "hi": "आज औपचारिक संचार के लिए पत्र की तुलना में ईमेल क्यों बेहतर है?"
+      },
+      "options": [
+        {
+          "en": "It is faster and keeps a written record",
+          "hi": "यह तेज़ है और लिखित रिकॉर्ड रखता है"
+        },
+        {
+          "en": "It needs stamps",
+          "hi": "इसमें टिकट लगते हैं"
+        },
+        {
+          "en": "It is slower but cheaper",
+          "hi": "यह धीमा पर सस्ता है"
+        },
+        {
+          "en": "It cannot be read",
+          "hi": "इसे पढ़ा नहीं जा सकता"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Email is fast, professional and provides a written record.",
+        "hi": "ईमेल तेज़, professional है और लिखित रिकॉर्ड देता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Formal communication needs…",
+        "hi": "औपचारिक संचार को चाहिए…"
+      },
+      "options": [
+        {
+          "en": "A written record",
+          "hi": "एक लिखित रिकॉर्ड"
+        },
+        {
+          "en": "Only shouting",
+          "hi": "केवल चिल्लाना"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        },
+        {
+          "en": "Only emojis",
+          "hi": "केवल इमोजी"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Formal communication requires a written record.",
+        "hi": "औपचारिक संचार में लिखित रिकॉर्ड ज़रूरी है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Email is preferred over letters today because it is…",
+        "hi": "आज पत्र की बजाय ईमेल पसंद है क्योंकि वह है…"
+      },
+      "options": [
+        {
+          "en": "Fast, professional and keeps a record",
+          "hi": "तेज़, professional और रिकॉर्ड रखता है"
+        },
+        {
+          "en": "Slower",
+          "hi": "धीमा"
+        },
+        {
+          "en": "Needs stamps",
+          "hi": "टिकट चाहता है"
+        },
+        {
+          "en": "Cannot be read",
+          "hi": "पढ़ा नहीं जा सकता"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Email is the fastest, most professional way to communicate.",
+        "hi": "ईमेल सबसे तेज़ व professional संवाद साधन है।"
+      }
+    },
+    {
+      "question": {
+        "en": "CC in an email is used to…",
+        "hi": "ईमेल में CC का उपयोग होता है…"
+      },
+      "options": [
+        {
+          "en": "Send a copy to additional people",
+          "hi": "अन्य लोगों को प्रतिलिपि भेजने"
+        },
+        {
+          "en": "Delete the email",
+          "hi": "ईमेल डिलीट करने"
+        },
+        {
+          "en": "Add music",
+          "hi": "संगीत जोड़ने"
+        },
+        {
+          "en": "Print",
+          "hi": "प्रिंट करने"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "CC sends copies to more people.",
+        "hi": "CC से अन्य लोगों को प्रतिलिपि जाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "The main message of the email is written in the…",
+        "hi": "ईमेल का मुख्य संदेश कहाँ लिखा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Body",
+          "hi": "Body"
+        },
+        {
+          "en": "Subject",
+          "hi": "Subject"
+        },
+        {
+          "en": "To",
+          "hi": "To"
+        },
+        {
+          "en": "Attachment name",
+          "hi": "Attachment नाम"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Body contains the main message.",
+        "hi": "Body में मुख्य संदेश लिखा जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "A good subject line is…",
+        "hi": "अच्छी Subject पंक्ति होती है…"
+      },
+      "options": [
+        {
+          "en": "Clear and brief",
+          "hi": "स्पष्ट और संक्षिप्त"
+        },
+        {
+          "en": "Empty always",
+          "hi": "सदैव खाली"
+        },
+        {
+          "en": "A full essay",
+          "hi": "पूरा निबंध"
+        },
+        {
+          "en": "Only emojis",
+          "hi": "केवल इमोजी"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The subject should clearly say what the email is about.",
+        "hi": "Subject ईमेल का विषय स्पष्ट बताए।"
+      }
+    },
+    {
+      "question": {
+        "en": "A professional email includes…",
+        "hi": "Professional ईमेल में होता है…"
+      },
+      "options": [
+        {
+          "en": "A polite greeting and proper closing",
+          "hi": "विनम्र शुभकामना और उचित समापन"
+        },
+        {
+          "en": "ALL CAPS shouting",
+          "hi": "ALL CAPS चिल्लाना"
+        },
+        {
+          "en": "Spelling mistakes",
+          "hi": "वर्तनी गलतियाँ"
+        },
+        {
+          "en": "Nothing polite",
+          "hi": "कुछ भी विनम्र नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Polite greeting, clear message, proper closing.",
+        "hi": "विनम्र अभिवादन, स्पष्ट संदेश, उचित समापन।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which should you AVOID in a professional email?",
+        "hi": "Professional ईमेल में क्या बचना चाहिए?"
+      },
+      "options": [
+        {
+          "en": "Spelling mistakes",
+          "hi": "वर्तनी की गलतियाँ"
+        },
+        {
+          "en": "Clear subject",
+          "hi": "स्पष्ट Subject"
+        },
+        {
+          "en": "Polite tone",
+          "hi": "विनम्र भाषा"
+        },
+        {
+          "en": "Proper closing",
+          "hi": "उचित समापन"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Avoid spelling mistakes and ALL CAPS.",
+        "hi": "वर्तनी गलतियाँ और ALL CAPS से बचें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Google Meet is used for…",
+        "hi": "Google Meet का उपयोग होता है…"
+      },
+      "options": [
+        {
+          "en": "Online meetings",
+          "hi": "ऑनलाइन मीटिंग"
+        },
+        {
+          "en": "Cooking",
+          "hi": "पाक-कला"
+        },
+        {
+          "en": "Printing",
+          "hi": "प्रिंटिंग"
+        },
+        {
+          "en": "Gardening",
+          "hi": "बागवानी"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Google Meet hosts online meetings.",
+        "hi": "Google Meet ऑनलाइन मीटिंग कराता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "The Present/Screen Share button is used to…",
+        "hi": "Present/Screen Share बटन से क्या होता है?"
+      },
+      "options": [
+        {
+          "en": "Show your screen to others",
+          "hi": "अपनी स्क्रीन दूसरों को दिखाना"
+        },
+        {
+          "en": "End the meeting",
+          "hi": "मीटिंग समाप्त करना"
+        },
+        {
+          "en": "Delete chat",
+          "hi": "चैट डिलीट करना"
+        },
+        {
+          "en": "Mute everyone",
+          "hi": "सबका म्यूट करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Screen share displays your screen to participants.",
+        "hi": "स्क्रीन शेयर से आपकी स्क्रीन सबको दिखती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "When the meeting is over, you should…",
+        "hi": "मीटिंग समाप्त होने पर आपको चाहिए…"
+      },
+      "options": [
+        {
+          "en": "Leave politely",
+          "hi": "विनम्रता से निकलना"
+        },
+        {
+          "en": "Stay forever",
+          "hi": "हमेशा बैठे रहना"
+        },
+        {
+          "en": "Shout goodbye",
+          "hi": "चिल्लाकर अलविदा कहना"
+        },
+        {
+          "en": "Switch off the internet",
+          "hi": "इंटरनेट बंद करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Leave the meeting politely when done.",
+        "hi": "काम पूरा होने पर विनम्रता से मीटिंग छोड़ें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Online meetings help discuss competition rules…",
+        "hi": "ऑनलाइन मीटिंग से प्रतियोगिता नियमों पर चर्चा…"
+      },
+      "options": [
+        {
+          "en": "Instantly with many people",
+          "hi": "तुरंत, कई लोगों के साथ होती है"
+        },
+        {
+          "en": "Only by post",
+          "hi": "केवल डाक से"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        },
+        {
+          "en": "After months",
+          "hi": "महीनों बाद"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Meetings connect many people instantly.",
+        "hi": "मीटिंग से कई लोग तुरंत जुड़ते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "To join a Google Meet, you need…",
+        "hi": "Google Meet में जुड़ने के लिए चाहिए…"
+      },
+      "options": [
+        {
+          "en": "The meeting link/code",
+          "hi": "मीटिंग लिंक/कोड"
+        },
+        {
+          "en": "A stamp",
+          "hi": "एक टिकट"
+        },
+        {
+          "en": "A printer",
+          "hi": "प्रिंटर"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Join using the meeting link or code.",
+        "hi": "लिंक/कोड से मीटिंग में शामिल होते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "An email address always contains…",
+        "hi": "ईमेल पते में सदैव होता है…"
+      },
+      "options": [
+        {
+          "en": "The @ symbol",
+          "hi": "@ प्रतीक"
+        },
+        {
+          "en": "A stamp",
+          "hi": "टिकट"
+        },
+        {
+          "en": "A printer name",
+          "hi": "प्रिंटर नाम"
+        },
+        {
+          "en": "Emojis only",
+          "hi": "केवल इमोजी"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Email addresses use @ to separate user and domain.",
+        "hi": "ईमेल पते में @ उपयोगकर्ता व डोमेन को अलग करता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Why keep the microphone muted when not speaking?",
+        "hi": "बोलते समय के अलावा माइक म्यूट क्यों रखें?"
+      },
+      "options": [
+        {
+          "en": "To avoid disturbing others with noise",
+          "hi": "शोर से दूसरों को परेशान होने से बचाने"
+        },
+        {
+          "en": "To save battery only",
+          "hi": "केवल बैटरी बचाने"
+        },
+        {
+          "en": "No reason",
+          "hi": "कोई कारण नहीं"
+        },
+        {
+          "en": "To hide",
+          "hi": "छिपने के लिए"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Muting stops background noise for everyone.",
+        "hi": "म्यूट से सबको बैकग्राउंड शोर नहीं सुनाई देता।"
+      }
+    },
+    {
+      "question": {
+        "en": "Letters took a long time, so for instant formal contact we use…",
+        "hi": "पत्रों में समय लगता था, इसलिए तुरंत औपचारिक संपर्क हेतु उपयोग करते हैं…"
+      },
+      "options": [
+        {
+          "en": "Email",
+          "hi": "ईमेल"
+        },
+        {
+          "en": "Pigeons",
+          "hi": "कबूतर"
+        },
+        {
+          "en": "Drums",
+          "hi": "ढोल"
+        },
+        {
+          "en": "Smoke signals",
+          "hi": "धुआँ संकेत"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Email communicates instantly with a written record.",
+        "hi": "ईमेल तुरंत संवाद करता है और रिकॉर्ड रखता है।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "The first email was sent in 1971 - before the World Wide Web even existed! Email is older than the web by about 20 years.",
+      "hi": "पहला ईमेल 1971 में भेजा गया - जब वर्ल्ड वाइड वेब भी नहीं था! ईमेल वेब से लगभग 20 साल बड़ा है।"
+    },
+    {
+      "en": "Around 340 billion emails are sent every single day - more than 3.9 million every second (and yes, many of them are spam!).",
+      "hi": "हर दिन लगभग 34 अरब करोड़ ईमेल भेजे जाते हैं - हर सेकंड 39 लाख से ज़्यादा (और हाँ, उनमें से बहुत-से स्पैम हैं!)।"
+    },
+    {
+      "en": "Gmail launched on 1 April 2004 and everyone thought it was a joke because it offered 1 GB storage - 500 times more than competitors!",
+      "hi": "Gmail 1 अप्रैल 2004 को लॉन्च हुआ और सबने उसे मज़ाक समझा क्योंकि उसने 1 GB स्टोरेज दिया था - प्रतिस्पर्धियों से 500 गुना ज़्यादा!"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "Email: instant written communication.",
+      "hi": "ईमेल: तुरंत लिखित संवाद।"
+    },
+    {
+      "en": "To: receiver's address.",
+      "hi": "To: प्राप्तकर्ता का पता।"
+    },
+    {
+      "en": "CC: copy to additional people.",
+      "hi": "CC: अन्य लोगों को प्रतिलिपि।"
+    },
+    {
+      "en": "Subject: the email's topic.",
+      "hi": "Subject: ईमेल का विषय।"
+    },
+    {
+      "en": "Body: the main message.",
+      "hi": "Body: मुख्य संदेश।"
+    },
+    {
+      "en": "Google Meet: online meeting tool.",
+      "hi": "Google Meet: ऑनलाइन मीटिंग उपकरण।"
+    },
+    {
+      "en": "Screen Share: showing your screen to others.",
+      "hi": "स्क्रीन शेयर: अपनी स्क्रीन दूसरों को दिखाना।"
+    }
+  ],
+  "conclusion": {
+    "en": "Email for instant written communication and well-mannered online meetings are the two key digital communication skills of today's world.",
+    "hi": "तुरंत लिखित संवाद के लिए ईमेल और शिष्टाचार-पूर्ण ऑनलाइन मीटिंग - ये आज के डिजिटल संचार के दो प्रमुख कौशल हैं।"
+  }
+}

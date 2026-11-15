@@ -1,0 +1,823 @@
+{
+  "id": "ch5",
+  "title": {
+    "en": "Being Future Ready-03 (Artificial Intelligence)",
+    "hi": "भविष्य के लिए तैयार-03 (कृत्रिम बुद्धिमत्ता)"
+  },
+  "class": 8,
+  "pages": "81-115",
+  "overview": {
+    "en": "This chapter introduces Artificial Intelligence: the difference between Natural and Artificial Intelligence, what AI is and how machines learn from data, AI's domains (Data Science, Computer Vision, Natural Language Processing), AI ethics and bias, and the Sustainable Development Goals (SDGs) with AI's impact on them.",
+    "hi": "यह अध्याय कृत्रिम बुद्धिमत्ता (AI) परिचित कराता है: Natural बनाम Artificial Intelligence का अंतर, AI क्या है और मशीनें डेटा से कैसे सीखती हैं, AI के domains (Data Science, Computer Vision, Natural Language Processing), AI नैतिकता और पूर्वाग्रह, तथा SDG और उन पर AI का प्रभाव।"
+  },
+  "sections": [
+    {
+      "id": "intelligence",
+      "title": {
+        "en": "Natural vs Artificial Intelligence",
+        "hi": "नैसर्गिक बनाम कृत्रिम बुद्धिमत्ता"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "Natural Intelligence",
+                "hi": "नैसर्गिक बुद्धिमत्ता"
+              },
+              "d": {
+                "en": "The intelligence nature gives to living beings - a child learns speaking by observing activities around them.",
+                "hi": "प्रकृति द्वारा जीवों को दी गई बुद्धि - बच्चा आसपास देखकर बोलना सीखता है।"
+              }
+            },
+            {
+              "t": {
+                "en": "Artificial Intelligence (AI)",
+                "hi": "कृत्रिम बुद्धिमत्ता (AI)"
+              },
+              "d": {
+                "en": "The intelligence built into apps and devices - an artificial way of giving machines the ability to think and learn like humans.",
+                "hi": "ऐप्स/उपकरणों में बनी बुद्धि - मशीनों को इंसान जैसी सोच-सीख देने का कृत्रिम तरीका।"
+              }
+            }
+          ]
+        },
+        {
+          "type": "remember",
+          "en": "Machines cannot truly think like humans - they are trained. They learn from the data and patterns around them.",
+          "hi": "मशीनें इंसान की तरह सच में नहीं सोचतीं - उन्हें train किया जाता है। वे आसपास के डेटा और पैटर्न से सीखती हैं।"
+        }
+      ]
+    },
+    {
+      "id": "machine-learning",
+      "title": {
+        "en": "How Machines Learn",
+        "hi": "मशीनें कैसे सीखती हैं"
+      },
+      "blocks": [
+        {
+          "type": "definition",
+          "en": "Like humans learn from experience, AI learns from data. Machines are trained with data and patterns, similar to how small children are taught.",
+          "hi": "जैसे हम अनुभव से सीखते हैं, AI डेटा से सीखता है। मशीनों को डेटा-पैटर्न से train किया जाता है, जैसे छोटे बच्चों को सिखाया जाता है।"
+        },
+        {
+          "type": "sub",
+          "title": {
+            "en": "Example: Google Maps",
+            "hi": "उदाहरण: Google Maps"
+          },
+          "items": [
+            {
+              "en": "Learns constantly from real-time location data of lakhs of phones.",
+              "hi": "लाखों फ़ोनों के real-time location डेटा से लगातार सीखता है।"
+            },
+            {
+              "en": "Uses old traffic information and road conditions.",
+              "hi": "पुरानी ट्रैफ़िक जानकारी और सड़क स्थिति का उपयोग करता है।"
+            },
+            {
+              "en": "Predicts which route has less traffic and shows the fastest path.",
+              "hi": "अनुमान लगाकर सबसे तेज़ रास्ता बताता है।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "domains",
+      "title": {
+        "en": "Domains of AI",
+        "hi": "AI के डोमेन"
+      },
+      "blocks": [
+        {
+          "type": "num",
+          "items": [
+            {
+              "t": {
+                "en": "1. Data Science",
+                "hi": "1. Data Science"
+              },
+              "d": {
+                "en": "The science of analysing data to extract information - e.g. analysing India's Olympic medals to understand performance.",
+                "hi": "डेटा विश्लेषण कर जानकारी निकालने का विज्ञान - जैसे ओलंपिक पदकों का विश्लेषण।"
+              }
+            },
+            {
+              "t": {
+                "en": "2. Computer Vision",
+                "hi": "2. Computer Vision"
+              },
+              "d": {
+                "en": "AI domain where computers see and understand images - face filters, tracking, Amazon Go store checkout.",
+                "hi": "कंप्यूटर चित्र देख-समझता है - फेस फ़िल्टर, ट्रैकिंग, Amazon Go चेकआउट।"
+              }
+            },
+            {
+              "t": {
+                "en": "3. Natural Language Processing (NLP)",
+                "hi": "3. NLP"
+              },
+              "d": {
+                "en": "Helps computers understand human language - Siri, Alexa, Cortana, voice search, converting handwriting to editable text.",
+                "hi": "कंप्यूटर को मानव भाषा समझने देता है - Siri/Alexa, वॉइस सर्च, हस्तलेखन से editable text।"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ethics-sdg",
+      "title": {
+        "en": "AI Ethics, Bias and SDGs",
+        "hi": "AI नैतिकता, पूर्वाग्रह और SDG"
+      },
+      "blocks": [
+        {
+          "type": "points",
+          "items": [
+            {
+              "en": "AI should be used ethically and fairly.",
+              "hi": "AI का उपयोग नैतिक व निष्पक्ष रूप से होना चाहिए।"
+            },
+            {
+              "en": "If the training data is unfair, AI can show bias - its decisions must be checked.",
+              "hi": "अनुचित डेटा से AI में पूर्वाग्रह आ सकता है - निर्णय जाँचे जाएँ।"
+            },
+            {
+              "en": "SDGs (Sustainable Development Goals) are global goals for a better world.",
+              "hi": "SDG बेहतर दुनिया के वैश्विक लक्ष्य हैं।"
+            },
+            {
+              "en": "Used responsibly, AI can positively affect health, education and environment goals.",
+              "hi": "ज़िम्मेदारी से उपयोग पर AI स्वास्थ्य, शिक्षा, पर्यावरण लक्ष्यों में सहायक है।"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keyTerms": [
+    {
+      "en": "Artificial Intelligence",
+      "hi": "मशीनों की कृत्रिम बुद्धिमत्ता"
+    },
+    {
+      "en": "Natural Intelligence",
+      "hi": "प्रकृति प्रदत्त बुद्धिमत्ता"
+    },
+    {
+      "en": "Data Science",
+      "hi": "डेटा विश्लेषण का विज्ञान"
+    },
+    {
+      "en": "Computer Vision",
+      "hi": "कंप्यूटर की देखने-समझने की क्षमता"
+    },
+    {
+      "en": "NLP",
+      "hi": "मानव भाषा समझने की तकनीक"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "en": "The intelligence given by nature to living beings is called…",
+        "hi": "प्रकृति द्वारा जीवों को दी गई बुद्धि क्या कहलाती है?"
+      },
+      "options": [
+        {
+          "en": "Artificial Intelligence",
+          "hi": "Artificial Intelligence"
+        },
+        {
+          "en": "Natural Intelligence",
+          "hi": "Natural Intelligence"
+        },
+        {
+          "en": "Machine Learning",
+          "hi": "Machine Learning"
+        },
+        {
+          "en": "Data Science",
+          "hi": "Data Science"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Nature-given intelligence in living beings is Natural Intelligence.",
+        "hi": "जीवों को प्रकृति से मिली बुद्धि Natural Intelligence कहलाती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which AI domain helps computers understand human language?",
+        "hi": "AI का कौन-सा डोमेन कंप्यूटर को मानव भाषा समझने में मदद करता है?"
+      },
+      "options": [
+        {
+          "en": "Data Science",
+          "hi": "Data Science"
+        },
+        {
+          "en": "Computer Vision",
+          "hi": "Computer Vision"
+        },
+        {
+          "en": "Natural Language Processing",
+          "hi": "Natural Language Processing"
+        },
+        {
+          "en": "Robotics",
+          "hi": "Robotics"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "NLP helps computers read, write and understand human language.",
+        "hi": "NLP कंप्यूटर को मानव भाषा पढ़ने, लिखने और समझने में मदद करता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Google Maps suggests the fastest route using…",
+        "hi": "Google Maps सबसे तेज़ रास्ता किसकी मदद से बताता है?"
+      },
+      "options": [
+        {
+          "en": "Machine learning from traffic data",
+          "hi": "ट्रैफ़िक डेटा से machine learning"
+        },
+        {
+          "en": "Guesswork",
+          "hi": "अंदाज़े से"
+        },
+        {
+          "en": "Only maps from books",
+          "hi": "केवल किताबों के नक्शे"
+        },
+        {
+          "en": "Random routes",
+          "hi": "यादृच्छिक रास्ते"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Google Maps learns from real-time location data, past traffic and road conditions.",
+        "hi": "Google Maps real-time location डेटा, पुरानी ट्रैफ़िक जानकारी और सड़क स्थिति से सीखता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Face filters in apps like Snapchat use which AI domain?",
+        "hi": "Snapchat जैसे ऐप्स के face filters कौन-सा AI डोमेन उपयोग करते हैं?"
+      },
+      "options": [
+        {
+          "en": "Computer Vision",
+          "hi": "Computer Vision"
+        },
+        {
+          "en": "Data Science",
+          "hi": "Data Science"
+        },
+        {
+          "en": "NLP",
+          "hi": "NLP"
+        },
+        {
+          "en": "Spreadsheet",
+          "hi": "Spreadsheet"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Computer Vision lets computers see and understand images, enabling face filters.",
+        "hi": "Computer Vision से कंप्यूटर चित्र देख-समझ सकता है, जिससे face filters चलते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "AI can show bias when…",
+        "hi": "AI में पूर्वाग्रह (bias) कब आ सकता है?"
+      },
+      "options": [
+        {
+          "en": "It learns from unfair data",
+          "hi": "वह अनुचित डेटा से सीखे"
+        },
+        {
+          "en": "It is too fast",
+          "hi": "वह बहुत तेज़ हो"
+        },
+        {
+          "en": "It is switched off",
+          "hi": "वह बंद हो"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "If the training data is unfair, the AI's decisions can be biased.",
+        "hi": "अगर training डेटा अनुचित हो तो AI के निर्णयों में पूर्वाग्रह आ सकता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "The three main domains of AI are…",
+        "hi": "AI के तीन मुख्य डोमेन हैं…"
+      },
+      "options": [
+        {
+          "en": "Data Science, Computer Vision, NLP",
+          "hi": "Data Science, Computer Vision, NLP"
+        },
+        {
+          "en": "Cooking, Sports, Art",
+          "hi": "पाक, खेल, कला"
+        },
+        {
+          "en": "Email, Print, Scan",
+          "hi": "ईमेल, प्रिंट, स्कैन"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "AI domains: Data Sciences, Computer Vision, Natural Language Processing.",
+        "hi": "AI डोमेन: Data Sciences, Computer Vision, NLP।"
+      }
+    },
+    {
+      "question": {
+        "en": "Data Science means…",
+        "hi": "Data Science का अर्थ है…"
+      },
+      "options": [
+        {
+          "en": "Analysing data to extract information",
+          "hi": "डेटा विश्लेषण कर जानकारी निकालने का विज्ञान"
+        },
+        {
+          "en": "Only storing files",
+          "hi": "केवल फ़ाइलें रखना"
+        },
+        {
+          "en": "Printing data",
+          "hi": "डेटा प्रिंट करना"
+        },
+        {
+          "en": "Deleting data",
+          "hi": "डेटा डिलीट करना"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Data Science extracts information by analysing data.",
+        "hi": "डेटा विश्लेषण से जानकारी निकालना Data Science है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Analysing India's Olympic medals table is an example of…",
+        "hi": "भारत के ओलंपिक पदकों की तालिका का विश्लेषण उदाहरण है…"
+      },
+      "options": [
+        {
+          "en": "Data Science",
+          "hi": "Data Science"
+        },
+        {
+          "en": "Computer Vision",
+          "hi": "Computer Vision"
+        },
+        {
+          "en": "Email",
+          "hi": "ईमेल"
+        },
+        {
+          "en": "Printing",
+          "hi": "प्रिंटिंग"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Coaches analyse medal data to understand performance.",
+        "hi": "कोच पदक-डेटा से प्रदर्शन समझते हैं - Data Science।"
+      }
+    },
+    {
+      "question": {
+        "en": "Computer Vision lets computers…",
+        "hi": "Computer Vision कंप्यूटर को क्या करने देती है?"
+      },
+      "options": [
+        {
+          "en": "See and understand images",
+          "hi": "चित्र देखने और समझने"
+        },
+        {
+          "en": "Smell food",
+          "hi": "खाना सूँघने"
+        },
+        {
+          "en": "Hear only",
+          "hi": "केवल सुनने"
+        },
+        {
+          "en": "Sleep",
+          "hi": "सोने"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "It's the AI domain where computers understand images.",
+        "hi": "यह AI डोमेन कंप्यूटर को चित्र समझने देता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which of these uses Computer Vision?",
+        "hi": "इनमें से Computer Vision का उपयोग कौन करता है?"
+      },
+      "options": [
+        {
+          "en": "Face filters and store checkouts",
+          "hi": "फेस फ़िल्टर और स्टोर चेकआउट"
+        },
+        {
+          "en": "Only alarm clocks",
+          "hi": "केवल अलार्म घड़ी"
+        },
+        {
+          "en": "Paper cups",
+          "hi": "कागज़ के कप"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Snapchat filters and Amazon Go checkout use Computer Vision.",
+        "hi": "Snapchat फ़िल्टर व Amazon Go चेकआउट Computer Vision उपयोग करते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "NLP helps computers…",
+        "hi": "NLP कंप्यूटर को क्या करने में मदद करता है?"
+      },
+      "options": [
+        {
+          "en": "Understand human language",
+          "hi": "मानव भाषा समझने"
+        },
+        {
+          "en": "Charge faster",
+          "hi": "तेज़ चार्ज होने"
+        },
+        {
+          "en": "Print pages",
+          "hi": "पेज प्रिंट करने"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "NLP helps computers read, write and understand language.",
+        "hi": "NLP से कंप्यूटर भाषा पढ़-समझ सकता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which assistants use NLP?",
+        "hi": "कौन-से असिस्टेंट NLP उपयोग करते हैं?"
+      },
+      "options": [
+        {
+          "en": "Siri, Alexa, Cortana",
+          "hi": "Siri, Alexa, Cortana"
+        },
+        {
+          "en": "Only calculators",
+          "hi": "केवल कैलकुलेटर"
+        },
+        {
+          "en": "Only printers",
+          "hi": "केवल प्रिंटर"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Smart assistants use NLP to understand speech.",
+        "hi": "स्मार्ट असिस्टेंट NLP से बोली समझते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Voice search while cooking is possible due to…",
+        "hi": "खाना बनाते हुए वॉइस सर्च संभव है क्योंकि…"
+      },
+      "options": [
+        {
+          "en": "Natural Language Processing",
+          "hi": "Natural Language Processing"
+        },
+        {
+          "en": "Spreadsheets",
+          "hi": "स्प्रेडशीट"
+        },
+        {
+          "en": "Printers",
+          "hi": "प्रिंटर"
+        },
+        {
+          "en": "Cables",
+          "hi": "केबल"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "NLP lets computers understand spoken language.",
+        "hi": "NLP से कंप्यूटर बोली हुई भाषा समझता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Handwriting converted to editable text uses…",
+        "hi": "हस्तलेखन को editable text में बदलने के लिए उपयोग होता है…"
+      },
+      "options": [
+        {
+          "en": "AI (Google Docs)",
+          "hi": "AI (Google Docs)"
+        },
+        {
+          "en": "A hammer",
+          "hi": "हथौड़ा"
+        },
+        {
+          "en": "Photocopy only",
+          "hi": "केवल फ़ोटोकॉपी"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "AI checked the handwriting and converted it to editable text.",
+        "hi": "AI ने हस्तलेखन जाँचकर editable text बनाया।"
+      }
+    },
+    {
+      "question": {
+        "en": "Machines learn from…",
+        "hi": "मशीनें किससे सीखती हैं?"
+      },
+      "options": [
+        {
+          "en": "Data and patterns around them",
+          "hi": "अपने आसपास के डेटा और पैटर्न"
+        },
+        {
+          "en": "Only rain",
+          "hi": "केवल बारिश"
+        },
+        {
+          "en": "Nothing",
+          "hi": "कुछ नहीं"
+        },
+        {
+          "en": "Dreams",
+          "hi": "सपने"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Machines train on data and patterns, like children are taught.",
+        "hi": "मशीनें डेटा-पैटर्न से train होती हैं, जैसे बच्चों को सिखाया जाता है।"
+      }
+    },
+    {
+      "question": {
+        "en": "Natural Intelligence is the intelligence given by…",
+        "hi": "Natural Intelligence किसकी दी हुई बुद्धि है?"
+      },
+      "options": [
+        {
+          "en": "Nature to living beings",
+          "hi": "प्रकृति द्वारा जीवों को"
+        },
+        {
+          "en": "Factories",
+          "hi": "कारखानों"
+        },
+        {
+          "en": "Cables",
+          "hi": "केबलों"
+        },
+        {
+          "en": "Printers",
+          "hi": "प्रिंटरों"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Nature gives living beings natural intelligence.",
+        "hi": "प्रकृति जीवों को नैसर्गिक बुद्धि देती है।"
+      }
+    },
+    {
+      "question": {
+        "en": "AI ethics means using AI…",
+        "hi": "AI नैतिकता का अर्थ है AI का उपयोग…"
+      },
+      "options": [
+        {
+          "en": "Fairly and responsibly",
+          "hi": "निष्पक्ष व ज़िम्मेदारी से"
+        },
+        {
+          "en": "Only for cheating",
+          "hi": "केवल धोखे के लिए"
+        },
+        {
+          "en": "Randomly",
+          "hi": "यादृच्छिक रूप से"
+        },
+        {
+          "en": "Never",
+          "hi": "कभी नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "AI must be used ethically and fairly.",
+        "hi": "AI नैतिक व निष्पक्ष तरीके से उपयोग होनी चाहिए।"
+      }
+    },
+    {
+      "question": {
+        "en": "AI decisions must be…",
+        "hi": "AI के निर्णय होने चाहिए…"
+      },
+      "options": [
+        {
+          "en": "Checked, because data may carry bias",
+          "hi": "जाँचे जाएँ, क्योंकि डेटा में पूर्वाग्रह हो सकता है"
+        },
+        {
+          "en": "Never questioned",
+          "hi": "कभी न पूछे जाएँ"
+        },
+        {
+          "en": "Always hidden",
+          "hi": "सदैव छिपाए जाएँ"
+        },
+        {
+          "en": "Random",
+          "hi": "यादृच्छिक"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Unfair data creates bias, so check AI decisions.",
+        "hi": "अनुचित डेटा से bias आता है, इसलिए निर्णय जाँचें।"
+      }
+    },
+    {
+      "question": {
+        "en": "SDG stands for…",
+        "hi": "SDG का पूरा नाम है…"
+      },
+      "options": [
+        {
+          "en": "Sustainable Development Goals",
+          "hi": "सस्टेनेबल डेवलपमेंट गोल्स"
+        },
+        {
+          "en": "Super Digital Games",
+          "hi": "सुपर डिजिटल गेम्स"
+        },
+        {
+          "en": "School Data Guide",
+          "hi": "स्कूल डेटा गाइड"
+        },
+        {
+          "en": "None",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "SDGs are global goals for a better world.",
+        "hi": "SDG बेहतर दुनिया के वैश्विक लक्ष्य हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Used responsibly, AI can positively affect SDGs like…",
+        "hi": "ज़िम्मेदारी से उपयोग करने पर AI किन SDG पर सकारात्मक प्रभाव डाल सकती है?"
+      },
+      "options": [
+        {
+          "en": "Health, education and environment",
+          "hi": "स्वास्थ्य, शिक्षा और पर्यावरण"
+        },
+        {
+          "en": "Nothing at all",
+          "hi": "कुछ भी नहीं"
+        },
+        {
+          "en": "Only video games",
+          "hi": "केवल वीडियो गेम"
+        },
+        {
+          "en": "Sleep",
+          "hi": "नींद"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "AI can support health, education and environment goals.",
+        "hi": "AI स्वास्थ्य, शिक्षा, पर्यावरण लक्ष्यों में सहायक हो सकती है।"
+      }
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "The term 'Artificial Intelligence' was coined in 1956 at the Dartmouth Conference - before space travel had even begun!",
+      "hi": "'Artificial Intelligence' शब्द 1956 में डार्टमाउथ सम्मेलन में गढ़ा गया - जब अंतरिक्ष यात्रा भी शुरू नहीं हुई थी!"
+    },
+    {
+      "en": "In 2016, AlphaGo defeated the world champion of Go - a game with more possible moves than there are atoms in the universe!",
+      "hi": "2016 में AlphaGo ने Go के विश्व विजेता को हराया - यह खेल इतने संभावित चालों रखता है जितने ब्रह्मांड में परमाणु नहीं हैं!"
+    },
+    {
+      "en": "Your voice assistant doesn't understand you at first - your speech travels to powerful servers, gets analysed by AI, and the answer flies back in under a second.",
+      "hi": "आपका वॉइस असिस्टेंट शुरू में आपको नहीं समझता - आपकी बात ताक़तवर सर्वरों तक जाती है, AI उसे परखता है, और जवाब एक सेकंड से भी कम में वापस आता है।"
+    },
+    {
+      "en": "AI helped astronomers discover new exoplanets - machines now help humans find new worlds in the night sky.",
+      "hi": "AI ने खगोलविदों को नए एक्सोप्लैनेट खोजने में मदद की - मशीनें अब इंसानों की रात के आकाश में नई दुनियाएँ खोजने में मदद करती हैं।"
+    }
+  ],
+  "quickRevision": [
+    {
+      "en": "AI: giving machines the ability to think and learn like humans.",
+      "hi": "AI: मशीनों को इंसान जैसी सोच-सीख देना।"
+    },
+    {
+      "en": "Natural Intelligence: nature-given intelligence of living beings.",
+      "hi": "नैसर्गिक बुद्धि: प्रकृति-प्रदत्त बुद्धि।"
+    },
+    {
+      "en": "Machine Learning: machines learning from data and patterns.",
+      "hi": "Machine Learning: डेटा-पैटर्न से सीखना।"
+    },
+    {
+      "en": "Data Science: extracting information by analysing data.",
+      "hi": "Data Science: डेटा विश्लेषण से जानकारी।"
+    },
+    {
+      "en": "Computer Vision: computers understanding images.",
+      "hi": "Computer Vision: चित्र समझना।"
+    },
+    {
+      "en": "NLP: computers understanding human language.",
+      "hi": "NLP: मानव भाषा समझना।"
+    },
+    {
+      "en": "Bias: unfairness entering AI through unfair data.",
+      "hi": "Bias: अनुचित डेटा से आया पूर्वाग्रह।"
+    },
+    {
+      "en": "SDG: Sustainable Development Goals.",
+      "hi": "SDG: सस्टेनेबल डेवलपमेंट गोल्स।"
+    }
+  ],
+  "conclusion": {
+    "en": "AI learns from data like we learn from experience - used ethically, it can help build a better, more sustainable world.",
+    "hi": "AI डेटा से सीखती है जैसे हम अनुभव से - नैतिक उपयोग से यह बेहतर, टिकाऊ दुनिया बनाने में सहायक है।"
+  }
+}

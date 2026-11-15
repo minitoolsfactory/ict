@@ -1,0 +1,10 @@
+// wrangler.jsonc
+{
+  "name": "ict",
+  "services": [
+    {
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "ict"
+    }
+  ]
+}

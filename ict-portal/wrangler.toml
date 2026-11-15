@@ -1,0 +1,6 @@
+# wrangler.toml
+name = "ict"
+
+[[services]]
+binding = "WORKER_SELF_REFERENCE"
+service = "ict"

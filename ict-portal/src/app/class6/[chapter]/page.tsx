@@ -11,6 +11,12 @@ import ch6 from "@/data/class6/ch6.json";
 
 const chapterMap: Record<string, Chapter> = {ch1: ch1 as unknown as Chapter, ch2: ch2 as unknown as Chapter, ch3: ch3 as unknown as Chapter, ch4: ch4 as unknown as Chapter, ch5: ch5 as unknown as Chapter, ch6: ch6 as unknown as Chapter};
 
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return Object.keys(chapterMap).map((chapter) => ({ chapter }));
+}
+
 export default async function ChapterPage({
   params,
 }: Readonly<{

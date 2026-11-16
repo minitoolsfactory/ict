@@ -1,10 +1,8 @@
-// wrangler.jsonc
 {
   "name": "ict",
-  "services": [
-    {
-      "binding": "WORKER_SELF_REFERENCE",
-      "service": "ict"
-    }
-  ]
+  "compatibility_date": "2026-11-13",
+  "assets": {
+    "directory": "./out",
+    "not_found_handling": "404-page"
+  }
 }

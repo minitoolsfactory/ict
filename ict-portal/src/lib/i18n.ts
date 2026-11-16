@@ -10,7 +10,7 @@ export const translations: Record<string, Record<Language, string>> = {
   "nav.language": { en: "Language", hi: "भाषा" },
 
   // Homepage
-  "home.title": { en: "ICT Learning Portal", hi: "आईसीटी लर्निंग पोर्टल" },
+  "home.title": { en: "ICT Book", hi: "आईसीटी बुक" },
   "home.badge": { en: "SCERT Delhi • Revised ICT Curriculum 2026", hi: "SCERT दिल्ली • संशोधित आईसीटी पाठ्यक्रम 2026" },
   "home.heroA": { en: "Learn ICT.", hi: "ICT सीखो।" },
   "home.heroB": { en: "Be Future Ready.", hi: "भविष्य के लिए तैयार हो जाओ।" },

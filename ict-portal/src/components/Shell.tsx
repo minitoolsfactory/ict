@@ -23,7 +23,7 @@ export function TopBar({ lang, onToggleLang, children }: TopBarProps) {
     <nav className="border-b border-ict-200/70 dark:border-ict-800/70 bg-white/70 dark:bg-ict-900/60 backdrop-blur-lg sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <Link href="/" aria-label="ICT Portal home">
+          <Link href="/" aria-label="ICT Book home">
             <Logo />
           </Link>
           <div className="flex items-center gap-2 sm:gap-3">
@@ -84,7 +84,7 @@ export function Footer({ lang }: { lang: Language }) {
         </div>
       </div>
       <div className="border-t border-ict-100 dark:border-ict-800/70 py-4 text-center text-xs text-ict-500 dark:text-ict-400">
-        © {new Date().getFullYear()} ICT Learning Portal • Built for learners, teachers & schools
+        © {new Date().getFullYear()} ICT Book • Built for learners, teachers & schools
       </div>
     </footer>
   );

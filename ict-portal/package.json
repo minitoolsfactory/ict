@@ -1,12 +1,12 @@
 {
-  "name": "ict-portal",
+  "name": "ictbook",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build --webpack",
-    "preview": "wrangler dev",
-    "deploy": "npm run build && wrangler deploy",
+    "preview": "wrangler pages dev ./out",
+    "deploy": "npm run build && wrangler pages deploy ./out --project-name=ictbook",
     "lint": "eslint ."
   },
   "dependencies": {

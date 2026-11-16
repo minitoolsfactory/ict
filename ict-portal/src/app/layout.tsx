@@ -15,9 +15,9 @@ const notoDevanagari = Noto_Sans_Devanagari({
 });
 
 export const metadata: Metadata = {
-  title: "ICT Learning Portal | Classes 6–8",
+  title: "ICT Book | Classes 6–8",
   description:
-    "Bilingual (English/हिंदी) ICT learning portal based on SCERT Delhi's revised ICT curriculum - chapter notes, quizzes, fun computer facts and unit test papers for Classes 6, 7 & 8.",
+    "ICT Book: bilingual (English/हिंदी) chapter notes, quizzes, fun computer facts and unit test papers for Classes 6, 7 & 8, based on SCERT Delhi's revised ICT curriculum.",
   icons: { icon: "/logo.svg" },
 };
 
